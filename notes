@@ -1,0 +1,11 @@
+tournamentId, tournamentName, player1id, player2id, color?, result
+
+create table test.games
+ ( tournamentId int(32), 
+   roundId   int,
+   player1id int,
+   player2id int,
+   color     int,
+   result    int,
+   primary key (tournamentId, round)
+);
