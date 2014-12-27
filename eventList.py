@@ -3,7 +3,7 @@ def getEventsFromMonth(month, year, debug=False):
         print "looking up events for %(month)s/%(year)s" % locals()
 
     datePrefix = '%(year)s%(month)s' % locals()
-    filename = '~jgutman/Dropbox/TourneyDataRepo/ratedlist/ratedlist%(year)s%(month)s' % locals()
+    filename = '~jgutman/Dropbox/TourneyDataRepoRepo/ratedlist/ratedlist%(year)s%(month)s' % locals()
     filename = os.path.expanduser(filename)
     try:
         data = open(filename)
@@ -14,7 +14,7 @@ def getEventsFromMonth(month, year, debug=False):
         subprocess.Popen(command.split(' '))
 
 def parseEvent(moth, year, debug=False):
-    filename = '~jgutman/Dropbox/TourneyDataRepo/ratedlist/ratedlist%(year)s%(month)s' % locals()
+    filename = '~jgutman/Dropbox/TourneyDataRepoRepo/ratedlist/ratedlist%(year)s%(month)s' % locals()
     filename = os.path.expanduser(filename)
         data = open(filename)
     for line in data:

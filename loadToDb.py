@@ -4,7 +4,7 @@ import subprocess
 def getPlayerTourneyHistory2(uscfId, tournamentId, section):
     matchupList = [{}]
     page = section
-    filename = '~jgutman/Dropbox/TourneyData/tourneyInfo/tourneyInfo-%(tournamentId)s.%(page)s' % locals()
+    filename = '~jgutman/Dropbox/TourneyDataRepo/tourneyInfo/tourneyInfo-%(tournamentId)s.%(page)s' % locals()
     filename = os.path.expanduser(filename)
     url = "http://www.uschess.org/msa/XtblMain.php?%(tournamentId)s.%(page)s" % locals()
     playerPID = -1

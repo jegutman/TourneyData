@@ -71,7 +71,7 @@ from findHighestRated import *
 for year, month in HISTORY:
 
     datePrefix = '%(year)s%(month)s' % locals()
-    filename = '~jgutman/Dropbox/TourneyData/ratedlist/ratedlist%(year)s%(month)s' % locals()
+    filename = '~jgutman/Dropbox/TourneyDataRepo/ratedlist/ratedlist%(year)s%(month)s' % locals()
     filename = os.path.expanduser(filename)
     print filename
     try:

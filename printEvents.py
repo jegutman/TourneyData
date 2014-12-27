@@ -84,7 +84,7 @@ for year, month in HISTORY:
     print "looking up events for %(month)s/%(year)s" % locals()
 
     datePrefix = '%(year)s%(month)s' % locals()
-    filename = '~jgutman/Dropbox/workspace/TourneyData/ratedlist/ratedlist%(year)s%(month)s' % locals()
+    filename = '~jgutman/Dropbox/workspace/TourneyDataRepo/ratedlist/ratedlist%(year)s%(month)s' % locals()
     filename = os.path.expanduser(filename)
     try:
         data = open(filename)

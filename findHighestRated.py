@@ -2,9 +2,9 @@ import sys, os, re, datetime
 import subprocess
 
 def getRating(uscfId):
-    filename = '~jgutman/Dropbox/workspace/TourneyData/uscfRatings'
+    filename = '~jgutman/Dropbox/workspace/TourneyDataRepo/uscfRatings'
     filename = os.path.expanduser(filename)
-    tmpfile = '~jgutman/Dropbox/workspace/TourneyData/onerating'
+    tmpfile = '~jgutman/Dropbox/workspace/TourneyDataRepo/onerating'
     filename = os.path.expanduser(tmpfile)
     lookup = subprocess.Popen(["grep", '%(uscfId)s' % locals(), filename], stdout=subprocess.PIPE).communicate()
     if not lookup[0]:
@@ -43,7 +43,7 @@ EXCLUDED_TOURNAMENTS = ['201309116302']
 tournamentId = '201301065832'
 def findHighestRated(tournamentId):
     assert False, "function depricated"
-    filename = '~jgutman/Dropbox/workspace/TourneyData/tourneyInfo/tourneyInfo-%(tournamentId)s.1' % locals()
+    filename = '~jgutman/Dropbox/workspace/TourneyDataRepo/tourneyInfo/tourneyInfo-%(tournamentId)s.1' % locals()
     filename = os.path.expanduser(filename)
     #print 'wget "http://www.uschess.org/msa/XtblMain.php?%(tournamentId)s.1" -O %(filename)s' % locals()
     url = "http://www.uschess.org/msa/XtblMain.php?%(tournamentId)s.1" % locals()
@@ -77,7 +77,7 @@ def findHighestRated(tournamentId):
 import time
 
 def findHighestRated2(tournamentId):
-    filename = '~jgutman/Dropbox/workspace/TourneyData/tourneyInfo/tourneyInfo-%(tournamentId)s.1' % locals()
+    filename = '~jgutman/Dropbox/workspace/TourneyDataRepo/tourneyInfo/tourneyInfo-%(tournamentId)s.1' % locals()
     filename = os.path.expanduser(filename)
     #print 'wget "http://www.uschess.org/msa/XtblMain.php?%(tournamentId)s.1" -O %(filename)s' % locals()
     url = "http://www.uschess.org/msa/XtblMain.php?%(tournamentId)s.1" % locals()
@@ -89,6 +89,7 @@ def findHighestRated2(tournamentId):
         time.sleep(3)
         subprocess.Popen(args, stdout=subprocess.PIPE, stderr=subprocess.PIPE).communicate()
         data = open(filename)
+    if tournamentId == '201412043252': print "LINE:", data
     active = False
     relevant = []
     players = []
@@ -115,6 +116,7 @@ def findHighestRated2(tournamentId):
             rating = b.group(0)
             rating = int(rating.replace('->', ''))
             players.append((playerId, name, rating))
+    if tournamentId == '201412043252': assert False, players
     players.sort(key=lambda a:a[2], reverse=True)
     if not players:
         print "NO PLAYERS in %(tournamentId)s" % locals()
@@ -122,7 +124,7 @@ def findHighestRated2(tournamentId):
     return players[0]
 
 def findAvgRating(tournamentId):
-    filename = '~jgutman/Dropbox/workspace/TourneyData/tourneyInfo/tourneyInfo-%(tournamentId)s.1' % locals()
+    filename = '~jgutman/Dropbox/workspace/TourneyDataRepo/tourneyInfo/tourneyInfo-%(tournamentId)s.1' % locals()
     filename = os.path.expanduser(filename)
     url = "http://www.uschess.org/msa/XtblMain.php?%(tournamentId)s.1" % locals()
     try:
@@ -183,7 +185,7 @@ def findAvgRating(tournamentId):
 
 def allResultsFromTournament(tournamentId):
     matchupList = [{}]
-    filename = '~jgutman/Dropbox/workspace/TourneyData/tourneyInfo/tourneyInfo-%(tournamentId)s.1' % locals()
+    filename = '~jgutman/Dropbox/workspace/TourneyDataRepo/tourneyInfo/tourneyInfo-%(tournamentId)s.1' % locals()
     filename = os.path.expanduser(filename)
     page = 1
     if '201006130511' == tournamentId:
@@ -253,7 +255,7 @@ def allResultsFromTournament(tournamentId):
 def getPlayerTourneyHistory2(uscfId, tournamentId, section):
     matchupList = [{}]
     page = section
-    filename = '~jgutman/Dropbox/workspace/TourneyData/tourneyInfo/tourneyInfo-%(tournamentId)s.%(page)s' % locals()
+    filename = '~jgutman/Dropbox/workspace/TourneyDataRepo/tourneyInfo/tourneyInfo-%(tournamentId)s.%(page)s' % locals()
     filename = os.path.expanduser(filename)
     url = "http://www.uschess.org/msa/XtblMain.php?%(tournamentId)s.%(page)s" % locals()
     playerPID = -1
@@ -361,7 +363,7 @@ def getPlayerHistory(uscfId):
     tourneys = []
     ood = False
     for page in range(1,10):
-        filename = '~jgutman/Dropbox/workspace/TourneyData/playerInfo/playerInfo-%(uscfId)s.%(page)s' % locals()
+        filename = '~jgutman/Dropbox/workspace/TourneyDataRepo/playerInfo/playerInfo-%(uscfId)s.%(page)s' % locals()
         filename = os.path.expanduser(filename)
         #print datetime.datetime.today().strftime('%s.%f')
         if ood:
@@ -406,7 +408,7 @@ def getPlayerTourneyHistory(uscfId, tournamentId, section):
     section = str(section)
     while len(section) < 3:
         section = '0' + section
-    filename = '~jgutman/Dropbox/workspace/TourneyData/playerInfo/%(tournamentId)s-%(section)s-%(uscfId)s' % locals()
+    filename = '~jgutman/Dropbox/workspace/TourneyDataRepo/playerInfo/%(tournamentId)s-%(section)s-%(uscfId)s' % locals()
     filename = os.path.expanduser(filename)
     try:
         data = open(filename)
