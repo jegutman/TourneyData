@@ -118,9 +118,9 @@ for year, month in HISTORY:
                 eventId, numDays, eventName, city, state, players, localPct = i
                 #if city == 'AUSTIN' and state == 'TX':
                 #print state
-                playerInfo = findHighestRated2(eventId)
+                playerInfo = findHighestRated2(eventId, True)
                 if state == 'TX' and city == 'AUSTIN':
-                    playerInfo = findHighestRated2(eventId)
+                    #playerInfo = findHighestRated2(eventId)
                     print playerInfo
                     #if playerInfo[2] > 2150:
                     #    print i, playerInfo

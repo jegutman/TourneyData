@@ -1,5 +1,7 @@
-import json
-import urllib
-
-results = json.load(urllib.urlopen("https://www.kimonolabs.com/api/a36urjfk?apikey=czRXtZDEYS8cpaGl1EhuYQ2sUbsbiMc6"))
-print results
+from getRatedEvents import *
+for year in range(2013, 2015):
+    for month in range(1, 13):
+        print year, str(month).zfill(2)
+        events = getRatedEvents(year, month, debug = True)
+        for event in events:
+            print "    ", " ".join(event)

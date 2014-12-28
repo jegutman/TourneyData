@@ -76,7 +76,7 @@ def findHighestRated(tournamentId):
 
 import time
 
-def findHighestRated2(tournamentId):
+def findHighestRated2(tournamentId, forceRefresh=False):
     filename = '~jgutman/Dropbox/TourneyDataRepo/tourneyInfo/tourneyInfo-%(tournamentId)s.1' % locals()
     filename = os.path.expanduser(filename)
     #print 'wget "http://www.uschess.org/msa/XtblMain.php?%(tournamentId)s.1" -O %(filename)s' % locals()
@@ -89,7 +89,7 @@ def findHighestRated2(tournamentId):
         time.sleep(3)
         subprocess.Popen(args, stdout=subprocess.PIPE, stderr=subprocess.PIPE).communicate()
         data = open(filename)
-    if tournamentId == '201412043252': print "LINE:", data
+    #if tournamentId == '201412043252': print "LINE:", data
     active = False
     relevant = []
     players = []
@@ -116,11 +116,14 @@ def findHighestRated2(tournamentId):
             rating = b.group(0)
             rating = int(rating.replace('->', ''))
             players.append((playerId, name, rating))
-    if tournamentId == '201412043252': assert False, players
+    #if tournamentId == '201412043252': assert False, players
     players.sort(key=lambda a:a[2], reverse=True)
     if not players:
         print "NO PLAYERS in %(tournamentId)s" % locals()
         players = [(None, None, None)]
+        if forceRefresh == True:
+            print "REFRESH"
+            return findHighestRated2(tournamentId, False)
     return players[0]
 
 def findAvgRating(tournamentId):
