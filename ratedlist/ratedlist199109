@@ -1,0 +1,178 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Strict//EN">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="http://www.uschess.org/Joomla_template_29/Joomla_css/template_css.css" rel="stylesheet" type="text/css" media="all" />
+<!--[if lt IE 7]>
+<link href="http://www.uschess.org/Joomla_template_29/Joomla_css/ie-only.css" rel="stylesheet" type="text/css" media="all" />
+<![endif]-->
+<link href="http://www.uschess.org/Joomla_template_29/Joomla_css/template_print.css" rel="stylesheet" type="text/css" media="print" />  
+<style>
+#page {
+ max-width:1200px;
+ width:expression(document.body.clientWidth > 1200? "1200px": "auto" );
+}
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header">
+<table width="100%" border="0" cellspacing="0">
+<tr>
+<td align="left" valign="top" class="noborder-white" width="175" height="68">
+<a href="http://www.uschess.org" class="noborder">
+<img class="noborder" id="logo" src="http://www.uschess.org/images/uscf_logo.gif" align="top">
+</a>
+</td>
+<td id="slogan" class="noborder-blue" valign="top">The United States Chess Federation</td>
+<td class="noborder-blue" align="right">
+<div class="moduletable-random">
+<iframe id="hdrad" src="http://www.uschess.org/index.php?option=com_content&task=view&Itemid=344&pos=advert1"
+        frameborder="0" framespacing="0" hspace="0" vspace="0" scrolling="no" width="140" height="64">
+</iframe>
+</div>
+</td>
+</tr>
+<tr class="noborder-white">
+<td id="underlogo">&nbsp;</td>
+<td align="right" class="noborder-lightblue" id="toolbar" colspan="2">
+<div class="moduletable-toolbar">
+<ul id="mainlevel">
+<li><a href="http://www.uschess.org/press" class="mainlevel" >Press</a></li>
+<li><a href="http://www.uschess.org/advertising" class="mainlevel" >Advertising</a></li>
+<li><a href="http://www.uschess.org/contact" class="mainlevel" >Contact</a></li>
+<li><a href="http://www.uschess.org/join" class="mainlevel" >Join/Renew</a></li>
+<li><a href="http://www.uschess.org/uscfsales/" target="_blank" class="mainlevel" >Shop</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div><!-- end of header -->
+<div id="lwrap">
+<div id="wrap">
+<div id="content">
+<div class="inside">
+<span class="pathway">
+<a href="http://www.uschess.org/" class="pathway">USCF Home</a>
+<img src="http://www.uschess.org/Joomla_template_29/Joomla_images/arrow.png" alt="arrow" />
+</span>
+<br />
+<table class="blog" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top">
+<noscript>You do not have Javascript enabled, please enable it</noscript>
+<form method='post' action='events-rated.php'><center><h3>Events Rated List (by month and state)</h3>
+</center><p><table><tr><td>Month (MM/YYYY)</td><td colspan=2><input type=text name=month size=8 value='09/1991'></td></tr><tr><td valign=top>State Codes </td><td colspan=2><input type=text name=states size=30 value='AL AK AS AZ AR CA CO CT DE DC FL GA GU HI ID IL IN IA KS KY LA ME MD MH MA MI FM MN MS MO MT NE NV NH NJ NM NY NC ND MP OH OK OR PW PA PR RI SC SD TN TX UT VT VA VI WA WV WI WY'><br><font size=-1>Use two character state codes, like IA or KS</font></td></tr><tr><td colspan=2><input type=submit name=mode value='Search'><tr><th>Event ID</th><th>Days&nbsp;</th><th>Event Name</th><th>City</th><th>State&nbsp;</th><th>Players&nbsp;</th><th>Local %</th></tr><tr><td><a href=http://www.uschess.org/msa/XtblMain.php?199109020730>199109020730</a></td><td>3</td><td>OHIO CHESS CONGRESS</td><td>COLUMBUS</td><td>OH</td><td>&nbsp;151</td><td>&nbsp;0.0</td></tr><tr><td><a href=http://www.uschess.org/msa/XtblMain.php?199109145070>199109145070</a></td><td>1</td><td>SHANDA DIXON MEMORIAL</td><td>LINCOLN</td><td>NE</td><td>&nbsp;41</td><td>&nbsp;24.4</td></tr><tr><td><a href=http://www.uschess.org/msa/XtblMain.php?199109155010>199109155010</a></td><td>2</td><td>A ROMP THROUGH THE MIDWEST</td><td>CHICAGO</td><td>IL</td><td>&nbsp;16</td><td>&nbsp;0.0</td></tr><tr><td><a href=http://www.uschess.org/msa/XtblMain.php?199109182250>199109182250</a></td><td>29</td><td>SDCC SUMMER ROUND ROBIN</td><td>SAN DIEGO</td><td>CA</td><td>&nbsp;48</td><td>&nbsp;70.8</td></tr><tr><td><a href=http://www.uschess.org/msa/XtblMain.php?199109205420>199109205420</a></td><td>1</td><td>1991 NEB CLASS A EXPERT</td><td>OMAHA</td><td>NE</td><td>&nbsp;4</td><td>&nbsp;50.0</td></tr><tr><td><a href=http://www.uschess.org/msa/XtblMain.php?199109242750>199109242750</a></td><td>22</td><td>NCC SEPTEMBER SWISS</td><td>WESTFORD</td><td>MA</td><td>&nbsp;24</td><td>&nbsp;79.2</td></tr><tr><td><a href=http://www.uschess.org/msa/XtblMain.php?199109275060>199109275060</a></td><td>22</td><td>FRIDAY SWISS 92 G</td><td>BILLERICA</td><td>MA</td><td>&nbsp;26</td><td>&nbsp;61.5</td></tr><tr><td><a href=http://www.uschess.org/msa/XtblMain.php?199109272330>199109272330</a></td><td>8</td><td>ARLINGTON LADDER</td><td>ARLINGTON</td><td>VA</td><td>&nbsp;59</td><td>&nbsp;79.7</td></tr><tr><td><a href=http://www.uschess.org/msa/XtblMain.php?199109295060>199109295060</a></td><td>2</td><td>1991 NEBRASKA CLOSED CHESS CHA</td><td>OMAHA</td><td>NE</td><td>&nbsp;6</td><td>&nbsp;0.0</td></tr><tr><td colspan=5>'Local' means that based on current USCF records a player lived within 25 miles of the tournament site.</td></tr><tr><td colspan=3>MSA <a href=http://msa.uschess.org>Home Page</a></td></tr>
+<p><p><p><p><p><p><p></table></form>
+</td></tr></tbody></table>
+<div id="banner_sep" align="center" style="clear:both;">
+<br />
+&nbsp;
+<br />
+</div>
+<div id="the_banner">
+<center>
+<iframe src="http://www.uschess.org/index.php?option=com_content&task=view&Itemid=344&pos=banner"
+        width="468" height="60" frameborder="0" framespacing="0" hspace="0" vspace="0" scrolling="no">
+</iframe>
+</center>
+</div>
+</div><!-- end of inside -->
+</div><!-- end of content -->
+</div><!-- end of wrap -->
+<div id="sidebar1">
+<div class="navcontainer">
+<div class="moduletable-search">
+<form action="http://www.uschess.org/index.php?option=com_search&amp;Itemid=5" method="get">
+	<div class="search-search">
+		<input name="searchword" id="mod_search_searchword" maxlength="20" alt="search" class="inputbox-search" type="text" size="14" value="search"  onblur="if(this.value=='') this.value='search';" onfocus="if(this.value=='search') this.value='';" />
+        <input type="submit" value="go" class="button-search"/>
+    </div>
+  	<input type="hidden" name="option" value="com_search" />
+   	<input type="hidden" name="searchphrase" value="all" />
+   	<input type="hidden" name="Itemid" value="5" />
+</form>
+</div>
+<div class="moduletable-leftnav">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr align='left'><td><a href='http://www.uschess.org' class='mainlevel' >USCF Home</a></td></tr>
+<tr align='left'><td><a href='http://www.uscfsales.com/?Click=28303' class='mainlevel' >Shop USCFSales</a></td></tr>
+<tr align='left'><td><a href='http://www.uschess.org/new' class='mainlevel' >New to Chess?</a></td></tr>
+<tr align='left'><td><a href='http://www.uschess.org/chesslife' class='mainlevel' >Chess Life Magazine</a></td></tr>
+<tr align='left'><td><a href='http://www.uschess.org/clo' class='mainlevel' >Chess Life Online</a></td></tr>
+<tr align='left'><td><a href='http://www.uschess.org/players' class='mainlevel' >Players &amp; Ratings</a></td></tr>
+<tr align='left'><td><a href='http://www.uschess.org/content/view/10014/95' class='mainlevel' >National Events</a></td></tr>
+<tr align='left'><td><a href='http://www.uschess.org/tourneys' class='mainlevel' >Clubs &amp; Tournaments</a></td></tr>
+<tr align='left'><td><a href='http://www.uschess.org/scholastics' class='mainlevel' >Scholastic / College</a></td></tr>
+<tr align='left'><td><a href='http://www.uschess.org/activities' class='mainlevel' >Activities & Interests</a></td></tr>
+<tr align='left'><td><a href='http://www.uschess.org/about' class='mainlevel' >About USCF</a></td></tr>
+<tr align='left'><td><a href='http://www.uschess.org/forums' class='mainlevel' >Forums</a></td></tr>
+<tr align='left'><td><a href='http://www.uschess.org/sitemap' class='mainlevel' >Site Map</a></td></tr>
+</table>
+</div>
+
+<iframe src="http://www.uschess.org/LoginIframe" width="158" height="210" frameborder="0" framespacing="0"
+hspace="0" vspace="0" scrolling="no">
+</iframe>
+</div><!-- end of navcontainer -->
+</div><!-- end of sidebar1 -->
+  
+</div><!-- end of lwrap -->
+</div><!-- end of page -->
+<div id="footer">
+<div class="moduletable-footermenu">
+<table width="100%" border="0" cellpadding="0" cellspacing="1"><tr><td nowrap="nowrap">
+<a href="http://www.uschess.org/content/view/7859/389/" class="mainlevel">Terms of Use</a>
+<a href="http://www.uschess.org/content/view/7550/390/" class="mainlevel">Privacy</a>
+<a href="http://www.uschess.org/content/view/7860/388/" class="mainlevel">Colophon</a>
+<a href="http://www.uschess.org/component/option,com_rss/feed,RSS2.0/no_html,1/"><img align="absmiddle" src="http://www.uschess.org/Joomla_template_29/Joomla_images/rssfeed14x14.gif" alt="RSS 2.0" name="RSS20" align="middle" border="0">&nbsp;RSS</a>
+</td></tr></table>
+</div>
+<div class="moduletable">
+&copy; Copyright
+<script type="text/javascript">
+var d = new Date();
+var curr_year = d.getFullYear();
+document.write('2007-' + curr_year + ',');
+</script>
+United States Chess Federation. All rights reserved.
+</div>
+<br />
+</div><!-- end of footer -->
+<!-- Designer: Chess Magnet LLC -->
+</body>
+<script type="text/javascript">
+     var divHeight, minHeight = 600;
+
+     div = document.getElementById('sidebar1');
+
+     if (div) {
+        divHeight = minHeight;
+        if (div.offsetHeight)           divHeight = div.offsetHeight;
+        else if (div.style.pixelHeight) divHeight = div.style.pixelHeight;
+
+        if (minHeight < divHeight) minHeight = divHeight;
+     }
+
+     div = document.getElementById('sidebar2');
+
+     if (div) {
+        divHeight = minHeight;
+        if (div.offsetHeight)           divHeight = div.offsetHeight;
+        else if (div.style.pixelHeight) divHeight = div.style.pixelHeight;
+
+        if (minHeight < divHeight) minHeight = divHeight;
+     }
+
+     // get the content <div>
+     div = document.getElementById('content');
+     if (div) {
+        divHeight = 0;
+        if (div.offsetHeight)           divHeight = div.offsetHeight;
+        else if (div.style.pixelHeight) divHeight = div.style.pixelHeight;
+        if (divHeight < minHeight)      div.style.height = minHeight+"px";
+        if (divHeight > 32767)          div.style.overflow = 'visible';
+     }
+</script>
+   
+</html>
+

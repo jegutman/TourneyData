@@ -1,11 +1,9 @@
-import subprocess
-
 import os.path,urllib2
 from HTMLParser import HTMLParser
 #month, year = 12, 2014
-def getRatedEvents(month, year, force=False, debug=False):
+def getRatedEvents(year, month, force=False, debug=False):
     month = str(month).zfill(2)
-    filename = 'ratedlist/ratedlist-%(year)s%(month)s' % locals()
+    filename = 'ratedlist/ratedlist%(year)s%(month)s' % locals()
     if not os.path.isfile(filename) or force:
         if debug:
             print "not found %s" % filename
@@ -15,11 +13,13 @@ def getRatedEvents(month, year, force=False, debug=False):
         #creating HTTP Req
         req = urllib2.Request(url, data % locals())
         f = urllib2.urlopen(req)
+        savefile = open(filename, 'w')
+        savefile.writelines(f.read())
+        savefile.close()
     else:
         if debug:
             print "found %s" % filename
-        f = open(filename)
-
+    f = open(filename)
 
     # create a subclass and override the handler methods
     class MyHTMLParser(HTMLParser):
@@ -29,7 +29,8 @@ def getRatedEvents(month, year, force=False, debug=False):
         lastTag = None
 
         def handle_starttag(self, tag, attrs):
-            self.lastTag = tag
+            if tag not in ('a', ):
+                self.lastTag = tag
             if tag == 'table':
                 self.inTable = True
             if tag == 'tr':
@@ -38,8 +39,9 @@ def getRatedEvents(month, year, force=False, debug=False):
             if tag == 'table':
                 self.inTable = False
             if tag == 'tr':
-                if len(self.pendingEvent) == 6:
-                    self.ratedEvents.append(self.pendingEvent)
+                if len(self.pendingEvent) == 7:
+                    if str(self.pendingEvent[0])[:4] == str(year):
+                        self.ratedEvents.append(self.pendingEvent)
         def handle_data(self, data):
             if self.lastTag == 'td':
                 self.pendingEvent.append(data)
