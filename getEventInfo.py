@@ -3,7 +3,6 @@ import re
 from HTMLParser import HTMLParser
 from collections import deque
 
-possibleResults = []
 
 class PlayerEvent():
     def __init__(self, playerId, uscfId):
@@ -13,10 +12,14 @@ class PlayerEvent():
         self.ratings = {}
         pass
 
-    def ratingChange(ratingType, pre, preprov, post, postprov):
+    def ratingChange(self, ratingType, pre, preprov, post, postprov):
         self.ratings[ratingType] = (pre, preprov, post, postprov)
 
+    def addGames(self, games):
+        self.games = games
+
 def parseResult(lines):
+    possibleResults = []
     # parse last line
     uscfId = None
     groupId  = None
@@ -38,20 +41,22 @@ def parseResult(lines):
     games = [g for g in zip(matchgroups[1:], colorgroups[2:]) if len(g) == 2 and g[0]]
     score, norm = games[0]
     games = games[1:]
-    global possibleResults
+    possibleResults
     for g in games:
         res = g[0].split(' ')[0]
         if res not in possibleResults:
             possibleResults.append(res)
     #print playerName, uscfId, groupId, games
     #print "%30s" % playerName, uscfId, groupId, len(games), games
-    playerResult = PlayerEvent(groupId, uscfId) 
+    player = PlayerEvent(groupId, uscfId) 
+    player.addGames(games)
     ratingChanges = [r for r in lines[-1].split('|') if '->' in r]
     for change in ratingChanges:
         m = re.search('([A-Z]): *(\d*)(.*)-> *(\d*)(.*)', change)
         ratingType, pre, preProvisional, post, postProvisional = m.groups()
-        print m.groups()
-    pass
+        player.ratingChange(ratingType, pre, preProvisional, post, postProvisional)
+        print "%-30s" % playerName, m.groups()
+    return player
 
 def getEventInfo(tournamentId, force=False, debug=False):
     year, month = tournamentId[:4], tournamentId[4:6]
@@ -118,6 +123,8 @@ def getEventInfo(tournamentId, force=False, debug=False):
         def handle_data(self, data):
             if self.playerIdBox: 
                 self.dataHistory.append('groupId='+data)
+                if int(data) == 1:
+                    self.tournaments.append([])
             if self.uscfIdBox:
                 self.dataHistory.append('playerName='+data)
             self.dataHistory.append(data)
@@ -128,7 +135,8 @@ def getEventInfo(tournamentId, force=False, debug=False):
                 if 'USCF' in data:
                     self.dataHistory.clear()
                     return
-                something = parseResult(resultLines)
+                player = parseResult(resultLines)
+                self.tournaments[-1].append(player)
                 self.dataHistory.clear()
             if len(self.tagHistory) < 1: 
                 pass
@@ -137,8 +145,10 @@ def getEventInfo(tournamentId, force=False, debug=False):
             pass
     parser = MyHTMLParser()
     parser.feed(f.read())
+    #print len(parser.tournaments)
+    return parser.tournaments
 
 #getEventInfo('201409018812', debug=True)
-getEventInfo('201410134032', debug=True)
+#getEventInfo('201410134032', debug=True)
 #getEventInfo('201409216042', debug=True)
-print possibleResults
+#print possibleResults
