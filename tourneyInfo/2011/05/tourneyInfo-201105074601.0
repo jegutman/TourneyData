@@ -1,0 +1,591 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+<title>USCF MSA - Cross Table for VATT3 (Event 201105074601)</title>
+<style type='text/css'>
+body {margin-left: 10; margin-right: 10; margin-top: 0; margin-bottom: 0;  background-color: #40B7D3; min-width: 800px;}
+td {font: helvetica; color: black; font-size: 100%;}
+input {font: helvetica; font-size: 100%; color: black; font-weight: bold; padding-left: 4;}
+input.submit_debug {font: helvetica; font-size: 10pt; color: red; font-weight: normal; background-color: #BFBFBF;}
+input.submit {font: helvetica; font-size: 10pt; color: black; font-weight: normal; background-color: #BFBFBF;}
+input.submit_dis {font: helvetica; font-size: 10pt; color: grey; background-color: #BFBFBF;}
+select {font: helvetica; font-size: 10pt;  color: brown}
+a.topbar-line1 {font: helvetica; font-size: 100%; color: white; text-decoration: none; padding-left: 10;}
+a.topbar-line2 {font: helvetica; font-size: 100%; color: #0373A4; text-decoration: underline; padding-left: 10;}
+/* a {font: helvetica; font-size: 100%; color: black; text-decoration: none; padding-left: 10;} */
+
+/*  table {border: 2px solid red; margin: 0px;}
+td{border: 1px dotted purple; padding: 2px; } */
+
+table.topbar {border-style: none; border-width: 0; border: 0; margin: 0; padding: 0; cell-padding: 0; background-color: #40B7D3;}
+tr.topbar {padding: 5;  margin-top: 5; margin-bottom: 5; background-color: #40B7D3; }
+td.topbar {padding: 3; color: white; font: helvetica; font-size: 100%; font-weight: bold;}
+td.topbar-side {padding: 0; color: black; font: helvetica; font-size: 100%; background-color: #FFFFFF;}
+td.topbar-middle {padding: 0; color: black; font: helvetica; font-size: 100%; background-color: #FFFFFF;}
+td.topbar-line2 {padding: 0; padding: 3; font: helvetica; font-size: 100%; color: #0373A4; background-color: #C7EAFB;}
+td.topbar-line2-right {text-align: right; padding: 0; padding: 3; font: helvetica; font-size: 100%; color: #0373A4; background-color: #C7EAFB;}
+td.topbar-right {text-align: right; padding: 0; color: blue; font: helvetica; font-size: 100%;  background-color: #40B7D3;}
+span.right {text-align: right; background-color: #E0FFFF}
+</style></head>
+<body >
+<table width=100% class=topbar cellspacing=0><tr class=topbar></td><td class=topbar width=100% ><table cellspacing=0 class=topbar width=100%><tr class=topbar><td class=topbar >US Chess Federation - Member Services Area</td><td class=topbar-right >
+<a class=topbar-line1 href=http://main.uschess.org/content/blogcategory/30/319>Press</a>
+<a class=topbar-line1 href=http://main.uschess.org/content/view/7850/385>Advertising</a>
+<a class=topbar-line1 href=http://main.uschess.org/content/blogsection/12/35>About the USCF</a>
+<a class=topbar-line1 href=http://main.uschess.org/component/option,com_wrapper/Itemid,327>Contact Us</a></td></tr>
+</table></td></tr>
+
+<tr class=topbar>
+<td class=topbar-line2>
+<a class=topbar-line2 href=http://www.uschess.org>Return to USCF Home Page</a>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp;&nbsp;&nbsp;&nbsp;
+<a class=topbar-line2 href=Index.php>MSA Home</a>
+<a class=topbar-line2 href=http://www.uschess.org/datapage/player-search.php>Members</a>
+<a class=topbar-line2 href=AffLst.php>Affiliates</a>
+<a class=topbar-line2 href=http://www.uschess.org/datapage/event-search.php>Tournaments</a>
+<a class=topbar-line2 href=HelpTxt.php>Help</a>
+</td></tr>
+<tr class=topbar><td class=topbar-middle>
+<center>
+<table border=0 valign=top>
+
+<form method=post action=AffDtlMain.php>
+
+&nbsp;
+<p>
+<table border=1 bgcolor=FFFFFF cellpadding=0 cellspacing=0>
+<tr>
+<td>
+<table border=0 bgcolor=FFFFFF width=800 cellpadding=3 cellspacing=0>
+
+<tr>
+<td colspan=3 bgcolor=DDDDDD align=center>
+<b>Event Summary</b>
+</td>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Event
+</td>
+<td width=1 rowspan=10></td>
+<td>
+<b>VATT3</b> &nbsp;<small>(201105074601)</small>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE>
+Location
+</td>
+<td>
+<b>VIENNA, VA &nbsp;22182      &nbsp;USA                  </b>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE>
+Event Date(s)
+</td>
+<td>
+<b>2011-05-07 </b>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE>
+Sponsoring Affiliate
+</td>
+<td>
+<b><a href=http://msa.uschess.org/AffDtlMain.php?H6026021>SILVER KNIGHTS CHESS</a></b> &nbsp;<small>(H6026021)</small>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE>
+Chief&nbsp; TD
+</td>
+<td>
+<b>DANIEL WEISSBARTH</b> &nbsp;<small>(12866607)</small>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE>
+Processed
+</td>
+<td>
+<b>Received: 2011-05-08 &nbsp; Entered: 2011-05-08 &nbsp; Rated: 2011-05-08</b>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE valign=top>
+Stats
+</td>
+<td>
+<b>1 Section(s),&nbsp; 88 Players</b>
+<br><font color=blue>The ratings shown on this page are not official published ratings and may change from time to time.  Using them for pairing purposes in tournaments should only be done if this has been advertised in all advance publicity and is announced to all players at the tournament.</font>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+
+</table>
+<p>
+<a anchor="Section1"></a>
+<p>
+<table border=1 bgcolor=FFFFFF cellpadding=0 cellspacing=0>
+<tr>
+<td>
+<table border=0 width=800 bgcolor=FFFFFF  cellpadding=3 cellspacing=0>
+<tr>
+<td colspan=3 align=center bgcolor=DDDDFF>
+<b>Section 1 - RATED K-8</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Chf. Asst. TD
+</td>
+<td width=1></td>
+<td>
+<b>TIMOTHY R ROGALSKI</b> &nbsp;<small>(10133025)</small>
+</td>
+</tr>
+
+<tr>
+<td width=120 bgcolor=EEEEEE>
+Section Date(s)
+</td>
+<td width=1></td>
+<td>
+<b>2011-05-07</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Processed
+</td>
+<td width=1></td>
+<td>
+<b>Received: 2011-05-08 &nbsp; Entered: 2011-05-08 &nbsp; Rated: 2011-05-08 Re-Rated: 2014-01-28</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Stats
+</td>
+<td width=1></td>
+<td>
+<b>4 Rounds,&nbsp; 88 Players;  &nbsp;K Factor: F  &nbsp;Rating Sys: D  &nbsp;Tnmt Type: S  <br>Time Control: G/30</b>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan=3>
+<pre>
+-----------------------------------------------------------------------
+<i> * Click on a Pairing Number to see the Player's Opponents.
+ * Click on a Player's Name for more information about the Player.</i>
+<font size=+2>Crosstable data is <b>not</b> shown in tiebreak order and <font color=red ><b><i>does NOT reflect <br>any distribution of trophies or prize monies.</font></font></b></i><a href=http://www.uschess.org/msa/FAQ.php>(See Frequent Questions)</a>
+<i>Crosstable data is shown as reported to the USCF by the Tournament Director.  <br>Please contact the TD to report any crosstable errors.</i>
+Note:  The information below the "Total Pts" score shows the highest norm earned in this event.<br>For more information on norms, see <a href=http://www.glicko.net/ratings/titles.pdf>The USCF Title System</a>.
+-----------------------------------------------------------------------
+ Pair | Player Name                     |Total|Round|Round|Round|Round| 
+ Num  | USCF ID / Rtg (Pre->Post)       | Pts |  1  |  2  |  3  |  4  | 
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201105074601-001-13479566>1</a> | <a href=MbrDtlMain.php?13479566>ALEX J PENG</a>                     |4.0  |W  39|W  12|W  18|W  36|
+   VA | 13479566 / R: 1550   ->1554     |     |     |     |     |     |
+      |            Q: 1465   ->1472     |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201105074601-001-13888493>2</a> | <a href=MbrDtlMain.php?13888493>PARV AHUJA</a>                      |4.0  |W  63|W  21|W  38|W  20|
+   VA | 13888493 / R: 1363   ->1367     |     |     |     |     |     |
+      |            Q: 1188   ->1198     |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201105074601-001-13808546>3</a> | <a href=MbrDtlMain.php?13808546>MANDIP RICHARD BHADRA</a>           |4.0  |W  51|W  17|W  36|W  14|
+   VA | 13808546 / R: 1271   ->1288     |     |     |     |     |     |
+      |            Q: 1271   ->1287     |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201105074601-001-14065881>4</a> | <a href=MbrDtlMain.php?14065881>MAGGIE LUO</a>                      |4.0  |W  31|W  13|W  42|W  37|
+   VA | 14065881 / R: 1124   ->1165     |     |     |     |     |     |
+      |            Q: 1109   ->1136     |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201105074601-001-14504488>5</a> | <a href=MbrDtlMain.php?14504488>NEHA PATTANAIK</a>                  |4.0  |W  58|W  19|W  62|W  49|
+   VA | 14504488 / R: 1042   ->1065     |     |     |     |     |     |
+      |            Q:  738   -> 837     |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201105074601-001-14616447>6</a> | <a href=MbrDtlMain.php?14616447>AUSTIN ZHANG</a>                    |4.0  |W  75|W  15|W  69|W  59|
+   VA | 14616447 / R:  859P7 -> 932P11  |     |     |     |     |     |
+      |            Q:  837P7 -> 904P11  |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201105074601-001-14569788>7</a> | <a href=MbrDtlMain.php?14569788>ANEESH BOREDA</a>                   |4.0  |W  87|W  39|W  66|W  47|
+   VA | 14569788 / R:  733   -> 811     |     |     |     |     |     |
+      |            Q:  707P25-> 789     |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201105074601-001-14545871>8</a> | <a href=MbrDtlMain.php?14545871>SHISHIR SAIKUMAR SRIRAMOJU</a>      |4.0  |W  23|W  73|X   0|W  62|
+   VA | 14545871 / R:  159P7 -> 358P10  |     |     |     |     |     |
+      |            Q:  152P7 -> 341P10  |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201105074601-001-13312455>9</a> | <a href=MbrDtlMain.php?13312455>LUKE EMANUEL</a>                    |3.5  |D  30|W  28|W  61|W  16|
+   VA | 13312455 / R:  689   -> 789     |     |     |     |     |     |
+      |            Q:  687   -> 777     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14671331>10</a> | <a href=MbrDtlMain.php?14671331>ROHAN HIRANI</a>                    |3.5  |W  26|W  84|X   0|D  56|
+   VA | 14671331 / R: Unrated-> 714P3   |     |     |     |     |     |
+      |            Q: Unrated-> 687P3   |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14540434>11</a> | <a href=MbrDtlMain.php?14540434>JUSTIN PRINCE</a>                   |3.5  |D  72|W  30|W  75|W  76|
+   VA | 14540434 / R:  101P4 -> 301P8   |     |     |     |     |     |
+      |            Q:  101P4 -> 299P8   |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-13901205>12</a> | <a href=MbrDtlMain.php?13901205>VEDANT BALU</a>                     |3.0  |W  67|L   1|W  35|W  60|
+   VA | 13901205 / R: 1110   ->1119     |     |     |     |     |     |
+      |            Q: 1090   ->1096     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14001076>13</a> | <a href=MbrDtlMain.php?14001076>NEEYANTH KOPPARAPU</a>              |3.0  |W  22|L   4|W  41|W  38|
+   VA | 14001076 / R: 1062   ->1058     |     |     |     |     |     |
+      |            Q:  883   -> 914     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14650376>14</a> | <a href=MbrDtlMain.php?14650376>ANISH SRINIKETH</a>                 |3.0  |W  82|W  47|W  60|L   3|
+   TX | 14650376 / R: 1073P3 ->1026P7   |     |     |     |     |     |
+      |            Q: 1072P3 ->1025P7   |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14347625>15</a> | <a href=MbrDtlMain.php?14347625>CHARLIE GUNN</a>                    |3.0  |W  76|L   6|W  45|W  61|
+   VA | 14347625 / R:  972   -> 953     |     |     |     |     |     |
+      |            Q:  889   -> 877     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14591562>16</a> | <a href=MbrDtlMain.php?14591562>NATHAN TANKEL</a>                   |3.0  |W  54|W  72|W  59|L   9|
+   VA | 14591562 / R:  960P7 -> 903P11  |     |     |     |     |     |
+      |            Q:  893P7 -> 847P11  |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14671373>17</a> | <a href=MbrDtlMain.php?14671373>LOGAN DUFFY</a>                     |3.0  |W  70|L   3|W  87|W  48|
+   VA | 14671373 / R: Unrated-> 890P4   |     |     |     |     |     |
+      |            Q: Unrated-> 877P4   |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14267134>18</a> | <a href=MbrDtlMain.php?14267134>GREGORY REVESZ</a>                  |3.0  |W  78|W  60|L   1|W  66|
+   VA | 14267134 / R:  878   -> 887     |     |     |     |     |     |
+      |            Q:  870   -> 878     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14246452>19</a> | <a href=MbrDtlMain.php?14246452>RAHUL RAJAN</a>                     |3.0  |W  56|L   5|W  88|W  40|
+   VA | 14246452 / R:  877   -> 880     |     |     |     |     |     |
+      |            Q:  847   -> 838     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14551090>20</a> | <a href=MbrDtlMain.php?14551090>CHARLES JIEHAN TAI</a>              |3.0  |W  64|W  50|W  37|L   2|
+   VA | 14551090 / R:  808P23-> 859     |     |     |     |     |     |
+      |            Q:  778P17-> 830P21  |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14658085>21</a> | <a href=MbrDtlMain.php?14658085>ASHER BARNET TANKEL</a>             |3.0  |W  65|L   2|W  44|W  53|
+   VA | 14658085 / R:  612P4 -> 697P8   |     |     |     |     |     |
+      |            Q:  578P4 -> 668P8   |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14464983>22</a> | <a href=MbrDtlMain.php?14464983>JOSHUA BACHMAN</a>                  |3.0  |L  13|W  43|W  65|W  44|
+   VA | 14464983 / R:  460P16-> 650P20  |     |     |     |     |     |
+      |            Q:  430P16-> 615P20  |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14013937>23</a> | <a href=MbrDtlMain.php?14013937>ANDREW MINH-QUAN VO</a>             |3.0  |L   8|X   0|W  49|W  25|
+   VA | 14013937 / R:  623   -> 617     |     |     |     |     |     |
+      |            Q:  533   -> 540     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14671290>24</a> | <a href=MbrDtlMain.php?14671290>CONLEY KU</a>                       |3.0  |L  40|W  85|W  27|X   0|
+   VA | 14671290 / R: Unrated-> 574P3   |     |     |     |     |     |
+      |            Q: Unrated-> 564P3   |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14591577>25</a> | <a href=MbrDtlMain.php?14591577>JARED TANKEL</a>                    |3.0  |W  84|X   0|W  40|L  23|
+   VA | 14591577 / R:  514P7 -> 538P10  |     |     |     |     |     |
+      |            Q:  484P7 -> 504P10  |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14487677>26</a> | <a href=MbrDtlMain.php?14487677>NIKHIL SAIKRISHNA CHINTALAPATI</a>  |3.0  |L  10|W  56|W  71|X   0|
+   VA | 14487677 / R:  482   -> 535     |     |     |     |     |     |
+      |            Q:  431   -> 496     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14671200>27</a> | <a href=MbrDtlMain.php?14671200>MADISON ROCHE</a>                   |3.0  |W  88|W  71|L  24|W  85|
+   VA | 14671200 / R: Unrated-> 471P4   |     |     |     |     |     |
+      |            Q: Unrated-> 462P4   |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14622827>28</a> | <a href=MbrDtlMain.php?14622827>LILIAN GLORIA ZHANG</a>             |3.0  |W  85|L   9|W  74|W  46|
+   VA | 14622827 / R:  349P4 -> 470P8   |     |     |     |     |     |
+      |            Q:  318P4 -> 447P8   |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14671394>29</a> | <a href=MbrDtlMain.php?14671394>JASON CHEAH</a>                     |3.0  |L  62|W  58|X   0|W  84|
+   VA | 14671394 / R: Unrated-> 435P3   |     |     |     |     |     |
+      |            Q: Unrated-> 418P3   |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14669435>30</a> | <a href=MbrDtlMain.php?14669435>KEVIN MICHAEL MORITZ</a>            |2.5  |D   9|L  11|W  54|W  45|
+   VA | 14669435 / R: Unrated-> 592P4   |     |     |     |     |     |
+      |            Q: Unrated-> 579P4   |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14671126>31</a> | <a href=MbrDtlMain.php?14671126>JOEL CHEIFITZ</a>                   |2.5  |L   4|W  83|D  57|W  65|
+   VA | 14671126 / R: Unrated-> 523P4   |     |     |     |     |     |
+      |            Q: Unrated-> 511P4   |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14671346>32</a> | <a href=MbrDtlMain.php?14671346>ELI ENGELHARDT</a>                  |2.5  |W  61|D  80|L  46|W  69|
+   VA | 14671346 / R: Unrated-> 473P4   |     |     |     |     |     |
+      |            Q: Unrated-> 463P4   |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14671420>33</a> | <a href=MbrDtlMain.php?14671420>JACOB ANDERSON</a>                  |2.5  |L  59|W  77|W  80|D  72|
+   VA | 14671420 / R: Unrated-> 367P4   |     |     |     |     |     |
+      |            Q: Unrated-> 359P4   |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14670343>34</a> | <a href=MbrDtlMain.php?14670343>ISAAC ARTHUR DAVID</a>              |2.5  |X   0|L  48|W  67|D  78|
+   VA | 14670343 / R: Unrated-> 337P3   |     |     |     |     |     |
+      |            Q: Unrated-> 321P3   |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-13741720>35</a> | <a href=MbrDtlMain.php?13741720>ISAAC KARACHUNSKY</a>               |2.0  |W  52|L  36|L  12|W  82|
+   VA | 13741720 / R:  929   -> 889     |     |     |     |     |     |
+      |            Q:  882   -> 845     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14001082>36</a> | <a href=MbrDtlMain.php?14001082>KAVYA KOPPARAPU</a>                 |2.0  |W  48|W  35|L   3|L   1|
+   VA | 14001082 / R:  777   -> 846     |     |     |     |     |     |
+      |            Q:  775   -> 837     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14671236>37</a> | <a href=MbrDtlMain.php?14671236>BEN MONDORO</a>                     |2.0  |W  68|W  41|L  20|L   4|
+   VA | 14671236 / R: Unrated-> 737P4   |     |     |     |     |     |
+      |            Q: Unrated-> 720P4   |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14246954>38</a> | <a href=MbrDtlMain.php?14246954>SAKETH REDDY NADRIGA</a>            |2.0  |W  53|W  42|L   2|L  13|
+   VA | 14246954 / R:  705   -> 731     |     |     |     |     |     |
+      |            Q:  688   -> 704     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14457490>39</a> | <a href=MbrDtlMain.php?14457490>ALAN KITTEL</a>                     |2.0  |L   1|L   7|W  70|W  87|
+   VA | 14457490 / R:  745P21-> 728P25  |     |     |     |     |     |
+      |            Q:  725P21-> 707P25  |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14622812>40</a> | <a href=MbrDtlMain.php?14622812>BOWEN GRANT ZHANG</a>               |2.0  |W  24|W  62|L  25|L  19|
+   VA | 14622812 / R:  625P4 -> 626P8   |     |     |     |     |     |
+      |            Q:  616P4 -> 606P8   |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14640934>41</a> | <a href=MbrDtlMain.php?14640934>CLAIRE REVESZ</a>                   |2.0  |W  86|L  37|L  13|W  68|
+   VA | 14640934 / R:  633P18-> 618P22  |     |     |     |     |     |
+      |            Q:  635P18-> 613P22  |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14463644>42</a> | <a href=MbrDtlMain.php?14463644>ETHAN ZHOU</a>                      |2.0  |W  83|L  38|L   4|W  64|
+   VA | 14463644 / R:  619   -> 614     |     |     |     |     |     |
+      |            Q:  636   -> 625     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14464062>43</a> | <a href=MbrDtlMain.php?14464062>NITHYA CHINTALAPATI</a>             |2.0  |L  44|L  22|W  68|W  50|
+   VA | 14464062 / R:  652   -> 610     |     |     |     |     |     |
+      |            Q:  583   -> 551     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14671388>44</a> | <a href=MbrDtlMain.php?14671388>BENJAMIN CHOE</a>                   |2.0  |W  43|W  63|L  21|L  22|
+   VA | 14671388 / R: Unrated-> 602P4   |     |     |     |     |     |
+      |            Q: Unrated-> 566P4   |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14540440>45</a> | <a href=MbrDtlMain.php?14540440>RACHEL NAIDICH</a>                  |2.0  |W  74|W  59|L  15|L  30|
+   VA | 14540440 / R:  591P6 -> 578P10  |     |     |     |     |     |
+      |            Q:  569P6 -> 551P10  |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14569794>46</a> | <a href=MbrDtlMain.php?14569794>VIRAJ BOREDA</a>                    |2.0  |W  55|L  75|W  32|L  28|
+   VA | 14569794 / R:  596   -> 532     |     |     |     |     |     |
+      |            Q:  564P23-> 503     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14257782>47</a> | <a href=MbrDtlMain.php?14257782>ASHNA BHATNAGAR</a>                 |2.0  |W  57|L  14|W  52|L   7|
+   VA | 14257782 / R:  467P19-> 507P23  |     |     |     |     |     |
+      |            Q:  451P19-> 494P23  |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14469617>48</a> | <a href=MbrDtlMain.php?14469617>TED MINH TRAN</a>                   |2.0  |L  36|W  34|W  78|L  17|
+   VA | 14469617 / R:  447P25-> 493     |     |     |     |     |     |
+      |            Q:  425   -> 473     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14671132>49</a> | <a href=MbrDtlMain.php?14671132>DOMENIC ALLEGRA</a>                 |2.0  |W  71|W  88|L  23|L   5|
+   VA | 14671132 / R: Unrated-> 460P4   |     |     |     |     |     |
+      |            Q: Unrated-> 423P4   |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14535104>50</a> | <a href=MbrDtlMain.php?14535104>AJAY POTLURI</a>                    |2.0  |W  77|L  20|W  83|L  43|
+   VA | 14535104 / R:  458P18-> 455P22  |     |     |     |     |     |
+      |            Q:  447P18-> 440P22  |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14572728>51</a> | <a href=MbrDtlMain.php?14572728>JEREMY STEPHEN RECHNER</a>          |2.0  |L   3|W  87|W  82|L  52|
+   VA | 14572728 / R:  481P3 -> 443P7   |     |     |     |     |     |
+      |            Q:  483P3 -> 423P7   |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14540235>52</a> | <a href=MbrDtlMain.php?14540235>JOHN MYLES FLYNN</a>                |2.0  |L  35|W  67|L  47|W  51|
+   VA | 14540235 / R:  230P4 -> 364P8   |     |     |     |     |     |
+      |            Q:  228P4 -> 355P8   |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14513042>53</a> | <a href=MbrDtlMain.php?14513042>ANDREW CHIN</a>                     |2.0  |L  38|W  57|W  86|L  21|
+   VA | 14513042 / R:  100P2 -> 323P6   |     |     |     |     |     |
+      |            Q:  100P2 -> 313P6   |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14540262>54</a> | <a href=MbrDtlMain.php?14540262>AARON LIN</a>                       |2.0  |L  16|W  55|L  30|W  74|
+   VA | 14540262 / R:  172P8 -> 238P12  |     |     |     |     |     |
+      |            Q:  155P8 -> 223P12  |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14591598>55</a> | <a href=MbrDtlMain.php?14591598>GAURAV MANTRI</a>                   |2.0  |L  46|L  54|W  72|W  75|
+   VA | 14591598 / R:  101P4 -> 173P8   |     |     |     |     |     |
+      |            Q:  101P4 -> 167P8   |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14671174>56</a> | <a href=MbrDtlMain.php?14671174>JOSHUA TANNENBAUM</a>               |1.5  |L  19|L  26|W  73|D  10|
+   VA | 14671174 / R: Unrated-> 474P4   |     |     |     |     |     |
+      |            Q: Unrated-> 444P4   |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14669833>57</a> | <a href=MbrDtlMain.php?14669833>WIL GOODMAN</a>                     |1.5  |L  47|L  53|D  31|W  86|
+   VA | 14669833 / R: Unrated-> 274P4   |     |     |     |     |     |
+      |            Q: Unrated-> 267P4   |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14671215>58</a> | <a href=MbrDtlMain.php?14671215>MARSHALL REED</a>                   |1.5  |L   5|L  29|W  85|D  73|
+   VA | 14671215 / R: Unrated-> 267P4   |     |     |     |     |     |
+      |            Q: Unrated-> 257P4   |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14003094>59</a> | <a href=MbrDtlMain.php?14003094>WILLIAM YE WANG</a>                 |1.0  |W  33|L  45|L  16|L   6|
+   VA | 14003094 / R:  657   -> 615     |     |     |     |     |     |
+      |            Q:  628   -> 586     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14540345>60</a> | <a href=MbrDtlMain.php?14540345>VINCENT ALLEGRA</a>                 |1.0  |W  66|L  18|L  14|L  12|
+   VA | 14540345 / R:  464P4 -> 518P8   |     |     |     |     |     |
+      |            Q:  437P4 -> 495P8   |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14540351>61</a> | <a href=MbrDtlMain.php?14540351>SYLESH SURESH</a>                   |1.0  |L  32|W  69|L   9|L  15|
+   VA | 14540351 / R:  559P4 -> 497P8   |     |     |     |     |     |
+      |            Q:  554P4 -> 489P8   |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14540330>62</a> | <a href=MbrDtlMain.php?14540330>WILLIAM KIM</a>                     |1.0  |W  29|L  40|L   5|L   8|
+   VA | 14540330 / R:  499P10-> 467P14  |     |     |     |     |     |
+      |            Q:  471P10-> 437P14  |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14540256>63</a> | <a href=MbrDtlMain.php?14540256>CHRIS LONGINO</a>                   |1.0  |L   2|L  44|L  64|W  83|
+   VA | 14540256 / R:  526P8 -> 453P12  |     |     |     |     |     |
+      |            Q:  507P8 -> 435P12  |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14303542>64</a> | <a href=MbrDtlMain.php?14303542>VARSHA VENKATESH</a>                |1.0  |L  20|L  65|W  63|L  42|
+   VA | 14303542 / R:  445   -> 415     |     |     |     |     |     |
+      |            Q:  437   -> 406     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14671153>65</a> | <a href=MbrDtlMain.php?14671153>ALEXANDER WAHID</a>                 |1.0  |L  21|W  64|L  22|L  31|
+   VA | 14671153 / R: Unrated-> 386P4   |     |     |     |     |     |
+      |            Q: Unrated-> 366P4   |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14671180>66</a> | <a href=MbrDtlMain.php?14671180>NIKHIL SASTRY</a>                   |1.0  |L  60|W  78|L   7|L  18|
+   VA | 14671180 / R: Unrated-> 384P4   |     |     |     |     |     |
+      |            Q: Unrated-> 368P4   |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14548378>67</a> | <a href=MbrDtlMain.php?14548378>JARED CHEIFETZ</a>                  |1.0  |L  12|L  52|L  34|W  70|
+   VA | 14548378 / R:  398P4 -> 322P8   |     |     |     |     |     |
+      |            Q:  365P4 -> 292P8   |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14671435>68</a> | <a href=MbrDtlMain.php?14671435>JOSHUA AMURAO</a>                   |1.0  |L  37|W  86|L  43|L  41|
+   VA | 14671435 / R: Unrated-> 305P4   |     |     |     |     |     |
+      |            Q: Unrated-> 284P4   |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14671441>69</a> | <a href=MbrDtlMain.php?14671441>XAVIER ALMODOVAR</a>                |1.0  |W  80|L  61|L   6|L  32|
+   NM | 14671441 / R: Unrated-> 262P4   |     |     |     |     |     |
+      |            Q: Unrated-> 257P4   |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14540407>70</a> | <a href=MbrDtlMain.php?14540407>EDGAR GUERRA</a>                    |1.0  |L  17|W  82|L  39|L  67|
+   VA | 14540407 / R:  100P1 -> 238P5   |     |     |     |     |     |
+      |            Q:  100P1 -> 192P5   |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14671310>71</a> | <a href=MbrDtlMain.php?14671310>REECE JOHNSON</a>                   |1.0  |L  49|L  27|L  26|W  88|
+   VA | 14671310 / R: Unrated-> 218P4   |     |     |     |     |     |
+      |            Q: Unrated-> 192P4   |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14671367>72</a> | <a href=MbrDtlMain.php?14671367>THOMAS EFFLEY</a>                   |1.0  |D  11|L  16|L  55|D  33|
+   VA | 14671367 / R: Unrated-> 189P4   |     |     |     |     |     |
+      |            Q: Unrated-> 185P4   |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14671168>73</a> | <a href=MbrDtlMain.php?14671168>ERIC VU</a>                         |1.0  |D  79|L   8|L  56|D  58|
+   VA | 14671168 / R: Unrated-> 159P4   |     |     |     |     |     |
+      |            Q: Unrated-> 147P4   |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14671304>74</a> | <a href=MbrDtlMain.php?14671304>THOMAS KIRCHNER</a>                 |1.0  |L  45|W  76|L  28|L  54|
+   VA | 14671304 / R: Unrated-> 145P4   |     |     |     |     |     |
+      |            Q: Unrated-> 131P4   |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14583912>75</a> | <a href=MbrDtlMain.php?14583912>ANTHONY ARCOMONA</a>                |1.0  |L   6|W  46|L  11|L  55|
+   VA | 14583912 / R:  106P6 -> 143P10  |     |     |     |     |     |
+      |            Q:  106P6 -> 139P10  |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14671147>76</a> | <a href=MbrDtlMain.php?14671147>LUCCA WILLIAMS</a>                  |1.0  |L  15|L  74|W  77|L  11|
+   VA | 14671147 / R: Unrated-> 105P4   |     |     |     |     |     |
+      |            Q: Unrated-> 105P4   |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14671414>77</a> | <a href=MbrDtlMain.php?14671414>DANIEL BELAJIC</a>                  |1.0  |L  50|L  33|L  76|W  80|
+   VA | 14671414 / R: Unrated-> 105P4   |     |     |     |     |     |
+      |            Q: Unrated-> 105P4   |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14536485>78</a> | <a href=MbrDtlMain.php?14536485>BENJAMIN ERIC MCCLAIN</a>           |0.5  |L  18|L  66|L  48|D  34|
+   VA | 14536485 / R:  287P7 -> 243P11  |     |     |     |     |     |
+      |            Q:  278P7 -> 231P11  |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14670762>79</a> | <a href=MbrDtlMain.php?14670762>AKHIL SUDEV REDDY</a>               |0.5  |D  73|F   0|U   0|U   0|
+   VA | 14670762 / R: Unrated-> 189P1   |     |     |     |     |     |
+      |            Q: Unrated-> 178P1   |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14671263>80</a> | <a href=MbrDtlMain.php?14671263>REBECCA MATTHEWS</a>                |0.5  |L  69|D  32|L  33|L  77|
+   VA | 14671263 / R: Unrated-> 103P4   |     |     |     |     |     |
+      |            Q: Unrated-> 103P4   |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14553948>81</a> | <a href=MbrDtlMain.php?14553948>SAARTHAK SETHI</a>                  |0.0  |F   0|U   0|U   0|U   0|
+   VA | 14553948 / R:  713P24-> 713P24  |     |     |     |     |     |
+      |            Q:  681P24-> 681P24  |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14592283>82</a> | <a href=MbrDtlMain.php?14592283>SUCHET JANARDAN SAPRE</a>           |0.0  |L  14|L  70|L  51|L  35|
+   VA | 14592283 / R:  423P14-> 347P18  |     |     |     |     |     |
+      |            Q:  304P8 -> 232P12  |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14540220>83</a> | <a href=MbrDtlMain.php?14540220>SEAN MCLAUGHLIN</a>                 |0.0  |L  42|L  31|L  50|L  63|
+   VA | 14540220 / R:  278P3 -> 191P7   |     |     |     |     |     |
+      |            Q:  272P3 -> 181P7   |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14671352>84</a> | <a href=MbrDtlMain.php?14671352>TED ELLIS</a>                       |0.0  |L  25|L  10|F   0|L  29|
+   VA | 14671352 / R: Unrated-> 112P3   |     |     |     |     |     |
+      |            Q: Unrated-> 101P3   |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14669827>85</a> | <a href=MbrDtlMain.php?14669827>CHRISTOPHER ZANE</a>                |0.0  |L  28|L  24|L  58|L  27|
+   VA | 14669827 / R: Unrated-> 101P4   |     |     |     |     |     |
+      |            Q: Unrated-> 101P4   |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14671257>86</a> | <a href=MbrDtlMain.php?14671257>SAM MCKEE</a>                       |0.0  |L  41|L  68|L  53|L  57|
+   VA | 14671257 / R: Unrated-> 101P4   |     |     |     |     |     |
+      |            Q: Unrated-> 101P4   |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14671284>87</a> | <a href=MbrDtlMain.php?14671284>DAVID LACALLE</a>                   |0.0  |L   7|L  51|L  17|L  39|
+   VA | 14671284 / R: Unrated-> 101P4   |     |     |     |     |     |
+      |            Q: Unrated-> 101P4   |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201105074601-001-14671408>88</a> | <a href=MbrDtlMain.php?14671408>CHARLIE CAKE</a>                    |0.0  |L  27|L  49|L  19|L  71|
+   VA | 14671408 / R: Unrated-> 101P4   |     |     |     |     |     |
+      |            Q: Unrated-> 101P4   |     |     |     |     |     |
+-----------------------------------------------------------------------
+Note:  Performances satisfying the requirements for norms are now being shown for events in the *Total Pts* column.<br>It may take a week for a recently rated event to have norms computed for it.
+</pre>
+</td>
+</tr>
+</table>
+</table>
+</form>
+&nbsp;
+<p>
+<hr>
+<p>
+<center>
+<p>
+<p>
+<font size=-1>
+Session  / 0
+<br>Version 1.00b / 2003-10-16
+</font>
+<br>
+<font size=-1>
+<i>
+USCF Member Services Area - Copyright 2002-2012 by the <a href="http://www.USChess.org">US Chess Federation</a> -  All Rights Reserved
+<br><a href="http://msa.uschess.org/FAQ.php">Frequently Asked Questions</a>
+<br>Report problems to <a href="mailto:msafeedback@uschess.org">msafeedback@uschess.org</a>
+<br><a href="http://www.USChess.org">Return to USCF Home Page</a>
+</i>
+</font>
+</center>
+<p>
+<hr>
+<p>
+</body>
+</html>

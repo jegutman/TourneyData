@@ -5,7 +5,7 @@ import sys
 #for year in range(1991, 2013):
 count = 0
 #for year in range(1991, 1992):
-for year in range(2013, 1990, -1):
+for year in range(2011, 1990, -1):
     for month in range(1, 13):
         print year, str(month).zfill(2)
         events = getRatedEvents(year, month, debug = True, force=False)
@@ -17,5 +17,5 @@ for year in range(2013, 1990, -1):
             print ""
             count += 1
             print "COUNT", count
-            if count > 12000:
+            if count > 40000:
                 sys.exit(1)

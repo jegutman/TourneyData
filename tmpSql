@@ -1,0 +1,14 @@
+CREATE TABLE uscfdata.TournamentResults ( 
+    tournamentid bigint NOT NULL, 
+    round int NOT NULL, 
+    sectionid int NOT NULL, 
+    pairingid int NOT NULL, 
+    uscfid bigint NOT NULL, 
+    color varchar(1), 
+    result varchar(1), 
+    oppuscfid bigint NOT NULL, 
+    uscfrating varchar(8) NOT NULL, 
+    oppuscfrating varchar(8) NOT NULL, 
+    PRIMARY KEY (tournamentid, round, sectionid, pairingid, uscfid) );
+
+GRANT ALL ON uscfdata.* TO 'loader'@'localhost';

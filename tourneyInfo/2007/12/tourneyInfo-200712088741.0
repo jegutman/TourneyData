@@ -1,0 +1,564 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+<title>USCF MSA - Cross Table for CHESS IS FUN THREE (Event 200712088741)</title>
+<style type='text/css'>
+body {margin-left: 10; margin-right: 10; margin-top: 0; margin-bottom: 0;  background-color: #40B7D3; min-width: 800px;}
+td {font: helvetica; color: black; font-size: 100%;}
+input {font: helvetica; font-size: 100%; color: black; font-weight: bold; padding-left: 4;}
+input.submit_debug {font: helvetica; font-size: 10pt; color: red; font-weight: normal; background-color: #BFBFBF;}
+input.submit {font: helvetica; font-size: 10pt; color: black; font-weight: normal; background-color: #BFBFBF;}
+input.submit_dis {font: helvetica; font-size: 10pt; color: grey; background-color: #BFBFBF;}
+select {font: helvetica; font-size: 10pt;  color: brown}
+a.topbar-line1 {font: helvetica; font-size: 100%; color: white; text-decoration: none; padding-left: 10;}
+a.topbar-line2 {font: helvetica; font-size: 100%; color: #0373A4; text-decoration: underline; padding-left: 10;}
+/* a {font: helvetica; font-size: 100%; color: black; text-decoration: none; padding-left: 10;} */
+
+/*  table {border: 2px solid red; margin: 0px;}
+td{border: 1px dotted purple; padding: 2px; } */
+
+table.topbar {border-style: none; border-width: 0; border: 0; margin: 0; padding: 0; cell-padding: 0; background-color: #40B7D3;}
+tr.topbar {padding: 5;  margin-top: 5; margin-bottom: 5; background-color: #40B7D3; }
+td.topbar {padding: 3; color: white; font: helvetica; font-size: 100%; font-weight: bold;}
+td.topbar-side {padding: 0; color: black; font: helvetica; font-size: 100%; background-color: #FFFFFF;}
+td.topbar-middle {padding: 0; color: black; font: helvetica; font-size: 100%; background-color: #FFFFFF;}
+td.topbar-line2 {padding: 0; padding: 3; font: helvetica; font-size: 100%; color: #0373A4; background-color: #C7EAFB;}
+td.topbar-line2-right {text-align: right; padding: 0; padding: 3; font: helvetica; font-size: 100%; color: #0373A4; background-color: #C7EAFB;}
+td.topbar-right {text-align: right; padding: 0; color: blue; font: helvetica; font-size: 100%;  background-color: #40B7D3;}
+span.right {text-align: right; background-color: #E0FFFF}
+</style></head>
+<body >
+<table width=100% class=topbar cellspacing=0><tr class=topbar></td><td class=topbar width=100% ><table cellspacing=0 class=topbar width=100%><tr class=topbar><td class=topbar >US Chess Federation - Member Services Area</td><td class=topbar-right >
+<a class=topbar-line1 href=http://main.uschess.org/content/blogcategory/30/319>Press</a>
+<a class=topbar-line1 href=http://main.uschess.org/content/view/7850/385>Advertising</a>
+<a class=topbar-line1 href=http://main.uschess.org/content/blogsection/12/35>About the USCF</a>
+<a class=topbar-line1 href=http://main.uschess.org/component/option,com_wrapper/Itemid,327>Contact Us</a></td></tr>
+</table></td></tr>
+
+<tr class=topbar>
+<td class=topbar-line2>
+<a class=topbar-line2 href=http://www.uschess.org>Return to USCF Home Page</a>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp;&nbsp;&nbsp;&nbsp;
+<a class=topbar-line2 href=Index.php>MSA Home</a>
+<a class=topbar-line2 href=http://www.uschess.org/datapage/player-search.php>Members</a>
+<a class=topbar-line2 href=AffLst.php>Affiliates</a>
+<a class=topbar-line2 href=http://www.uschess.org/datapage/event-search.php>Tournaments</a>
+<a class=topbar-line2 href=HelpTxt.php>Help</a>
+</td></tr>
+<tr class=topbar><td class=topbar-middle>
+<center>
+<table border=0 valign=top>
+
+<form method=post action=AffDtlMain.php>
+
+&nbsp;
+<p>
+<table border=1 bgcolor=FFFFFF cellpadding=0 cellspacing=0>
+<tr>
+<td>
+<table border=0 bgcolor=FFFFFF width=800 cellpadding=3 cellspacing=0>
+
+<tr>
+<td colspan=3 bgcolor=DDDDDD align=center>
+<b>Event Summary</b>
+</td>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Event
+</td>
+<td width=1 rowspan=10></td>
+<td>
+<b>CHESS IS FUN THREE</b> &nbsp;<small>(200712088741)</small>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE>
+Location
+</td>
+<td>
+<b>LAS VEGAS, NV &nbsp;89144 &nbsp;USA</b>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE>
+Event Date(s)
+</td>
+<td>
+<b>2007-12-08 </b>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE>
+Sponsoring Affiliate
+</td>
+<td>
+<b><a href=http://msa.uschess.org/AffDtlMain.php?H6018393>PALO VERDE CHESS CLUB</a></b> &nbsp;<small>(H6018393)</small>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE>
+Chief&nbsp; TD
+</td>
+<td>
+<b>CHARLES W HATHERILL</b> &nbsp;<small>(12215430)</small>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE>
+Chf. Assist. TD
+</td>
+<td>
+<b>GLENN CYRUS BIDARI</b> &nbsp;<small>(12580248)</small>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE>
+Processed
+</td>
+<td>
+<b>Received: 2007-12-08 &nbsp; Entered: 2007-12-08 &nbsp; Rated: 2007-12-09</b>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE valign=top>
+Stats
+</td>
+<td>
+<b>2 Section(s),&nbsp; 52 Players</b>
+<br><font color=blue>The ratings shown on this page are not official published ratings and may change from time to time.  Using them for pairing purposes in tournaments should only be done if this has been advertised in all advance publicity and is announced to all players at the tournament.</font>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table border=0 bgcolor=FFFFFF width=800 cellpadding=3 cellspacing=0>
+
+<tr>
+<td colspan=6 bgcolor=DDDDDD align=center>
+<b>Sections</b>
+</td>
+<tr bgcolor=EEEEEE>
+<td width=70 align=center valign=middle>
+<font color=A00000>
+<b><i>HINT:</I.</b>
+</font>
+</td>
+<td width=1></td>
+<td>
+<font color=A00000><b>
+&nbsp; * Click on a Section Name to see the cross table for that Section, &nbsp;<i>or</i>
+<br>
+&nbsp; * Click on "Show All Sections" to see the cross tables for all sections at once.
+<br>
+</b></font>
+</td>
+</tr>
+
+<tr>
+<td width=80 bgcolor=EEEEEE>
+Section 1
+</td>
+<td width=1></td>
+<td>
+<a href=XtblMain.php?200712088741.1><b>OPEN SEC</b></a>
+</td>
+</tr>
+
+<tr>
+<td width=80 bgcolor=EEEEEE>
+Section 2
+</td>
+<td width=1></td>
+<td>
+<a href=XtblMain.php?200712088741.2><b>EXTRA GAME</b></a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p>
+<a anchor="Section1"></a>
+<p>
+<table border=1 bgcolor=FFFFFF cellpadding=0 cellspacing=0>
+<tr>
+<td>
+<table border=0 width=800 bgcolor=FFFFFF  cellpadding=3 cellspacing=0>
+<tr>
+<td colspan=3 align=center bgcolor=DDDDFF>
+<b>Section 1 - OPEN SEC</b>
+</td>
+</tr>
+
+<tr>
+<td width=120 bgcolor=EEEEEE>
+Section Date(s)
+</td>
+<td width=1></td>
+<td>
+<b>2007-12-08</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Processed
+</td>
+<td width=1></td>
+<td>
+<b>Received: 2007-12-08 &nbsp; Entered: 2007-12-08 &nbsp; Rated: 2007-12-09 Re-Rated: 2013-11-19</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Stats
+</td>
+<td width=1></td>
+<td>
+<b>5 Rounds,&nbsp; 51 Players;  &nbsp;K Factor: F  &nbsp;Rating Sys: D  &nbsp;Tnmt Type: S  <br>Time Control: G/30</b>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan=3>
+<pre>
+-----------------------------------------------------------------------------
+<i> * Click on a Pairing Number to see the Player's Opponents.
+ * Click on a Player's Name for more information about the Player.</i>
+<font size=+2>Crosstable data is <b>not</b> shown in tiebreak order and <font color=red ><b><i>does NOT reflect <br>any distribution of trophies or prize monies.</font></font></b></i><a href=http://www.uschess.org/msa/FAQ.php>(See Frequent Questions)</a>
+<i>Crosstable data is shown as reported to the USCF by the Tournament Director.  <br>Please contact the TD to report any crosstable errors.</i>
+Note:  The information below the "Total Pts" score shows the highest norm earned in this event.<br>For more information on norms, see <a href=http://www.glicko.net/ratings/titles.pdf>The USCF Title System</a>.
+-----------------------------------------------------------------------------
+ Pair | Player Name                     |Total|Round|Round|Round|Round|Round| 
+ Num  | USCF ID / Rtg (Pre->Post)       | Pts |  1  |  2  |  3  |  4  |  5  | 
+-----------------------------------------------------------------------------
+    <a href=XtblPlr.php?200712088741-001-13632645>1</a> | <a href=MbrDtlMain.php?13632645>CAMERON R SMITH</a>                 |5.0  |W  48|W  30|W   8|W   9|W   2|
+   NV | 13632645 / R: 1156   ->1281     |N:3  |     |     |     |     |     |
+      |            Q:  977P21->1141     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+    <a href=XtblPlr.php?200712088741-001-13072295>2</a> | <a href=MbrDtlMain.php?13072295>ISAAC MARTINEZ</a>                  |4.0  |W  20|W  28|W  14|W   4|L   1|
+   AZ | 13072295 / R: 1461   ->1444     |     |     |     |     |     |     |
+      |            Q: 1430   ->1408     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+    <a href=XtblPlr.php?200712088741-001-12902934>3</a> | <a href=MbrDtlMain.php?12902934>DAVID A FOSHEE</a>                  |4.0  |W  27|W  29|W  11|D  10|D   9|
+   NV | 12902934 / R: 1419   ->1414     |     |     |     |     |     |     |
+      |            Q: 1350   ->1339     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+    <a href=XtblPlr.php?200712088741-001-13777997>4</a> | <a href=MbrDtlMain.php?13777997>JUAN ANTHONY BECERRA</a>            |4.0  |W  36|W  13|W   7|L   2|W  10|
+   NV | 13777997 / R: 1122P12->1191P17  |     |     |     |     |     |     |
+      |            Q: 1076P12->1151P17  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+    <a href=XtblPlr.php?200712088741-001-12929846>5</a> | <a href=MbrDtlMain.php?12929846>ERIC SAMSON</a>                     |4.0  |W  50|L   8|W  44|W  19|W  15|
+   NV | 12929846 / R:  971   -> 954     |     |     |     |     |     |     |
+      |            Q:  991   -> 971     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+    <a href=XtblPlr.php?200712088741-001-13777961>6</a> | <a href=MbrDtlMain.php?13777961>NATHAN PETER RAJNOVICH</a>          |4.0  |W  24|W  16|L  10|W  18|W  14|
+   NV | 13777961 / R:  717P10-> 904P15  |     |     |     |     |     |     |
+      |            Q:  725P10-> 905P15  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+    <a href=XtblPlr.php?200712088741-001-13093966>7</a> | <a href=MbrDtlMain.php?13093966>TYLER LUCARELLI</a>                 |4.0  |W  21|W  31|L   4|W  33|W  13|
+   NV | 13093966 / R:  822   -> 891     |     |     |     |     |     |     |
+      |            Q:  824   -> 886     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+    <a href=XtblPlr.php?200712088741-001-12912760>8</a> | <a href=MbrDtlMain.php?12912760>ADRIEL S JACOBS</a>                 |4.0  |W  12|W   5|L   1|W  16|W  24|
+   NV | 12912760 / R:  356P19-> 748P24  |     |     |     |     |     |     |
+      |            Q:  356P10-> 749P15  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+    <a href=XtblPlr.php?200712088741-001-13654740>9</a> | <a href=MbrDtlMain.php?13654740>RAYMOND SEID</a>                    |3.5  |W  41|W  19|W  15|L   1|D   3|
+   NV | 13654740 / R: 1457   ->1432     |     |     |     |     |     |     |
+      |            Q: 1230P23->1215     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?200712088741-001-13072226>10</a> | <a href=MbrDtlMain.php?13072226>MATTHEW MARIO MARTINEZ</a>          |3.5  |W  26|W  22|W   6|D   3|L   4|
+   AZ | 13072226 / R: 1280   ->1268     |     |     |     |     |     |     |
+      |            Q: 1221   ->1210     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?200712088741-001-13072274>11</a> | <a href=MbrDtlMain.php?13072274>LUKE X MARTINEZ</a>                 |3.5  |W  42|W  34|L   3|W  17|D  12|
+   AZ | 13072274 / R:  838   -> 851     |     |     |     |     |     |     |
+      |            Q:  869   -> 877     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?200712088741-001-14501713>12</a> | <a href=MbrDtlMain.php?14501713>VINCENT MARTINEZ</a>                |3.5  |L   8|W  45|W  41|W  28|D  11|
+   NV | 14501713 / R: Unrated-> 773P5   |     |     |     |     |     |     |
+      |            Q: Unrated-> 780P5   |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?200712088741-001-13358280>13</a> | <a href=MbrDtlMain.php?13358280>CHET PRESSLER</a>                   |3.0  |W  46|L   4|W  39|W  23|L   7|
+   NV | 13358280 / R:  901   -> 875     |     |     |     |     |     |     |
+      |            Q:  878   -> 853     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?200712088741-001-12975403>14</a> | <a href=MbrDtlMain.php?12975403>BEAU CAPANNA</a>                    |3.0  |W  25|W  17|L   2|W  31|L   6|
+   NV | 12975403 / R:  851   -> 864     |     |     |     |     |     |     |
+      |            Q:  840   -> 855     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?200712088741-001-13072280>15</a> | <a href=MbrDtlMain.php?13072280>ALEXIA C MARTINEZ</a>               |3.0  |W  18|W  38|L   9|W  20|L   5|
+   AZ | 13072280 / R:  798   -> 813     |     |     |     |     |     |     |
+      |            Q:  800   -> 813     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?200712088741-001-13516145>16</a> | <a href=MbrDtlMain.php?13516145>ARMAN SANATINIA</a>                 |3.0  |W  45|L   6|W  48|L   8|W  26|
+   NV | 13516145 / R:  852   -> 805     |     |     |     |     |     |     |
+      |            Q:  859   -> 811     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?200712088741-001-13836864>17</a> | <a href=MbrDtlMain.php?13836864>BRANDON G LUCAS</a>                 |3.0  |W  32|L  14|W  30|L  11|W  29|
+   NV | 13836864 / R: Unrated-> 781P5   |     |     |     |     |     |     |
+      |            Q: Unrated-> 785P5   |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?200712088741-001-13836980>18</a> | <a href=MbrDtlMain.php?13836980>JONATHAN EVERETT ZAVALA</a>         |3.0  |L  15|W  36|W  22|L   6|W  32|
+   FL | 13836980 / R: Unrated-> 719P5   |     |     |     |     |     |     |
+      |            Q: Unrated-> 719P5   |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?200712088741-001-13335663>19</a> | <a href=MbrDtlMain.php?13335663>DAVID TEGTMEYER</a>                 |3.0  |W  43|L   9|W  38|L   5|W  35|
+   NV | 13335663 / R:  553   -> 587     |     |     |     |     |     |     |
+      |            Q:  553   -> 587     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?200712088741-001-13785940>20</a> | <a href=MbrDtlMain.php?13785940>JOSH Z RANAHAN</a>                  |3.0  |L   2|W  21|W  34|L  15|W  28|
+   NV | 13785940 / R:  263P3 -> 560P8   |     |     |     |     |     |     |
+      |            Q:  263P3 -> 560P8   |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?200712088741-001-13837041>21</a> | <a href=MbrDtlMain.php?13837041>MICAJAH HENRY SCHWEIKERT</a>        |3.0  |L   7|L  20|W  43|W  41|W  36|
+   NV | 13837041 / R: Unrated-> 548P5   |     |     |     |     |     |     |
+      |            Q: Unrated-> 547P5   |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?200712088741-001-13777432>22</a> | <a href=MbrDtlMain.php?13777432>NICHOLAS WINNER</a>                 |3.0  |W  51|L  10|L  18|W  38|W  33|
+   NV | 13777432 / R:  434P5 -> 509P10  |     |     |     |     |     |     |
+      |            Q:  433P5 -> 509P10  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?200712088741-001-13777186>23</a> | <a href=MbrDtlMain.php?13777186>BREVIN MIXON</a>                    |3.0  |L  34|W  42|W  47|L  13|W  31|
+   NV | 13777186 / R:  422P5 -> 470P10  |     |     |     |     |     |     |
+      |            Q:  422P5 -> 467P10  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?200712088741-001-13777322>24</a> | <a href=MbrDtlMain.php?13777322>MATTHEW CARUSO</a>                  |2.5  |L   6|D  47|W  25|W  27|L   8|
+   NV | 13777322 / R:  608P11-> 584P16  |     |     |     |     |     |     |
+      |            Q:  605P11-> 582P16  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?200712088741-001-13836870>25</a> | <a href=MbrDtlMain.php?13836870>NICHOLAS  A HARDY</a>               |2.5  |L  14|D  26|L  24|W  46|W  39|
+   NV | 13836870 / R: Unrated-> 432P5   |     |     |     |     |     |     |
+      |            Q: Unrated-> 431P5   |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?200712088741-001-13777405>26</a> | <a href=MbrDtlMain.php?13777405>CAMERON MIXON</a>                   |2.5  |L  10|D  25|W  49|W  39|L  16|
+   NV | 13777405 / R:  180P5 -> 321P10  |     |     |     |     |     |     |
+      |            Q:  180P5 -> 321P10  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?200712088741-001-13513020>27</a> | <a href=MbrDtlMain.php?13513020>SARA TEGTMEYER</a>                  |2.5  |L   3|D  49|W  50|L  24|W  42|
+   NV | 13513020 / R:  197   -> 246     |     |     |     |     |     |     |
+      |            Q:  197   -> 246     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?200712088741-001-12911734>28</a> | <a href=MbrDtlMain.php?12911734>SYDNEY LEE</a>                      |2.0  |W  33|L   2|W  35|L  12|L  20|
+   NV | 12911734 / R:  773   -> 716     |     |     |     |     |     |     |
+      |            Q:  767   -> 711     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?200712088741-001-13615024>29</a> | <a href=MbrDtlMain.php?13615024>GRAHAM LEE</a>                      |2.0  |W  49|L   3|L  31|W  47|L  17|
+   NV | 13615024 / R:  767   -> 708     |     |     |     |     |     |     |
+      |            Q:  764   -> 705     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?200712088741-001-13445783>30</a> | <a href=MbrDtlMain.php?13445783>MARK WOODSON</a>                    |2.0  |W  35|L   1|L  17|W  34|U   0|
+   NV | 13445783 / R:  547   -> 572     |     |     |     |     |     |     |
+      |            Q:  564   -> 583     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?200712088741-001-13836858>31</a> | <a href=MbrDtlMain.php?13836858>BRYAN A NICOLAS</a>                 |2.0  |W  40|L   7|W  29|L  14|L  23|
+   NV | 13836858 / R: Unrated-> 570P5   |     |     |     |     |     |     |
+      |            Q: Unrated-> 566P5   |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?200712088741-001-13777227>32</a> | <a href=MbrDtlMain.php?13777227>JOHN AYING</a>                      |2.0  |L  17|L  33|W  46|W  48|L  18|
+   NV | 13777227 / R:  645P6 -> 521P11  |     |     |     |     |     |     |
+      |            Q:  643P6 -> 520P11  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?200712088741-001-13836995>33</a> | <a href=MbrDtlMain.php?13836995>STEPHEN W HALL</a>                  |2.0  |L  28|W  32|W  37|L   7|L  22|
+   NV | 13836995 / R: Unrated-> 512P5   |     |     |     |     |     |     |
+      |            Q: Unrated-> 510P5   |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?200712088741-001-13836891>34</a> | <a href=MbrDtlMain.php?13836891>STEPHEN ANTHONY BRADLEY</a>         |2.0  |W  23|L  11|L  20|L  30|W  48|
+   NV | 13836891 / R: Unrated-> 437P5   |     |     |     |     |     |     |
+      |            Q: Unrated-> 438P5   |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?200712088741-001-13836905>35</a> | <a href=MbrDtlMain.php?13836905>ALEJANDRO C DURAN DEL CID</a>       |2.0  |L  30|W  40|L  28|W  37|L  19|
+   NV | 13836905 / R: Unrated-> 422P5   |     |     |     |     |     |     |
+      |            Q: Unrated-> 422P5   |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?200712088741-001-13811617>36</a> | <a href=MbrDtlMain.php?13811617>RICHARD T BARBERIE</a>              |2.0  |L   4|L  18|W  51|W  45|L  21|
+   NV | 13811617 / R:  442P6 -> 402P11  |     |     |     |     |     |     |
+      |            Q:  440P6 -> 401P11  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?200712088741-001-13777233>37</a> | <a href=MbrDtlMain.php?13777233>IAN COLE GRIFFIN</a>                |2.0  |L  38|W  51|L  33|L  35|W  47|
+   NV | 13777233 / R:  341P4 -> 284P9   |     |     |     |     |     |     |
+      |            Q:  344P4 -> 286P9   |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?200712088741-001-13836843>38</a> | <a href=MbrDtlMain.php?13836843>ESGLENDER NORIEGA</a>               |1.5  |W  37|L  15|L  19|L  22|D  41|
+   NV | 13836843 / R: Unrated-> 335P5   |     |     |     |     |     |     |
+      |            Q: Unrated-> 335P5   |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?200712088741-001-13811555>39</a> | <a href=MbrDtlMain.php?13811555>KONRAD J CAMPBELL</a>               |1.5  |D  47|W  44|L  13|L  26|L  25|
+   NV | 13811555 / R:  435P6 -> 333P11  |     |     |     |     |     |     |
+      |            Q:  434P6 -> 333P11  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?200712088741-001-13777248>40</a> | <a href=MbrDtlMain.php?13777248>SCOTT RUTLEDGE</a>                  |1.5  |L  31|L  35|D  42|W  44|U   0|
+   NV | 13777248 / R:  349P8 -> 304P12  |     |     |     |     |     |     |
+      |            Q:  346P8 -> 302P12  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?200712088741-001-13777171>41</a> | <a href=MbrDtlMain.php?13777171>CHASE GRIFFIN</a>                   |1.5  |L   9|W  43|L  12|L  21|D  38|
+   NV | 13777171 / R:  235P4 -> 266P9   |     |     |     |     |     |     |
+      |            Q:  238P4 -> 269P9   |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?200712088741-001-13837008>42</a> | <a href=MbrDtlMain.php?13837008>NATE W DIX</a>                      |1.5  |L  11|L  23|D  40|W  50|L  27|
+   TX | 13837008 / R: Unrated-> 192P5   |     |     |     |     |     |     |
+      |            Q: Unrated-> 191P5   |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?200712088741-001-13836974>43</a> | <a href=MbrDtlMain.php?13836974>NEHEMIAH I MCFARLIN</a>             |1.5  |L  19|L  41|L  21|D  51|W  50|
+   NV | 13836974 / R: Unrated-> 143P5   |     |     |     |     |     |     |
+      |            Q: Unrated-> 144P5   |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?200712088741-001-13683841>44</a> | <a href=MbrDtlMain.php?13683841>MADELEINE SORENSON</a>              |1.5  |B   0|L  39|L   5|L  40|D  45|
+   NV | 13683841 / R:  100P4 -> 100P8   |     |     |     |     |     |     |
+      |            Q:  100P4 -> 100P8   |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?200712088741-001-13811561>45</a> | <a href=MbrDtlMain.php?13811561>ALEXANDRA JAEGER</a>                |1.5  |L  16|L  12|B   0|L  36|D  44|
+   NV | 13811561 / R:  100P6 -> 100P10  |     |     |     |     |     |     |
+      |            Q:  100P6 -> 100P10  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?200712088741-001-13811576>46</a> | <a href=MbrDtlMain.php?13811576>NADIJA JAEGER</a>                   |1.5  |L  13|D  50|L  32|L  25|X   0|
+   NV | 13811576 / R:  100P6 -> 100P10  |     |     |     |     |     |     |
+      |            Q:  100P6 -> 100P10  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?200712088741-001-13836932>47</a> | <a href=MbrDtlMain.php?13836932>MARCUS C WILLIAMS</a>               |1.0  |D  39|D  24|L  23|L  29|L  37|
+   NV | 13836932 / R: Unrated-> 222P5   |     |     |     |     |     |     |
+      |            Q: Unrated-> 222P5   |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?200712088741-001-13683820>48</a> | <a href=MbrDtlMain.php?13683820>ELLIOT SARNO</a>                    |1.0  |L   1|B   0|L  16|L  32|L  34|
+   NV | 13683820 / R:  100P6 -> 100P10  |     |     |     |     |     |     |
+      |            Q:  100P6 -> 100P10  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?200712088741-001-13837014>49</a> | <a href=MbrDtlMain.php?13837014>MATTHEW N SELBY</a>                 |0.5  |L  29|D  27|L  26|U   0|U   0|
+   NV | 13837014 / R: Unrated-> 107P3   |     |     |     |     |     |     |
+      |            Q: Unrated-> 106P3   |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?200712088741-001-13777260>50</a> | <a href=MbrDtlMain.php?13777260>ALEXANDER TOMS</a>                  |0.5  |L   5|D  46|L  27|L  42|L  43|
+   NV | 13777260 / R:  100P6 -> 100P11  |     |     |     |     |     |     |
+      |            Q:  100P6 -> 100P11  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?200712088741-001-13836885>51</a> | <a href=MbrDtlMain.php?13836885>ARMANDO A CASTRO</a>                |0.5  |L  22|L  37|L  36|D  43|F   0|
+   NV | 13836885 / R: Unrated-> 100P4   |     |     |     |     |     |     |
+      |            Q: Unrated-> 100P4   |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+Note:  Performances satisfying the requirements for norms are now being shown for events in the *Total Pts* column.<br>It may take a week for a recently rated event to have norms computed for it.
+</pre>
+</td>
+</tr>
+</table>
+<p>
+<a anchor="Section2"></a>
+<p>
+<table border=1 bgcolor=FFFFFF cellpadding=0 cellspacing=0>
+<tr>
+<td>
+<table border=0 width=800 bgcolor=FFFFFF  cellpadding=3 cellspacing=0>
+<tr>
+<td colspan=3 align=center bgcolor=DDDDFF>
+<b>Section 2 - EXTRA GAME</b>
+</td>
+</tr>
+
+<tr>
+<td width=120 bgcolor=EEEEEE>
+Section Date(s)
+</td>
+<td width=1></td>
+<td>
+<b>2007-12-08</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Processed
+</td>
+<td width=1></td>
+<td>
+<b>Received: 2007-12-08 &nbsp; Entered: 2007-12-08 &nbsp; Rated: 2007-12-09 Re-Rated: 2007-12-13</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Stats
+</td>
+<td width=1></td>
+<td>
+<b>3 Rounds,&nbsp; 4 Players;  &nbsp;K Factor: F  &nbsp;Rating Sys: D  &nbsp;Tnmt Type: S  <br>Time Control: G/30</b>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan=3>
+<pre>
+-----------------------------------------------------------------
+<i> * Click on a Pairing Number to see the Player's Opponents.
+ * Click on a Player's Name for more information about the Player.</i>
+<font size=+2>Crosstable data is <b>not</b> shown in tiebreak order and <font color=red ><b><i>does NOT reflect <br>any distribution of trophies or prize monies.</font></font></b></i><a href=http://www.uschess.org/msa/FAQ.php>(See Frequent Questions)</a>
+<i>Crosstable data is shown as reported to the USCF by the Tournament Director.  <br>Please contact the TD to report any crosstable errors.</i>
+Note:  The information below the "Total Pts" score shows the highest norm earned in this event.<br>For more information on norms, see <a href=http://www.glicko.net/ratings/titles.pdf>The USCF Title System</a>.
+-----------------------------------------------------------------
+ Pair | Player Name                     |Total|Round|Round|Round| 
+ Num  | USCF ID / Rtg (Pre->Post)       | Pts |  1  |  2  |  3  | 
+-----------------------------------------------------------------
+    <a href=XtblPlr.php?200712088741-002-13750091>1</a> | <a href=MbrDtlMain.php?13750091>JANE CALLAHAN</a>                   |3.0  |W   3|W   2|W   4|
+   NV | 13750091 / R:  100P6 -> 234P9   |     |     |     |     |
+      |            Q:  100P6 -> 234P9   |     |     |     |     |
+-----------------------------------------------------------------
+    <a href=XtblPlr.php?200712088741-002-13683820>2</a> | <a href=MbrDtlMain.php?13683820>ELLIOT SARNO</a>                    |0.0  |U   0|L   1|U   0|
+   NV | 13683820 / R:  100P10-> 100P11  |     |     |     |     |
+      |            Q:  100P10-> 100P11  |     |     |     |     |
+-----------------------------------------------------------------
+    <a href=XtblPlr.php?200712088741-002-13683841>3</a> | <a href=MbrDtlMain.php?13683841>MADELEINE SORENSON</a>              |0.0  |L   1|U   0|U   0|
+   NV | 13683841 / R:  100P8 -> 100P9   |     |     |     |     |
+      |            Q:  100P8 -> 100P9   |     |     |     |     |
+-----------------------------------------------------------------
+    <a href=XtblPlr.php?200712088741-002-13811561>4</a> | <a href=MbrDtlMain.php?13811561>ALEXANDRA JAEGER</a>                |0.0  |U   0|U   0|L   1|
+   NV | 13811561 / R:  100P10-> 100P11  |     |     |     |     |
+      |            Q:  100P10-> 100P11  |     |     |     |     |
+-----------------------------------------------------------------
+Note:  Performances satisfying the requirements for norms are now being shown for events in the *Total Pts* column.<br>It may take a week for a recently rated event to have norms computed for it.
+</pre>
+</td>
+</tr>
+</table>
+</table>
+</form>
+&nbsp;
+<p>
+<hr>
+<p>
+<center>
+<p>
+<p>
+<font size=-1>
+Session  / 0
+<br>Version 1.00b / 2003-10-16
+</font>
+<br>
+<font size=-1>
+<i>
+USCF Member Services Area - Copyright 2002-2012 by the <a href="http://www.USChess.org">US Chess Federation</a> -  All Rights Reserved
+<br><a href="http://msa.uschess.org/FAQ.php">Frequently Asked Questions</a>
+<br>Report problems to <a href="mailto:msafeedback@uschess.org">msafeedback@uschess.org</a>
+<br><a href="http://www.USChess.org">Return to USCF Home Page</a>
+</i>
+</font>
+</center>
+<p>
+<hr>
+<p>
+</body>
+</html>

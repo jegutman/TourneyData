@@ -1,0 +1,998 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+<title>USCF MSA - Cross Table for NJ OPEN (Event 201309023822)</title>
+<style type='text/css'>
+body {margin-left: 10; margin-right: 10; margin-top: 0; margin-bottom: 0;  background-color: #40B7D3; min-width: 800px;}
+td {font: helvetica; color: black; font-size: 100%;}
+input {font: helvetica; font-size: 100%; color: black; font-weight: bold; padding-left: 4;}
+input.submit_debug {font: helvetica; font-size: 10pt; color: red; font-weight: normal; background-color: #BFBFBF;}
+input.submit {font: helvetica; font-size: 10pt; color: black; font-weight: normal; background-color: #BFBFBF;}
+input.submit_dis {font: helvetica; font-size: 10pt; color: grey; background-color: #BFBFBF;}
+select {font: helvetica; font-size: 10pt;  color: brown}
+a.topbar-line1 {font: helvetica; font-size: 100%; color: white; text-decoration: none; padding-left: 10;}
+a.topbar-line2 {font: helvetica; font-size: 100%; color: #0373A4; text-decoration: underline; padding-left: 10;}
+/* a {font: helvetica; font-size: 100%; color: black; text-decoration: none; padding-left: 10;} */
+
+/*  table {border: 2px solid red; margin: 0px;}
+td{border: 1px dotted purple; padding: 2px; } */
+
+table.topbar {border-style: none; border-width: 0; border: 0; margin: 0; padding: 0; cell-padding: 0; background-color: #40B7D3;}
+tr.topbar {padding: 5;  margin-top: 5; margin-bottom: 5; background-color: #40B7D3; }
+td.topbar {padding: 3; color: white; font: helvetica; font-size: 100%; font-weight: bold;}
+td.topbar-side {padding: 0; color: black; font: helvetica; font-size: 100%; background-color: #FFFFFF;}
+td.topbar-middle {padding: 0; color: black; font: helvetica; font-size: 100%; background-color: #FFFFFF;}
+td.topbar-line2 {padding: 0; padding: 3; font: helvetica; font-size: 100%; color: #0373A4; background-color: #C7EAFB;}
+td.topbar-line2-right {text-align: right; padding: 0; padding: 3; font: helvetica; font-size: 100%; color: #0373A4; background-color: #C7EAFB;}
+td.topbar-right {text-align: right; padding: 0; color: blue; font: helvetica; font-size: 100%;  background-color: #40B7D3;}
+span.right {text-align: right; background-color: #E0FFFF}
+</style></head>
+<body >
+<table width=100% class=topbar cellspacing=0><tr class=topbar></td><td class=topbar width=100% ><table cellspacing=0 class=topbar width=100%><tr class=topbar><td class=topbar >US Chess Federation - Member Services Area</td><td class=topbar-right >
+<a class=topbar-line1 href=http://main.uschess.org/content/blogcategory/30/319>Press</a>
+<a class=topbar-line1 href=http://main.uschess.org/content/view/7850/385>Advertising</a>
+<a class=topbar-line1 href=http://main.uschess.org/content/blogsection/12/35>About the USCF</a>
+<a class=topbar-line1 href=http://main.uschess.org/component/option,com_wrapper/Itemid,327>Contact Us</a></td></tr>
+</table></td></tr>
+
+<tr class=topbar>
+<td class=topbar-line2>
+<a class=topbar-line2 href=http://www.uschess.org>Return to USCF Home Page</a>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp;&nbsp;&nbsp;&nbsp;
+<a class=topbar-line2 href=Index.php>MSA Home</a>
+<a class=topbar-line2 href=http://www.uschess.org/datapage/player-search.php>Members</a>
+<a class=topbar-line2 href=AffLst.php>Affiliates</a>
+<a class=topbar-line2 href=http://www.uschess.org/datapage/event-search.php>Tournaments</a>
+<a class=topbar-line2 href=HelpTxt.php>Help</a>
+</td></tr>
+<tr class=topbar><td class=topbar-middle>
+<center>
+<table border=0 valign=top>
+
+<form method=post action=AffDtlMain.php>
+
+&nbsp;
+<p>
+<table border=1 bgcolor=FFFFFF cellpadding=0 cellspacing=0>
+<tr>
+<td>
+<table border=0 bgcolor=FFFFFF width=800 cellpadding=3 cellspacing=0>
+
+<tr>
+<td colspan=3 bgcolor=DDDDDD align=center>
+<b>Event Summary</b>
+</td>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Event
+</td>
+<td width=1 rowspan=10></td>
+<td>
+<b>NJ OPEN</b> &nbsp;<small>(201309023822)</small>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE>
+Location
+</td>
+<td>
+<b>MORRISTOWN, NJ &nbsp;07960 &nbsp;</b>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE>
+Event Date(s)
+</td>
+<td>
+<b>2013-08-31 thru 2013-09-02 </b>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE>
+Sponsoring Affiliate
+</td>
+<td>
+<b><a href=http://msa.uschess.org/AffDtlMain.php?T5002125>NEW JERSEY ST CHESS FED</a></b> &nbsp;<small>(T5002125)</small>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE>
+Chief&nbsp; TD
+</td>
+<td>
+<b>NOREEN DAVISSON</b> &nbsp;<small>(13685502)</small>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE>
+Processed
+</td>
+<td>
+<b>Received: 2013-09-04 &nbsp; Entered: 2013-09-04 &nbsp; Rated: 2013-09-04</b>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE valign=top>
+Stats
+</td>
+<td>
+<b>4 Section(s),&nbsp; 157 Players</b>
+<br><font color=blue>The ratings shown on this page are not official published ratings and may change from time to time.  Using them for pairing purposes in tournaments should only be done if this has been advertised in all advance publicity and is announced to all players at the tournament.</font>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table border=0 bgcolor=FFFFFF width=800 cellpadding=3 cellspacing=0>
+
+<tr>
+<td colspan=6 bgcolor=DDDDDD align=center>
+<b>Sections</b>
+</td>
+<tr bgcolor=EEEEEE>
+<td width=70 align=center valign=middle>
+<font color=A00000>
+<b><i>HINT:</I.</b>
+</font>
+</td>
+<td width=1></td>
+<td>
+<font color=A00000><b>
+&nbsp; * Click on a Section Name to see the cross table for that Section, &nbsp;<i>or</i>
+<br>
+&nbsp; * Click on "Show All Sections" to see the cross tables for all sections at once.
+<br>
+</b></font>
+</td>
+</tr>
+
+<tr>
+<td width=80 bgcolor=EEEEEE>
+Section 1
+</td>
+<td width=1></td>
+<td>
+<a href=XtblMain.php?201309023822.1><b>OPEN</b></a>
+</td>
+</tr>
+
+<tr>
+<td width=80 bgcolor=EEEEEE>
+Section 2
+</td>
+<td width=1></td>
+<td>
+<a href=XtblMain.php?201309023822.2><b>U1900</b></a>
+</td>
+</tr>
+
+<tr>
+<td width=80 bgcolor=EEEEEE>
+Section 3
+</td>
+<td width=1></td>
+<td>
+<a href=XtblMain.php?201309023822.3><b>U1600</b></a>
+</td>
+</tr>
+
+<tr>
+<td width=80 bgcolor=EEEEEE>
+Section 4
+</td>
+<td width=1></td>
+<td>
+<a href=XtblMain.php?201309023822.4><b>U1300</b></a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p>
+<a anchor="Section1"></a>
+<p>
+<table border=1 bgcolor=FFFFFF cellpadding=0 cellspacing=0>
+<tr>
+<td>
+<table border=0  bgcolor=FFFFFF  cellpadding=3 cellspacing=0>
+<tr>
+<td colspan=3 align=center bgcolor=DDDDFF>
+<b>Section 1 - OPEN</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Chf. Asst. TD
+</td>
+<td width=1></td>
+<td>
+<b>AARON KIEDES</b> &nbsp;<small>(12897595)</small>
+</td>
+</tr>
+
+<tr>
+<td width=120 bgcolor=EEEEEE>
+Section Date(s)
+</td>
+<td width=1></td>
+<td>
+<b>2013-08-31 thru 2013-09-02</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Processed
+</td>
+<td width=1></td>
+<td>
+<b>Received: 2013-09-04 &nbsp; Entered: 2013-09-04 &nbsp; Rated: 2013-09-04 Re-Rated: 2014-07-16</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Stats
+</td>
+<td width=1></td>
+<td>
+<b>6 Rounds,&nbsp; 61 Players;  &nbsp;K Factor: F  &nbsp;Rating Sys: R  &nbsp;Tnmt Type: S  <br>Time Control: 40/120,SD/60;d5</b>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan=3>
+<pre>
+-----------------------------------------------------------------------------------
+<i> * Click on a Pairing Number to see the Player's Opponents.
+ * Click on a Player's Name for more information about the Player.</i>
+<font size=+2>Crosstable data is <b>not</b> shown in tiebreak order and <font color=red ><b><i>does NOT reflect <br>any distribution of trophies or prize monies.</font></font></b></i><a href=http://www.uschess.org/msa/FAQ.php>(See Frequent Questions)</a>
+<i>Crosstable data is shown as reported to the USCF by the Tournament Director.  <br>Please contact the TD to report any crosstable errors.</i>
+Note:  The information below the "Total Pts" score shows the highest norm earned in this event.<br>For more information on norms, see <a href=http://www.glicko.net/ratings/titles.pdf>The USCF Title System</a>.
+-----------------------------------------------------------------------------------
+ Pair | Player Name                     |Total|Round|Round|Round|Round|Round|Round| 
+ Num  | USCF ID / Rtg (Pre->Post)       | Pts |  1  |  2  |  3  |  4  |  5  |  6  | 
+-----------------------------------------------------------------------------------
+    <a href=XtblPlr.php?201309023822-001-12566496>1</a> | <a href=MbrDtlMain.php?12566496>YAACOV NOROWITZ</a>                 |5.0  |W  35|W  32|W  30|W  25|D   3|D   5|
+   NJ | 12566496 / R: 2582   ->2584     |N:M  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+    <a href=XtblPlr.php?201309023822-001-12985793>2</a> | <a href=MbrDtlMain.php?12985793>DAVID HUA</a>                       |5.0  |W  33|W  28|L   7|W  19|W  12|W  11|
+   NJ | 12985793 / R: 2355   ->2364     |N:M  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+    <a href=XtblPlr.php?201309023822-001-12445752>3</a> | <a href=MbrDtlMain.php?12445752>DEAN IPPOLITO</a>                   |4.5  |W   9|W  20|W  15|D   7|D   1|D   6|
+   NJ | 12445752 / R: 2544   ->2541     |N:M  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+    <a href=XtblPlr.php?201309023822-001-12559979>4</a> | <a href=MbrDtlMain.php?12559979>THOMAS BARTELL</a>                  |4.5  |W  16|W  23|D   6|D  12|W   7|D   9|
+   PA | 12559979 / R: 2497   ->2491     |N:M  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+    <a href=XtblPlr.php?201309023822-001-12875350>5</a> | <a href=MbrDtlMain.php?12875350>ARTHUR SHEN</a>                     |4.5  |D  17|W  37|W  22|W  10|D   6|D   1|
+   NJ | 12875350 / R: 2425   ->2427     |N:C  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+    <a href=XtblPlr.php?201309023822-001-12885132>6</a> | <a href=MbrDtlMain.php?12885132>ALEXANDER ROSS KATZ</a>             |4.5  |W  26|W  21|D   4|W  31|D   5|D   3|
+   NJ | 12885132 / R: 2369   ->2384     |N:M  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+    <a href=XtblPlr.php?201309023822-001-12515121>7</a> | <a href=MbrDtlMain.php?12515121>DAVID GRASSO</a>                    |4.5  |X    |W  50|W   2|D   3|L   4|W  18|
+   NJ | 12515121 / R: 2240   ->2267     |N:M  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+    <a href=XtblPlr.php?201309023822-001-10044812>8</a> | <a href=MbrDtlMain.php?10044812>JAMES R WEST</a>                    |4.5  |D  18|W  57|L  31|W  23|W  33|W  15|
+   NJ | 10044812 / R: 2200   ->2212     |N:C  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+    <a href=XtblPlr.php?201309023822-001-14069596>9</a> | <a href=MbrDtlMain.php?14069596>JOHN MICHAEL BURKE</a>              |4.5  |L   3|B    |W  20|W  46|W  25|D   4|
+   NJ | 14069596 / R: 2165   ->2204     |N:C  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-001-12779390>10</a> | <a href=MbrDtlMain.php?12779390>MARAJ DAFTANI</a>                   |4.5  |D  29|W  35|W  32|L   5|W  21|W  14|
+   NJ | 12779390 / R: 2175   ->2200     |N:C  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-001-12407354>11</a> | <a href=MbrDtlMain.php?12407354>BORIS PRIVMAN</a>                   |4.0  |D  34|D  18|W  47|W  27|W  26|L   2|
+   NJ | 12407354 / R: 2329   ->2318     |N:C  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-001-12770317>12</a> | <a href=MbrDtlMain.php?12770317>DRAGAN MILOVANOVIC</a>              |4.0  |W  19|D  47|W  39|D   4|L   2|W  17|
+   NJ | 12770317 / R: 2273   ->2276     |N:C  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-001-13398051>13</a> | <a href=MbrDtlMain.php?13398051>ALICE DONG</a>                      |4.0  |L  15|W  42|W  50|L  14|W  47|W  29|
+   NJ | 13398051 / R: 2039   ->2061     |N:1  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-001-12462633>14</a> | <a href=MbrDtlMain.php?12462633>DOV GORMAN</a>                      |3.5  |W  48|W  46|L  25|W  13|D  15|L  10|
+   NJ | 12462633 / R: 2384   ->2365     |N:C  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-001-14056673>15</a> | <a href=MbrDtlMain.php?14056673>PRAVEEN BALAKRISHNAN</a>            |3.5  |W  13|W  24|L   3|W  45|D  14|L   8|
+   NJ | 14056673 / R: 2223   ->2227     |N:C  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-001-13668844>16</a> | <a href=MbrDtlMain.php?13668844>ARAVIND KUMAR</a>                   |3.5  |L   4|D  38|W  56|D  47|W  46|D  24|
+   NJ | 13668844 / R: 2194   ->2180     |N:1  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-001-13344871>17</a> | <a href=MbrDtlMain.php?13344871>KADHIR AND PILLAI</a>               |3.5  |D   5|D  43|D  23|W  48|W  22|L  12|
+   NY | 13344871 / R: 2080   ->2088     |N:1  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-001-13218531>18</a> | <a href=MbrDtlMain.php?13218531>KIMBERLY DING</a>                   |3.5  |D   8|D  11|D  49|W  39|W  31|L   7|
+   NJ | 13218531 / R: 2012   ->2052     |N:C  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-001-10057094>19</a> | <a href=MbrDtlMain.php?10057094>GEORGE D MAXFIELD</a>               |3.5  |L  12|W  58|W  44|L   2|H    |W  37|
+   NJ | 10057094 / R: 2032   ->2041     |N:1  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-001-10086281>20</a> | <a href=MbrDtlMain.php?10086281>MARVIN SHUMOWITZ</a>                |3.5  |W  51|L   3|L   9|W  58|D  37|W  40|
+   NJ | 10086281 / R: 2023   ->2032     |N:1  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-001-13676211>21</a> | <a href=MbrDtlMain.php?13676211>MICHAEL WU</a>                      |3.5  |W  53|L   6|D  33|W  38|L  10|W  41|
+   NJ | 13676211 / R: 2012   ->2026     |N:1  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-001-11016090>22</a> | <a href=MbrDtlMain.php?11016090>TIMOTHY J HALL</a>                  |3.5  |W  38|W  49|L   5|D  30|L  17|W  43|
+   NJ | 11016090 / R: 2000   ->2017     |N:1  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-001-13471863>23</a> | <a href=MbrDtlMain.php?13471863>ETHAN J KLEIN</a>                   |3.5  |W  55|L   4|D  17|L   8|W  49|W  38|
+   NJ | 13471863 / R: 1976   ->1999     |N:1  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-001-12449971>24</a> | <a href=MbrDtlMain.php?12449971>WILLIAM CHEN</a>                    |3.5  |W  44|L  15|W  34|L  26|W  27|D  16|
+   PA | 12449971 / R: 1931   ->1975     |N:1  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-001-12057550>25</a> | <a href=MbrDtlMain.php?12057550>GREGORY MARKZON</a>                 |3.0  |W  36|W  54|W  14|L   1|L   9|U    |
+   NJ | 12057550 / R: 2272   ->2274     |N:C  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-001-12625419>26</a> | <a href=MbrDtlMain.php?12625419>J ALEX GRAEFFE</a>                  |3.0  |L   6|W  53|W  28|W  24|L  11|U    |
+   IL | 12625419 / R: 2055   ->2070     |N:1  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-001-10267170>27</a> | <a href=MbrDtlMain.php?10267170>STEPHEN HROP</a>                    |3.0  |H    |H    |W  43|L  11|L  24|W  48|
+   NJ | 10267170 / R: 2019   ->2015     |N:2  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-001-12530693>28</a> | <a href=MbrDtlMain.php?12530693>DR MICHAEL KOBLENTZ</a>             |3.0  |W  42|L   2|L  26|L  40|W  58|W  47|
+   NJ | 12530693 / R: 1953   ->1952     |N:2  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-001-13885980>29</a> | <a href=MbrDtlMain.php?13885980>JAY KRISHNA YALAMANCHILI</a>        |3.0  |D  10|L  52|D  35|W  34|X    |L  13|
+   NJ | 13885980 / R: 1879   ->1890     |N:2  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-001-10084369>30</a> | <a href=MbrDtlMain.php?10084369>JOHN RIDDELL</a>                    |2.5  |W  61|W  41|L   1|D  22|U    |U    |
+   NY | 10084369 / R: 2200   ->2200     |N:1  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-001-10254451>31</a> | <a href=MbrDtlMain.php?10254451>DALE EUGENE SHARP</a>               |2.5  |X    |D  39|W   8|L   6|L  18|U    |
+   NY | 10254451 / R: 2200   ->2200     |N:2  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-001-13701827>32</a> | <a href=MbrDtlMain.php?13701827>MICHAEL LIM</a>                     |2.5  |W  52|L   1|L  10|W  41|D  36|U    |
+   NJ | 13701827 / R: 2149   ->2139     |N:1  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-001-13858335>33</a> | <a href=MbrDtlMain.php?13858335>ANDY CHEN</a>                       |2.5  |L   2|W  55|D  21|W  49|L   8|U    |
+   NJ | 13858335 / R: 2071   ->2067     |N:1  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-001-12735850>34</a> | <a href=MbrDtlMain.php?12735850>RONALD M SAYLO</a>                  |2.5  |D  11|H    |L  24|L  29|W  54|D  35|
+   NJ | 12735850 / R: 2002   ->1986     |N:2  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-001-14566615>35</a> | <a href=MbrDtlMain.php?14566615>MARCIN MACIASZEK</a>                |2.5  |L   1|L  10|D  29|H    |W  53|D  34|
+   PA | 14566615 / R: 1974   ->1972     |N:2  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-001-13494590>36</a> | <a href=MbrDtlMain.php?13494590>MARYIA ORESHKO</a>                  |2.5  |L  25|L  45|B    |W  54|D  32|U    |
+   NJ | 13494590 / R: 1944   ->1943     |N:2  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-001-13793667>37</a> | <a href=MbrDtlMain.php?13793667>MICHAEL YEN</a>                     |2.5  |D  43|L   5|D  40|W  56|D  20|L  19|
+   NJ | 13793667 / R: 1947   ->1937     |N:2  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-001-14160065>38</a> | <a href=MbrDtlMain.php?14160065>BRANDON JACOBSON</a>                |2.5  |L  22|D  16|W  51|L  21|W  44|L  23|
+   NJ | 14160065 / R: 1936   ->1931     |N:2  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-001-12632969>39</a> | <a href=MbrDtlMain.php?12632969>KEVIN EMMANUEL CHEN</a>             |2.5  |W  56|D  31|L  12|L  18|L  41|W  55|
+   NJ | 12632969 / R: 1937   ->1930     |N:2  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-001-14215155>40</a> | <a href=MbrDtlMain.php?14215155>RYAN FENG</a>                       |2.5  |L  50|H    |D  37|W  28|D  48|L  20|
+   NJ | 14215155 / R: 1827   ->1841     |N:2  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-001-14494062>41</a> | <a href=MbrDtlMain.php?14494062>AARON SHLIONSKY</a>                 |2.5  |B    |L  30|D  48|L  32|W  39|L  21|
+   NJ | 14494062 / R: 1789   ->1804     |N:2  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-001-12480677>42</a> | <a href=MbrDtlMain.php?12480677>LEO DONOFRIO</a>                    |2.5  |L  28|L  13|L  58|D  53|B    |W  51|
+   NJ | 12480677 / R: 1803   ->1792     |N:3  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-001-12534906>43</a> | <a href=MbrDtlMain.php?12534906>MICHAEL JOSEPH O'CONNOR</a>         |2.5  |D  37|D  17|L  27|H    |W  51|L  22|
+   NJ | 12534906 / R: 1740   ->1786     |N:2  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-001-12001720>44</a> | <a href=MbrDtlMain.php?12001720>KENNETH N CALITRI</a>               |2.5  |L  24|X    |L  19|D  50|L  38|B    |
+   NJ | 12001720 / R: 1721   ->1713     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-001-14307325>45</a> | <a href=MbrDtlMain.php?14307325>SAHIL SINHA</a>                     |2.0  |L  54|W  36|W  52|L  15|F    |U    |
+   MD | 14307325 / R: 1988   ->1983     |N:2  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-001-12931994>46</a> | <a href=MbrDtlMain.php?12931994>TIMOTHY J HOANG</a>                 |2.0  |W  59|L  14|W  54|L   9|L  16|U    |
+   NJ | 12931994 / R: 1969   ->1966     |N:2  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-001-13871294>47</a> | <a href=MbrDtlMain.php?13871294>AARON JACOBSON</a>                  |2.0  |W  58|D  12|L  11|D  16|L  13|L  28|
+   NJ | 13871294 / R: 1950   ->1949     |N:2  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-001-14075364>48</a> | <a href=MbrDtlMain.php?14075364>ALAN GU</a>                         |2.0  |L  14|W  59|D  41|L  17|D  40|L  27|
+   NJ | 14075364 / R: 1953   ->1928     |N:2  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-001-14220903>49</a> | <a href=MbrDtlMain.php?14220903>TARAN RITESH IDNANI</a>             |2.0  |X    |L  22|D  18|L  33|L  23|D  53|
+   NJ | 14220903 / R: 1836   ->1821     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-001-13952678>50</a> | <a href=MbrDtlMain.php?13952678>PRANAV MARUPUDI</a>                 |1.5  |W  40|L   7|L  13|D  44|U    |U    |
+   NJ | 13952678 / R: 2017   ->1999     |N:3  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-001-12452482>51</a> | <a href=MbrDtlMain.php?12452482>PAUL R JOSEPH</a>                   |1.5  |L  20|H    |L  38|W  55|L  43|L  42|
+   NJ | 12452482 / R: 1966   ->1913     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-001-12920423>52</a> | <a href=MbrDtlMain.php?12920423>JEREMY RYAN GLASSMAN</a>            |1.5  |L  32|W  29|L  45|H    |U    |U    |
+   NJ | 12920423 / R: 1876   ->1875     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-001-12489157>53</a> | <a href=MbrDtlMain.php?12489157>JOHN JOSEPH CAPOLONGO</a>           |1.5  |L  21|L  26|D  55|D  42|L  35|D  49|
+   NJ | 12489157 / R: 1849   ->1821     |N:3  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-001-10045282>54</a> | <a href=MbrDtlMain.php?10045282>GORDON B MEGIBOW</a>                |1.5  |W  45|L  25|L  46|L  36|L  34|D  56|
+   NJ | 10045282 / R: 1809   ->1802     |N:2  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-001-14220898>55</a> | <a href=MbrDtlMain.php?14220898>ROSHAN RITESH IDNANI</a>            |1.5  |L  23|L  33|D  53|L  51|W  56|L  39|
+   NJ | 14220898 / R: 1813   ->1794     |N:3  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-001-13921791>56</a> | <a href=MbrDtlMain.php?13921791>TORIN KUEHNLE</a>                   |1.5  |L  39|B    |L  16|L  37|L  55|D  54|
+   PA | 13921791 / R: 1816   ->1777     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-001-10049920>57</a> | <a href=MbrDtlMain.php?10049920>ROBERT L ROSE</a>                   |1.0  |H    |L   8|H    |U    |U    |U    |
+   NJ | 10049920 / R: 2058   ->2050     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-001-12590630>58</a> | <a href=MbrDtlMain.php?12590630>SERGE ADELSON</a>                   |1.0  |L  47|L  19|W  42|L  20|L  28|U    |
+   NJ | 12590630 / R: 1784   ->1771     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-001-12612509>59</a> | <a href=MbrDtlMain.php?12612509>MIKHAIL KRUGLYAK</a>                |0.5  |L  46|L  48|U    |U    |H    |U    |
+   NJ | 12612509 / R: 1684   ->1670     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-001-12931994>60</a> | <a href=MbrDtlMain.php?12931994>TIMOTHY J HOANG</a>                 |0.0  |F    |F    |U    |U    |U    |U    |
+   NJ | 12931994 / R: 1969   ->1966     |N:2  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-001-11095461>61</a> | <a href=MbrDtlMain.php?11095461>DAVID A COLLINS</a>                 |0.0  |L  30|U    |U    |U    |U    |U    |
+   NJ | 11095461 / R: 1900   ->1900     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+Note:  Performances satisfying the requirements for norms are now being shown for events in the *Total Pts* column.<br>It may take a week for a recently rated event to have norms computed for it.
+</pre>
+</td>
+</tr>
+</table>
+<p>
+<a anchor="Section2"></a>
+<p>
+<table border=1 bgcolor=FFFFFF cellpadding=0 cellspacing=0>
+<tr>
+<td>
+<table border=0  bgcolor=FFFFFF  cellpadding=3 cellspacing=0>
+<tr>
+<td colspan=3 align=center bgcolor=DDDDFF>
+<b>Section 2 - U1900</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Chf. Asst. TD
+</td>
+<td width=1></td>
+<td>
+<b>AARON KIEDES</b> &nbsp;<small>(12897595)</small>
+</td>
+</tr>
+
+<tr>
+<td width=120 bgcolor=EEEEEE>
+Section Date(s)
+</td>
+<td width=1></td>
+<td>
+<b>2013-08-31 thru 2013-09-02</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Processed
+</td>
+<td width=1></td>
+<td>
+<b>Received: 2013-09-04 &nbsp; Entered: 2013-09-04 &nbsp; Rated: 2013-09-04 Re-Rated: 2014-06-10</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Stats
+</td>
+<td width=1></td>
+<td>
+<b>6 Rounds,&nbsp; 47 Players;  &nbsp;K Factor: F  &nbsp;Rating Sys: R  &nbsp;Tnmt Type: S  <br>Time Control: 40/120,SD/60;d5</b>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan=3>
+<pre>
+-----------------------------------------------------------------------------------
+<i> * Click on a Pairing Number to see the Player's Opponents.
+ * Click on a Player's Name for more information about the Player.</i>
+<font size=+2>Crosstable data is <b>not</b> shown in tiebreak order and <font color=red ><b><i>does NOT reflect <br>any distribution of trophies or prize monies.</font></font></b></i><a href=http://www.uschess.org/msa/FAQ.php>(See Frequent Questions)</a>
+<i>Crosstable data is shown as reported to the USCF by the Tournament Director.  <br>Please contact the TD to report any crosstable errors.</i>
+Note:  The information below the "Total Pts" score shows the highest norm earned in this event.<br>For more information on norms, see <a href=http://www.glicko.net/ratings/titles.pdf>The USCF Title System</a>.
+-----------------------------------------------------------------------------------
+ Pair | Player Name                     |Total|Round|Round|Round|Round|Round|Round| 
+ Num  | USCF ID / Rtg (Pre->Post)       | Pts |  1  |  2  |  3  |  4  |  5  |  6  | 
+-----------------------------------------------------------------------------------
+    <a href=XtblPlr.php?201309023822-002-12809190>1</a> | <a href=MbrDtlMain.php?12809190>SRINIVASAN RAMANUJAM</a>            |5.0  |W  45|W   3|W  27|W  12|W   8|L   2|
+   NJ | 12809190 / R: 1857   ->1919     |N:1  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+    <a href=XtblPlr.php?201309023822-002-14022780>2</a> | <a href=MbrDtlMain.php?14022780>KEVIN HUANG</a>                     |5.0  |D  10|W  41|W   7|W  22|D   5|W   1|
+   NJ | 14022780 / R: 1752   ->1851     |N:1  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+    <a href=XtblPlr.php?201309023822-002-12934193>3</a> | <a href=MbrDtlMain.php?12934193>RICHARD DAVISSON</a>                |5.0  |W  29|L   1|W  19|W  42|W  12|W   8|
+   NJ | 12934193 / R: 1760   ->1849     |N:2  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+    <a href=XtblPlr.php?201309023822-002-12734172>4</a> | <a href=MbrDtlMain.php?12734172>RONALD P GROSEIBL</a>               |5.0  |W  44|W  46|W  33|L   8|W  18|W  13|
+   NJ | 12734172 / R: 1756   ->1818     |N:2  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+    <a href=XtblPlr.php?201309023822-002-11208304>5</a> | <a href=MbrDtlMain.php?11208304>FRANK  W JACKSON</a>                |4.5  |W  31|W  40|H   0|W  18|D   2|D   6|
+   PA | 11208304 / R: 1924   ->1933     |N:2  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+    <a href=XtblPlr.php?201309023822-002-12767754>6</a> | <a href=MbrDtlMain.php?12767754>MICHAEL MCCAFFERY</a>               |4.5  |W  32|W  23|L  18|W  14|W   9|D   5|
+   NJ | 12767754 / R: 1684   ->1769     |N:2  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+    <a href=XtblPlr.php?201309023822-002-13910544>7</a> | <a href=MbrDtlMain.php?13910544>CHRISTOPHER MORAVEK</a>             |4.5  |D  41|W  25|L   2|W  39|W  33|W  16|
+   PA | 13910544 / R: 1708   ->1766     |N:2  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+    <a href=XtblPlr.php?201309023822-002-14218690>8</a> | <a href=MbrDtlMain.php?14218690>DANIEL LEVKOV</a>                   |4.0  |W  19|W  28|W   9|W   4|L   1|L   3|
+   NY | 14218690 / R: 1835   ->1855     |N:2  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+    <a href=XtblPlr.php?201309023822-002-15180467>9</a> | <a href=MbrDtlMain.php?15180467>ALAN BOKIEV</a>                     |4.0  |W  20|W  27|L   8|W  21|L   6|W  24|
+   NJ | 15180467 / R: 1816   ->1823     |N:2  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-002-14184537>10</a> | <a href=MbrDtlMain.php?14184537>ZEHAO SHEN</a>                      |4.0  |D   2|D  15|W  23|D  16|D  24|W  26|
+   NJ | 14184537 / R: 1726   ->1732     |N:3  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-002-14325542>11</a> | <a href=MbrDtlMain.php?14325542>JOSHUA GUO</a>                      |4.0  |L  27|W  20|D  28|W  34|D  22|W  25|
+   NJ | 14325542 / R: 1707   ->1728     |N:2  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-002-12778527>12</a> | <a href=MbrDtlMain.php?12778527>DANIEL MAUS</a>                     |4.0  |X   0|W  14|W  16|L   1|L   3|W  22|
+   NY | 12778527 / R: 1703   ->1725     |N:2  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-002-14527090>13</a> | <a href=MbrDtlMain.php?14527090>SRIRAM KUMAR</a>                    |4.0  |W  34|L  16|W  26|W  25|W  17|L   4|
+   NJ | 14527090 / R: 1595   ->1661     |N:2  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-002-14587517>14</a> | <a href=MbrDtlMain.php?14587517>EVELYN ZHU</a>                      |3.5  |W  47|L  12|W  36|L   6|D  29|W  28|
+   NY | 14587517 / R: 1599   ->1653     |N:3  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-002-14382316>15</a> | <a href=MbrDtlMain.php?14382316>RAMITHA SAI RAVISHANKAR</a>         |3.5  |D  37|D  10|L  17|D  27|W  34|W  32|
+   NJ | 14382316 / R: 1533   ->1621     |N:3  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-002-13483171>16</a> | <a href=MbrDtlMain.php?13483171>MARKO VAN SELOUS</a>                |3.5  |W  42|W  13|L  12|D  10|W  30|L   7|
+   NJ | 13483171 / R: 1482   ->1611     |N:2  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-002-12905539>17</a> | <a href=MbrDtlMain.php?12905539>NICHOLAS MICHAEL KATZ</a>           |3.0  |W  36|L  18|W  15|D  33|L  13|D  19|
+   NJ | 12905539 / R: 1749   ->1722     |N:3  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-002-12416607>18</a> | <a href=MbrDtlMain.php?12416607>PAUL M GOTTLIEB</a>                 |3.0  |X   0|W  17|W   6|L   5|L   4|U   0|
+   NJ | 12416607 / R: 1600   ->1658     |N:2  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-002-14077836>19</a> | <a href=MbrDtlMain.php?14077836>NICK FIGORITO</a>                   |3.0  |L   8|B   0|L   3|W  28|D  32|D  17|
+   NY | 14077836 / R: 1643   ->1652     |N:3  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-002-13768890>20</a> | <a href=MbrDtlMain.php?13768890>MAXWELL HARRIS WEINSTEIN</a>        |3.0  |L   9|L  11|D  31|H   0|W  43|W  36|
+   NJ | 13768890 / R: 1633   ->1643     |N:3  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-002-13330268>21</a> | <a href=MbrDtlMain.php?13330268>SHIV KRISHEN SETHI</a>              |3.0  |L  40|W  31|W  29|L   9|L  25|W  35|
+   NJ | 13330268 / R: 1608   ->1634     |N:3  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-002-12932570>22</a> | <a href=MbrDtlMain.php?12932570>JOSEPH A FORTUNATO</a>              |3.0  |X   0|H   0|W  35|L   2|D  11|L  12|
+   NJ | 12932570 / R: 1590   ->1600     |N:3  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-002-14279116>23</a> | <a href=MbrDtlMain.php?14279116>SEAN CUSHMAN</a>                    |3.0  |W  24|L   6|L  10|D  35|W  46|D  27|
+   NY | 14279116 / R: 1515   ->1581     |N:3  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-002-14468917>24</a> | <a href=MbrDtlMain.php?14468917>MICHAEL BERRIOS</a>                 |3.0  |L  23|B   0|W  46|D  30|D  10|L   9|
+   NJ | 14468917 / R: 1527   ->1544     |N:3  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-002-14382301>25</a> | <a href=MbrDtlMain.php?14382301>RAKSHAA RAVISHANKAR</a>             |3.0  |W  26|L   7|W  44|L  13|W  21|L  11|
+   NJ | 14382301 / R: 1431   ->1540     |N:3  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-002-14259600>26</a> | <a href=MbrDtlMain.php?14259600>JOHN CARTIER</a>                    |3.0  |L  25|W  32|L  13|W  41|W  36|L  10|
+   NJ | 14259600 / R: 1421   ->1519     |N:3  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-002-10084849>27</a> | <a href=MbrDtlMain.php?10084849>HOWARD GEE</a>                      |2.5  |W  11|L   9|L   1|D  15|D  35|D  23|
+   NY | 10084849 / R: 1905   ->1857     |N:3  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-002-13092612>28</a> | <a href=MbrDtlMain.php?13092612>ALEX J SCHWARTZBERG</a>             |2.5  |W  30|L   8|D  11|L  19|W  42|L  14|
+   NJ | 13092612 / R: 1798   ->1761     |N:3  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-002-13518335>29</a> | <a href=MbrDtlMain.php?13518335>CONNOR RIDDELL</a>                  |2.5  |L   3|W  39|L  21|W  46|D  14|U   0|
+   NY | 13518335 / R: 1729   ->1724     |N:3  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-002-13464150>30</a> | <a href=MbrDtlMain.php?13464150>RYAN J HOANG</a>                    |2.5  |L  28|W  45|W  40|D  24|L  16|U   0|
+   NJ | 13464150 / R: 1711   ->1703     |N:3  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-002-12454908>31</a> | <a href=MbrDtlMain.php?12454908>HAL SPRECHMAN</a>                   |2.5  |L   5|L  21|D  20|W  37|X   0|U   0|
+   NJ | 12454908 / R: 1680   ->1661     |N:4  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-002-12456765>32</a> | <a href=MbrDtlMain.php?12456765>GLEN B HART</a>                     |2.5  |L   6|L  26|W  37|W  38|D  19|L  15|
+   NJ | 12456765 / R: 1667   ->1628     |N:4  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-002-14440291>33</a> | <a href=MbrDtlMain.php?14440291>JAMIE NICOLAS</a>                   |2.5  |W  35|W  38|L   4|D  17|L   7|U   0|
+   NY | 14440291 / R: 1609   ->1622     |N:3  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-002-10016941>34</a> | <a href=MbrDtlMain.php?10016941>LOUIS STURNIOLO</a>                 |2.5  |L  13|D  42|W  38|L  11|L  15|W  41|
+   NJ | 10016941 / R: 1638   ->1613     |N:3  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-002-12061550>35</a> | <a href=MbrDtlMain.php?12061550>EDWARD J SYTNIK</a>                 |2.0  |L  33|W  37|L  22|D  23|D  27|L  21|
+   NJ | 12061550 / R: 1700   ->1700     |N:4  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-002-14215292>36</a> | <a href=MbrDtlMain.php?14215292>DAVID J ZHURBINSKY</a>              |2.0  |L  17|W  47|L  14|W  43|L  26|L  20|
+   NJ | 14215292 / R: 1724   ->1660     |N:4  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-002-12472847>37</a> | <a href=MbrDtlMain.php?12472847>TIMOTHY J KRAFT</a>                 |2.0  |D  15|L  35|L  32|L  31|W  47|D  43|
+   NJ | 12472847 / R: 1519   ->1502     |N:4  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-002-12448019>38</a> | <a href=MbrDtlMain.php?12448019>ERIC DYREYES BAUTISTA</a>           |2.0  |B   0|L  33|L  34|L  32|L  41|X   0|
+   NC | 12448019 / R: 1400   ->1400     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-002-13564905>39</a> | <a href=MbrDtlMain.php?13564905>AUGUSTO GUTIERREZ</a>               |1.5  |H   0|L  29|W  45|L   7|F   0|U   0|
+   NJ | 13564905 / R: 1881   ->1847     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-002-12717071>40</a> | <a href=MbrDtlMain.php?12717071>DONALD EDWIN BATTLE JR</a>          |1.5  |W  21|L   5|L  30|U   0|H   0|U   0|
+   NJ | 12717071 / R: 1820   ->1796     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-002-13908701>41</a> | <a href=MbrDtlMain.php?13908701>SARAH YEN</a>                       |1.5  |D   7|L   2|L  42|L  26|W  38|L  34|
+   NJ | 13908701 / R: 1693   ->1629     |N:4  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-002-13860430>42</a> | <a href=MbrDtlMain.php?13860430>MERRICK SIGMAN CHANG</a>            |1.5  |L  16|D  34|W  41|L   3|L  28|U   0|
+   NJ | 13860430 / R: 1631   ->1609     |N:4  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-002-13720702>43</a> | <a href=MbrDtlMain.php?13720702>SIKATA BELA SENGUPTA</a>            |1.5  |L  46|L  44|W  47|L  36|L  20|D  37|
+   NJ | 13720702 / R: 1538   ->1500     |N:4  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-002-14188698>44</a> | <a href=MbrDtlMain.php?14188698>KESHAV RAO</a>                      |1.0  |L   4|W  43|L  25|U   0|U   0|U   0|
+   NJ | 14188698 / R: 1805   ->1768     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-002-12114610>45</a> | <a href=MbrDtlMain.php?12114610>GREGORY J TOMKOVICH</a>             |1.0  |L   1|L  30|L  39|W  47|U   0|U   0|
+   NJ | 12114610 / R: 1700   ->1671     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-002-12625722>46</a> | <a href=MbrDtlMain.php?12625722>DOUGLAS W PROLL</a>                 |1.0  |W  43|L   4|L  24|L  29|L  23|F   0|
+   NJ | 12625722 / R: 1600   ->1600     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-002-14548782>47</a> | <a href=MbrDtlMain.php?14548782>DHRUV PATEL</a>                     |1.0  |L  14|L  36|L  43|L  45|L  37|B   0|
+   NJ | 14548782 / R: 1488   ->1422     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+Note:  Performances satisfying the requirements for norms are now being shown for events in the *Total Pts* column.<br>It may take a week for a recently rated event to have norms computed for it.
+</pre>
+</td>
+</tr>
+</table>
+<p>
+<a anchor="Section3"></a>
+<p>
+<table border=1 bgcolor=FFFFFF cellpadding=0 cellspacing=0>
+<tr>
+<td>
+<table border=0  bgcolor=FFFFFF  cellpadding=3 cellspacing=0>
+<tr>
+<td colspan=3 align=center bgcolor=DDDDFF>
+<b>Section 3 - U1600</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Chf. Asst. TD
+</td>
+<td width=1></td>
+<td>
+<b>AARON KIEDES</b> &nbsp;<small>(12897595)</small>
+</td>
+</tr>
+
+<tr>
+<td width=120 bgcolor=EEEEEE>
+Section Date(s)
+</td>
+<td width=1></td>
+<td>
+<b>2013-08-31 thru 2013-09-02</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Processed
+</td>
+<td width=1></td>
+<td>
+<b>Received: 2013-09-04 &nbsp; Entered: 2013-09-04 &nbsp; Rated: 2013-09-04 Re-Rated: 2014-02-19</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Stats
+</td>
+<td width=1></td>
+<td>
+<b>6 Rounds,&nbsp; 27 Players;  &nbsp;K Factor: F  &nbsp;Rating Sys: R  &nbsp;Tnmt Type: S  <br>Time Control: 40/120,SD/60;d5</b>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan=3>
+<pre>
+-----------------------------------------------------------------------------------
+<i> * Click on a Pairing Number to see the Player's Opponents.
+ * Click on a Player's Name for more information about the Player.</i>
+<font size=+2>Crosstable data is <b>not</b> shown in tiebreak order and <font color=red ><b><i>does NOT reflect <br>any distribution of trophies or prize monies.</font></font></b></i><a href=http://www.uschess.org/msa/FAQ.php>(See Frequent Questions)</a>
+<i>Crosstable data is shown as reported to the USCF by the Tournament Director.  <br>Please contact the TD to report any crosstable errors.</i>
+Note:  The information below the "Total Pts" score shows the highest norm earned in this event.<br>For more information on norms, see <a href=http://www.glicko.net/ratings/titles.pdf>The USCF Title System</a>.
+-----------------------------------------------------------------------------------
+ Pair | Player Name                     |Total|Round|Round|Round|Round|Round|Round| 
+ Num  | USCF ID / Rtg (Pre->Post)       | Pts |  1  |  2  |  3  |  4  |  5  |  6  | 
+-----------------------------------------------------------------------------------
+    <a href=XtblPlr.php?201309023822-003-13591582>1</a> | <a href=MbrDtlMain.php?13591582>ELIE KAPENGUT</a>                   |5.0  |W  19|D  12|W  10|W  13|D   5|W   4|
+   NJ | 13591582 / R: 1510   ->1605     |N:3  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+    <a href=XtblPlr.php?201309023822-003-14697664>2</a> | <a href=MbrDtlMain.php?14697664>NICHOLAS CARDENAS</a>               |5.0  |W  18|L   4|W  21|W  10|W   6|W   5|
+   NJ | 14697664 / R: 1462   ->1583     |N:3  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+    <a href=XtblPlr.php?201309023822-003-12524462>3</a> | <a href=MbrDtlMain.php?12524462>STEVEN LIESCH</a>                   |4.5  |L   6|W  15|W  16|W  22|D   7|W  13|
+   NJ | 12524462 / R: 1591   ->1589     |N:3  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+    <a href=XtblPlr.php?201309023822-003-14701050>4</a> | <a href=MbrDtlMain.php?14701050>SHAWN WANG</a>                      |4.0  |W  21|W   2|W  23|L   5|W  12|L   1|
+   PA | 14701050 / R: 1605   ->1600     |N:3  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+    <a href=XtblPlr.php?201309023822-003-14323132>5</a> | <a href=MbrDtlMain.php?14323132>SAMUEL ZHANG</a>                    |4.0  |W   7|W  16|D   6|W   4|D   1|L   2|
+   NJ | 14323132 / R: 1465   ->1544     |N:3  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+    <a href=XtblPlr.php?201309023822-003-14267945>6</a> | <a href=MbrDtlMain.php?14267945>ALBERT TANG</a>                     |4.0  |W   3|W  25|D   5|D  12|L   2|W  15|
+   NJ | 14267945 / R: 1417   ->1495     |N:3  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+    <a href=XtblPlr.php?201309023822-003-13908696>7</a> | <a href=MbrDtlMain.php?13908696>NICOLE YEN</a>                      |4.0  |L   5|W  27|W  25|W  24|D   3|D   8|
+   NJ | 13908696 / R: 1427   ->1453     |N:4  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+    <a href=XtblPlr.php?201309023822-003-14687055>8</a> | <a href=MbrDtlMain.php?14687055>ANGELICA CHIN</a>                   |4.0  |X   0|H   0|L  12|W   9|W  23|D   7|
+   NJ | 14687055 / R: 1373   ->1430     |N:4  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+    <a href=XtblPlr.php?201309023822-003-14153335>9</a> | <a href=MbrDtlMain.php?14153335>BRANDON NG</a>                      |3.5  |D  13|L  24|W  18|L   8|W  25|W  17|
+   NJ | 14153335 / R: 1569   ->1528     |N:4  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-003-14672670>10</a> | <a href=MbrDtlMain.php?14672670>CLAIRE CAO</a>                      |3.5  |W  11|W  17|L   1|L   2|H   0|W  19|
+   PA | 14672670 / R: 1480   ->1492     |N:4  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-003-14687040>11</a> | <a href=MbrDtlMain.php?14687040>JONATHAN CHIN</a>                   |3.5  |L  10|H   0|D  15|W  20|W  16|D  12|
+   NJ | 14687040 / R: 1461   ->1458     |N:4  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-003-14208535>12</a> | <a href=MbrDtlMain.php?14208535>MATTHEW LI JR</a>                   |3.5  |W  20|D   1|W   8|D   6|L   4|D  11|
+   NJ | 14208535 / R: 1317   ->1424     |N:4  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-003-13652811>13</a> | <a href=MbrDtlMain.php?13652811>JOE RENNA</a>                       |3.5  |D   9|W  18|W  24|L   1|W  17|L   3|
+   NJ | 13652811 / R: 1342   ->1415     |N:4  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-003-13904274>14</a> | <a href=MbrDtlMain.php?13904274>TODD JOBSON</a>                     |3.0  |W  26|L  23|L  22|L  16|W  27|W  24|
+   NJ | 13904274 / R: 1468   ->1414     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-003-14548797>15</a> | <a href=MbrDtlMain.php?14548797>DARSHAN PATEL</a>                   |3.0  |H   0|L   3|D  11|W  21|W  24|L   6|
+   NJ | 14548797 / R: 1392   ->1397     |N:4  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-003-14154804>16</a> | <a href=MbrDtlMain.php?14154804>PHILIP LEE</a>                      |3.0  |W  27|L   5|L   3|W  14|L  11|W  23|
+   NJ | 14154804 / R: 1280   ->1346     |N:4  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-003-13874163>17</a> | <a href=MbrDtlMain.php?13874163>AUDREY VACHEL COOMBE</a>            |3.0  |B   0|L  10|W  20|W  23|L  13|L   9|
+   NY | 13874163 / R: 1136   ->1215     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-003-14496246>18</a> | <a href=MbrDtlMain.php?14496246>JAYADEEP BOYA</a>                   |2.5  |L   2|L  13|L   9|W  26|D  21|W  25|
+   IL | 14496246 / R: 1448   ->1409     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-003-11379214>19</a> | <a href=MbrDtlMain.php?11379214>ROMEO R DE JESUS</a>                |2.5  |L   1|L  20|W  27|D  25|W  22|L  10|
+   NJ | 11379214 / R: 1435   ->1386     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-003-14267951>20</a> | <a href=MbrDtlMain.php?14267951>ANTHONY TANG</a>                    |2.5  |L  12|W  19|L  17|L  11|W  26|D  22|
+   NJ | 14267951 / R: 1249   ->1251     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-003-14493968>21</a> | <a href=MbrDtlMain.php?14493968>GREGORY PYLYPOVYCH</a>              |2.5  |L   4|W  26|L   2|L  15|D  18|X   0|
+   NJ | 14493968 / R: 1235   ->1245     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-003-14707243>22</a> | <a href=MbrDtlMain.php?14707243>ABHIRAJ SAXENA</a>                  |2.5  |L  23|B   0|W  14|L   3|L  19|D  20|
+   NJ | 14707243 / R: 1165   ->1183     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-003-14586693>23</a> | <a href=MbrDtlMain.php?14586693>HAMILTON SHILLINGFORD</a>           |2.0  |W  22|W  14|L   4|L  17|L   8|L  16|
+   NY | 14586693 / R: 1425   ->1371     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-003-14443270>24</a> | <a href=MbrDtlMain.php?14443270>KEVIN KANG CUI</a>                  |2.0  |B   0|W   9|L  13|L   7|L  15|L  14|
+   PA | 14443270 / R: 1316   ->1289     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-003-13483708>25</a> | <a href=MbrDtlMain.php?13483708>MICHAEL AKSEN</a>                   |1.5  |X   0|L   6|L   7|D  19|L   9|L  18|
+   NJ | 13483708 / R: 1284   ->1245     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-003-14589268>26</a> | <a href=MbrDtlMain.php?14589268>CHRISTOPHER CONSTANTINO</a>         |1.5  |L  14|L  21|H   0|L  18|L  20|B   0|
+   NJ | 14589268 / R: 1321   ->1235     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-003-12397229>27</a> | <a href=MbrDtlMain.php?12397229>H KNOX BICKFORD III</a>             |1.0  |L  16|L   7|L  19|B   0|L  14|F   0|
+   PA | 12397229 / R: 1252   ->1198     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+Note:  Performances satisfying the requirements for norms are now being shown for events in the *Total Pts* column.<br>It may take a week for a recently rated event to have norms computed for it.
+</pre>
+</td>
+</tr>
+</table>
+<p>
+<a anchor="Section4"></a>
+<p>
+<table border=1 bgcolor=FFFFFF cellpadding=0 cellspacing=0>
+<tr>
+<td>
+<table border=0  bgcolor=FFFFFF  cellpadding=3 cellspacing=0>
+<tr>
+<td colspan=3 align=center bgcolor=DDDDFF>
+<b>Section 4 - U1300</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Chf. Asst. TD
+</td>
+<td width=1></td>
+<td>
+<b>AARON KIEDES</b> &nbsp;<small>(12897595)</small>
+</td>
+</tr>
+
+<tr>
+<td width=120 bgcolor=EEEEEE>
+Section Date(s)
+</td>
+<td width=1></td>
+<td>
+<b>2013-08-31 thru 2013-09-02</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Processed
+</td>
+<td width=1></td>
+<td>
+<b>Received: 2013-09-04 &nbsp; Entered: 2013-09-04 &nbsp; Rated: 2013-09-04 Re-Rated: 2014-05-21</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Stats
+</td>
+<td width=1></td>
+<td>
+<b>6 Rounds,&nbsp; 24 Players;  &nbsp;K Factor: F  &nbsp;Rating Sys: R  &nbsp;Tnmt Type: S  <br>Time Control: 40/120,SD/60;d5</b>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan=3>
+<pre>
+-----------------------------------------------------------------------------------
+<i> * Click on a Pairing Number to see the Player's Opponents.
+ * Click on a Player's Name for more information about the Player.</i>
+<font size=+2>Crosstable data is <b>not</b> shown in tiebreak order and <font color=red ><b><i>does NOT reflect <br>any distribution of trophies or prize monies.</font></font></b></i><a href=http://www.uschess.org/msa/FAQ.php>(See Frequent Questions)</a>
+<i>Crosstable data is shown as reported to the USCF by the Tournament Director.  <br>Please contact the TD to report any crosstable errors.</i>
+Note:  The information below the "Total Pts" score shows the highest norm earned in this event.<br>For more information on norms, see <a href=http://www.glicko.net/ratings/titles.pdf>The USCF Title System</a>.
+-----------------------------------------------------------------------------------
+ Pair | Player Name                     |Total|Round|Round|Round|Round|Round|Round| 
+ Num  | USCF ID / Rtg (Pre->Post)       | Pts |  1  |  2  |  3  |  4  |  5  |  6  | 
+-----------------------------------------------------------------------------------
+    <a href=XtblPlr.php?201309023822-004-14798995>1</a> | <a href=MbrDtlMain.php?14798995>JOHN WANG</a>                       |5.5  |W  10|W  22|W   7|W  14|W   8|D   2|
+   NJ | 14798995 / R: 1257   ->1401     |N:4  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+    <a href=XtblPlr.php?201309023822-004-14789992>2</a> | <a href=MbrDtlMain.php?14789992>YUVANSHU AGARWAL</a>                |5.0  |W  17|W  11|W  13|D   8|W  10|D   1|
+   NJ | 14789992 / R: 1041   ->1304     |N:4  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+    <a href=XtblPlr.php?201309023822-004-13720697>3</a> | <a href=MbrDtlMain.php?13720697>ANIRVAN MAYUKH SENGUPTA</a>         |5.0  |X    |L   7|W  23|W  20|W  11|W   6|
+   NJ | 13720697 / R: 1068   ->1228     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+    <a href=XtblPlr.php?201309023822-004-14708493>4</a> | <a href=MbrDtlMain.php?14708493>MICHAEL L WEINSTEIN</a>             |4.5  |W   5|L  14|W  16|H    |W  12|W   8|
+   NJ | 14708493 / R: 1070   ->1273     |N:4  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+    <a href=XtblPlr.php?201309023822-004-13927387>5</a> | <a href=MbrDtlMain.php?13927387>MASON STAHL</a>                     |4.0  |L   4|W   9|L   6|W  15|W  18|W  12|
+   NJ | 13927387 / R: 1254   ->1256     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+    <a href=XtblPlr.php?201309023822-004-14956453>6</a> | <a href=MbrDtlMain.php?14956453>JONATHAN QI</a>                     |4.0  |X    |L  12|W   5|W  11|W  14|L   3|
+   NJ | 14956453 / R: 1113   ->1208     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+    <a href=XtblPlr.php?201309023822-004-13299118>7</a> | <a href=MbrDtlMain.php?13299118>JOSHUA ELIJAH KATZ</a>              |3.5  |W  13|W   3|L   1|L  12|D  17|W  14|
+   NJ | 13299118 / R: 1287   ->1276     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+    <a href=XtblPlr.php?201309023822-004-14321340>8</a> | <a href=MbrDtlMain.php?14321340>HARRISON K SANFORD</a>              |3.5  |W  20|W  18|W  12|D   2|L   1|L   4|
+   PA | 14321340 / R: 1233   ->1253     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+    <a href=XtblPlr.php?201309023822-004-14700151>9</a> | <a href=MbrDtlMain.php?14700151>JOEL RODRIGUEZ</a>                  |3.5  |L  18|L   5|W  21|W  22|D  23|W  17|
+   NJ | 14700151 / R: 1172   ->1096     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-004-14949263>10</a> | <a href=MbrDtlMain.php?14949263>LEONARDO MOREIRA</a>                |3.0  |L   1|W  17|W  19|W  23|L   2|U    |
+   NJ | 14949263 / R: 1271   ->1249     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-004-13778367>11</a> | <a href=MbrDtlMain.php?13778367>SIMON GORBATY</a>                   |3.0  |W  24|L   2|W  22|L   6|L   3|W  18|
+   NJ | 13778367 / R: 1286   ->1245     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-004-14003952>12</a> | <a href=MbrDtlMain.php?14003952>TAKESHI KEN KUBO</a>                |3.0  |W  16|W   6|L   8|W   7|L   4|L   5|
+   NY | 14003952 / R: 1250   ->1241     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-004-12630617>13</a> | <a href=MbrDtlMain.php?12630617>LAWRENCE A CONSTANCE</a>            |3.0  |L   7|W  23|L   2|L  18|W  15|W  19|
+   NJ | 12630617 / R: 1200   ->1200     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-004-13904300>14</a> | <a href=MbrDtlMain.php?13904300>TODD JOBSON II</a>                  |3.0  |W  21|W   4|W  15|L   1|L   6|L   7|
+   NJ | 13904300 / R: 1166   ->1164     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-004-15014252>15</a> | <a href=MbrDtlMain.php?15014252>SABINA LEVKOV</a>                   |3.0  |B    |W  20|L  14|L   5|L  13|W  21|
+   NY | 15014252 / R:  451   -> 656     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-004-14844850>16</a> | <a href=MbrDtlMain.php?14844850>CLIFFORD BAKALIAN</a>               |2.5  |L  12|W  21|L   4|L  17|D  22|W  20|
+   PA | 14844850 / R: 1170   ->1122     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-004-14950391>17</a> | <a href=MbrDtlMain.php?14950391>DHRUV PATEL</a>                     |2.5  |L   2|L  10|B    |W  16|D   7|L   9|
+   NJ | 14950391 / R:  950   -> 984     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-004-14669367>18</a> | <a href=MbrDtlMain.php?14669367>JUN KUBO</a>                        |2.0  |W   9|L   8|L  20|W  13|L   5|L  11|
+   NY | 14669367 / R: 1066   ->1058     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-004-14494908>19</a> | <a href=MbrDtlMain.php?14494908>MAX GORBATY</a>                     |2.0  |L  22|W  24|L  10|L  21|B    |L  13|
+   NJ | 14494908 / R:  745   -> 763     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-004-12620447>20</a> | <a href=MbrDtlMain.php?12620447>CRAIG BAKALIAN</a>                  |1.5  |L   8|L  15|W  18|L   3|D  21|L  16|
+   PA | 12620447 / R: 1281P7 ->1088P13  |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-004-14097411>21</a> | <a href=MbrDtlMain.php?14097411>DIVYANSH DEVNANI</a>                |1.5  |L  14|L  16|L   9|W  19|D  20|L  15|
+   NJ | 14097411 / R: 1085   -> 991     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-004-14341316>22</a> | <a href=MbrDtlMain.php?14341316>VINAY RAO</a>                       |1.5  |W  19|L   1|L  11|L   9|D  16|U    |
+   NJ | 14341316 / R:  961   -> 956     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-004-14329001>23</a> | <a href=MbrDtlMain.php?14329001>VARUN RAO</a>                       |1.5  |B    |L  13|L   3|L  10|D   9|U    |
+   NJ | 14329001 / R:  851   -> 848     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201309023822-004-14700151>24</a> | <a href=MbrDtlMain.php?14700151>JOEL RODRIGUEZ</a>                  |0.0  |L  11|L  19|U    |U    |U    |U    |
+   NJ | 14700151 / R: 1172   ->1096     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+Note:  Performances satisfying the requirements for norms are now being shown for events in the *Total Pts* column.<br>It may take a week for a recently rated event to have norms computed for it.
+</pre>
+</td>
+</tr>
+</table>
+</table>
+</form>
+&nbsp;
+<p>
+<hr>
+<p>
+<center>
+<p>
+<p>
+<font size=-1>
+Session  / 0
+<br>Version 1.00b / 2003-10-16
+</font>
+<br>
+<font size=-1>
+<i>
+USCF Member Services Area - Copyright 2002-2012 by the <a href="http://www.USChess.org">US Chess Federation</a> -  All Rights Reserved
+<br><a href="http://msa.uschess.org/FAQ.php">Frequently Asked Questions</a>
+<br>Report problems to <a href="mailto:msafeedback@uschess.org">msafeedback@uschess.org</a>
+<br><a href="http://www.USChess.org">Return to USCF Home Page</a>
+</i>
+</font>
+</center>
+<p>
+<hr>
+<p>
+</body>
+</html>

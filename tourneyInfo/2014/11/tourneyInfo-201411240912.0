@@ -1,0 +1,453 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+<title>USCF MSA - Cross Table for FALL CHALLENGE (Event 201411240912)</title>
+<style type='text/css'>
+body {margin-left: 10; margin-right: 10; margin-top: 0; margin-bottom: 0;  background-color: #40B7D3; min-width: 800px;}
+td {font: helvetica; color: black; font-size: 100%;}
+input {font: helvetica; font-size: 100%; color: black; font-weight: bold; padding-left: 4;}
+input.submit_debug {font: helvetica; font-size: 10pt; color: red; font-weight: normal; background-color: #BFBFBF;}
+input.submit {font: helvetica; font-size: 10pt; color: black; font-weight: normal; background-color: #BFBFBF;}
+input.submit_dis {font: helvetica; font-size: 10pt; color: grey; background-color: #BFBFBF;}
+select {font: helvetica; font-size: 10pt;  color: brown}
+a.topbar-line1 {font: helvetica; font-size: 100%; color: white; text-decoration: none; padding-left: 10;}
+a.topbar-line2 {font: helvetica; font-size: 100%; color: #0373A4; text-decoration: underline; padding-left: 10;}
+/* a {font: helvetica; font-size: 100%; color: black; text-decoration: none; padding-left: 10;} */
+
+/*  table {border: 2px solid red; margin: 0px;}
+td{border: 1px dotted purple; padding: 2px; } */
+
+table.topbar {border-style: none; border-width: 0; border: 0; margin: 0; padding: 0; cell-padding: 0; background-color: #40B7D3;}
+tr.topbar {padding: 5;  margin-top: 5; margin-bottom: 5; background-color: #40B7D3; }
+td.topbar {padding: 3; color: white; font: helvetica; font-size: 100%; font-weight: bold;}
+td.topbar-side {padding: 0; color: black; font: helvetica; font-size: 100%; background-color: #FFFFFF;}
+td.topbar-middle {padding: 0; color: black; font: helvetica; font-size: 100%; background-color: #FFFFFF;}
+td.topbar-line2 {padding: 0; padding: 3; font: helvetica; font-size: 100%; color: #0373A4; background-color: #C7EAFB;}
+td.topbar-line2-right {text-align: right; padding: 0; padding: 3; font: helvetica; font-size: 100%; color: #0373A4; background-color: #C7EAFB;}
+td.topbar-right {text-align: right; padding: 0; color: blue; font: helvetica; font-size: 100%;  background-color: #40B7D3;}
+span.right {text-align: right; background-color: #E0FFFF}
+</style></head>
+<body >
+<table width=100% class=topbar cellspacing=0><tr class=topbar></td><td class=topbar width=100% ><table cellspacing=0 class=topbar width=100%><tr class=topbar><td class=topbar >US Chess Federation - Member Services Area</td><td class=topbar-right >
+<a class=topbar-line1 href=http://main.uschess.org/content/blogcategory/30/319>Press</a>
+<a class=topbar-line1 href=http://main.uschess.org/content/view/7850/385>Advertising</a>
+<a class=topbar-line1 href=http://main.uschess.org/content/blogsection/12/35>About the USCF</a>
+<a class=topbar-line1 href=http://main.uschess.org/component/option,com_wrapper/Itemid,327>Contact Us</a></td></tr>
+</table></td></tr>
+
+<tr class=topbar>
+<td class=topbar-line2>
+<a class=topbar-line2 href=http://www.uschess.org>Return to USCF Home Page</a>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp;&nbsp;&nbsp;&nbsp;
+<a class=topbar-line2 href=Index.php>MSA Home</a>
+<a class=topbar-line2 href=http://www.uschess.org/datapage/player-search.php>Members</a>
+<a class=topbar-line2 href=AffLst.php>Affiliates</a>
+<a class=topbar-line2 href=http://www.uschess.org/datapage/event-search.php>Tournaments</a>
+<a class=topbar-line2 href=HelpTxt.php>Help</a>
+</td></tr>
+<tr class=topbar><td class=topbar-middle>
+<center>
+<table border=0 valign=top>
+
+<form method=post action=AffDtlMain.php>
+
+&nbsp;
+<p>
+<table border=1 bgcolor=FFFFFF cellpadding=0 cellspacing=0>
+<tr>
+<td>
+<table border=0 bgcolor=FFFFFF width=800 cellpadding=3 cellspacing=0>
+
+<tr>
+<td colspan=3 bgcolor=DDDDDD align=center>
+<b>Event Summary</b>
+</td>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Event
+</td>
+<td width=1 rowspan=10></td>
+<td>
+<b>FALL CHALLENGE</b> &nbsp;<small>(201411240912)</small>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE>
+Location
+</td>
+<td>
+<b>ARCADIA, CA &nbsp;91007 &nbsp;</b>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE>
+Event Date(s)
+</td>
+<td>
+<b>2014-10-27 thru 2014-11-24 </b>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE>
+Sponsoring Affiliate
+</td>
+<td>
+<b><a href=http://msa.uschess.org/AffDtlMain.php?A5012767>ARCADIA CHESS CLUB</a></b> &nbsp;<small>(A5012767)</small>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE>
+Chief&nbsp; TD
+</td>
+<td>
+<b>DAVID EDWARD KING</b> &nbsp;<small>(12547113)</small>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE>
+Processed
+</td>
+<td>
+<b>Received: 2014-11-25 &nbsp; Entered: 2014-11-25 &nbsp; Rated: 2014-11-25</b>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE valign=top>
+Stats
+</td>
+<td>
+<b>1 Section(s),&nbsp; 74 Players</b>
+<br><font color=blue>The ratings shown on this page are not official published ratings and may change from time to time.  Using them for pairing purposes in tournaments should only be done if this has been advertised in all advance publicity and is announced to all players at the tournament.</font>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+
+</table>
+<p>
+<a anchor="Section1"></a>
+<p>
+<table border=1 bgcolor=FFFFFF cellpadding=0 cellspacing=0>
+<tr>
+<td>
+<table border=0  bgcolor=FFFFFF  cellpadding=3 cellspacing=0>
+<tr>
+<td colspan=3 align=center bgcolor=DDDDFF>
+<b>Section 1 - FC OPEN</b>
+</td>
+</tr>
+
+<tr>
+<td width=120 bgcolor=EEEEEE>
+Section Date(s)
+</td>
+<td width=1></td>
+<td>
+<b>2014-10-27 thru 2014-11-24</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Processed
+</td>
+<td width=1></td>
+<td>
+<b>Received: 2014-11-25 &nbsp; Entered: 2014-11-25 &nbsp; Rated: 2014-11-25 Re-Rated: 2014-12-23</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Stats
+</td>
+<td width=1></td>
+<td>
+<b>6 Rounds,&nbsp; 74 Players;  &nbsp;K Factor: F  &nbsp;Rating Sys: R  &nbsp;Tnmt Type: S  <br>Time Control: 40/90,SD/30;d5</b>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan=3>
+Show floating point ratings from <a href=XtblMainFP.php?201411240912.0>this event</a>
+<pre>
+-----------------------------------------------------------------------------------
+<i> * Click on a Pairing Number to see the Player's Opponents.
+ * Click on a Player's Name for more information about the Player.</i>
+<font size=+2>Crosstable data is <b>not</b> shown in tiebreak order and <font color=red ><b><i>does NOT reflect <br>any distribution of trophies or prize monies.</font></font></b></i><a href=http://www.uschess.org/msa/FAQ.php>(See Frequent Questions)</a>
+<i>Crosstable data is shown as reported to the USCF by the Tournament Director.  <br>Please contact the TD to report any crosstable errors.</i>
+Note:  The information below the "Total Pts" score shows the highest norm earned in this event.<br>For more information on norms, see <a href=http://www.glicko.net/ratings/titles.pdf>The USCF Title System</a>.
+-----------------------------------------------------------------------------------
+ Pair | Player Name                     |Total|Round|Round|Round|Round|Round|Round| 
+ Num  | USCF ID / Rtg (Pre->Post)       | Pts |  1  |  2  |  3  |  4  |  5  |  6  | 
+-----------------------------------------------------------------------------------
+    <a href=XtblPlr.php?201411240912-001-15492704>1</a> | <a href=MbrDtlMain.php?15492704>DAYRON HUERTAS</a>                  |5.5  |W  31|W  15|W  19|W  20|D   2|W   4|
+   CA | 15492704 / R: 2443   ->2445     |N:C  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+    <a href=XtblPlr.php?201411240912-001-12436941>2</a> | <a href=MbrDtlMain.php?12436941>DAVID A BASSETT</a>                 |5.5  |W  49|W  17|W  21|W   3|D   1|W  10|
+   CA | 12436941 / R: 2334   ->2343     |N:C  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+    <a href=XtblPlr.php?201411240912-001-14501996>3</a> | <a href=MbrDtlMain.php?14501996>ANTHONY GE</a>                      |5.0  |W  63|W  25|W  16|L   2|W  14|W  15|
+   CA | 14501996 / R: 2027   ->2044     |N:1  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+    <a href=XtblPlr.php?201411240912-001-12417336>4</a> | <a href=MbrDtlMain.php?12417336>CRAIG ALLEN FABER</a>               |4.5  |H    |W  58|W  53|W  14|W  27|L   1|
+   CA | 12417336 / R: 2117   ->2127     |N:1  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+    <a href=XtblPlr.php?201411240912-001-13970235>5</a> | <a href=MbrDtlMain.php?13970235>STEPHANIE SHAO</a>                  |4.5  |H    |H    |W  63|W  25|W  29|D   6|
+   CA | 13970235 / R: 1995   ->1998     |N:2  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+    <a href=XtblPlr.php?201411240912-001-14704730>6</a> | <a href=MbrDtlMain.php?14704730>JEFFREY CHOU</a>                    |4.5  |W  44|L   9|W  52|B    |W  19|D   5|
+   CA | 14704730 / R: 1821   ->1852     |N:2  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+    <a href=XtblPlr.php?201411240912-001-12460656>7</a> | <a href=MbrDtlMain.php?12460656>JOEY PEREZ</a>                      |4.5  |H    |W  11|L  42|W  60|W  36|W  16|
+   CA | 12460656 / R: 1830   ->1845     |N:2  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+    <a href=XtblPlr.php?201411240912-001-12659989>8</a> | <a href=MbrDtlMain.php?12659989>JOHAN F AKESSON</a>                 |4.5  |H    |W  26|W  18|L  27|W  35|X    |
+   CA | 12659989 / R: 1728   ->1802     |N:2  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+    <a href=XtblPlr.php?201411240912-001-12897856>9</a> | <a href=MbrDtlMain.php?12897856>MATTHEW J HAYES</a>                 |4.0  |W  72|W   6|L  20|L  16|W  50|W  29|
+   CA | 12897856 / R: 2133   ->2108     |N:2  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201411240912-001-12652496>10</a> | <a href=MbrDtlMain.php?12652496>PIERRE DUCHARME</a>                 |4.0  |W  36|W  29|L  14|W  30|W  13|L   2|
+   CA | 12652496 / R: 2076   ->2067     |N:2  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201411240912-001-12422419>11</a> | <a href=MbrDtlMain.php?12422419>DANIEL P MANAHAN</a>                |4.0  |W  41|L   7|W  64|L  17|W  37|W  33|
+   CA | 12422419 / R: 2035   ->2005     |N:3  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201411240912-001-10453402>12</a> | <a href=MbrDtlMain.php?10453402>TIMOTHY J THOMPSON</a>              |4.0  |W  51|D  35|W  22|H    |D  17|H    |
+   CA | 10453402 / R: 1914   ->1913     |N:2  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201411240912-001-12579626>13</a> | <a href=MbrDtlMain.php?12579626>JOHN R ANDERSON</a>                 |4.0  |W  38|L  53|W  67|W  42|L  10|W  32|
+   CA | 12579626 / R: 1907   ->1885     |N:3  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201411240912-001-14139243>14</a> | <a href=MbrDtlMain.php?14139243>EDWARD ZC WU</a>                    |4.0  |W  32|W  45|W  10|L   4|L   3|W  39|
+   CA | 14139243 / R: 1858   ->1873     |N:2  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201411240912-001-13200804>15</a> | <a href=MbrDtlMain.php?13200804>TIM DENG</a>                        |4.0  |W  43|L   1|W  37|W  53|W  28|L   3|
+   CA | 13200804 / R: 1830   ->1850     |N:2  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201411240912-001-12874601>16</a> | <a href=MbrDtlMain.php?12874601>RUSSELL BALCOM</a>                  |4.0  |W  46|W  27|L   3|W   9|W  20|L   7|
+   CA | 12874601 / R: 1742   ->1835     |N:1  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201411240912-001-14692604>17</a> | <a href=MbrDtlMain.php?14692604>CORY CHEN</a>                       |4.0  |W  56|L   2|W  32|W  11|D  12|H    |
+   CA | 14692604 / R: 1776   ->1827     |N:2  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201411240912-001-14470181>18</a> | <a href=MbrDtlMain.php?14470181>ALLEN QIU</a>                       |4.0  |W  47|H    |L   8|W  22|W  21|D  19|
+   CA | 14470181 / R: 1498   ->1693     |N:1  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201411240912-001-10452031>19</a> | <a href=MbrDtlMain.php?10452031>DAVID CARL ARGALL</a>               |3.5  |W  68|W  37|L   1|W  49|L   6|D  18|
+   CA | 10452031 / R: 2000   ->2000     |N:3  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201411240912-001-13195720>20</a> | <a href=MbrDtlMain.php?13195720>EREN KARADAYI</a>                   |3.5  |W  52|W  73|W   9|L   1|L  16|D  23|
+   CA | 13195720 / R: 1910   ->1907     |N:3  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201411240912-001-10434254>21</a> | <a href=MbrDtlMain.php?10434254>L GORDON BROOKS</a>                 |3.5  |W  42|W  59|L   2|D  33|L  18|W  41|
+   CA | 10434254 / R: 1924   ->1900     |N:3  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201411240912-001-13200810>22</a> | <a href=MbrDtlMain.php?13200810>QUEENA DENG</a>                     |3.5  |H    |W  34|L  12|L  18|W  61|W  40|
+   CA | 13200810 / R: 1895   ->1866     |N:4  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201411240912-001-12935311>23</a> | <a href=MbrDtlMain.php?12935311>BRENDA J NARDI</a>                  |3.5  |H    |D  40|W  59|L  28|W  53|D  20|
+   CA | 12935311 / R: 1714   ->1708     |N:4  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201411240912-001-13685015>24</a> | <a href=MbrDtlMain.php?13685015>MATTHEW UNG</a>                     |3.5  |H    |L  28|W  44|W  64|W  43|F    |
+   CA | 13685015 / R: 1652   ->1661     |N:4  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201411240912-001-12547113>25</a> | <a href=MbrDtlMain.php?12547113>DAVID EDWARD KING</a>               |3.5  |W  71|L   3|W  58|L   5|D  45|W  43|
+   CA | 12547113 / R: 1600   ->1600     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201411240912-001-13547861>26</a> | <a href=MbrDtlMain.php?13547861>JESSE V VICTORIA</a>                |3.0  |H    |L   8|H    |W  51|W  42|U    |
+   CA | 13547861 / R: 2088   ->2070     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201411240912-001-12925427>27</a> | <a href=MbrDtlMain.php?12925427>RAOUL CRISOLOGO</a>                 |3.0  |W  66|L  16|W  41|W   8|L   4|U    |
+   CA | 12925427 / R: 2069   ->2050     |N:2  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201411240912-001-12544087>28</a> | <a href=MbrDtlMain.php?12544087>ROMEO MANGUERA REARIO</a>           |3.0  |H    |W  24|H    |W  23|L  15|U    |
+   CA | 12544087 / R: 2006   ->1995     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201411240912-001-15303852>29</a> | <a href=MbrDtlMain.php?15303852>MIGUEL ALBERTO ACOSTA</a>           |3.0  |W  55|L  10|W  39|W  61|L   5|L   9|
+   CA | 15303852 / R: 1757P19->1747P25  |N:4  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201411240912-001-12496198>30</a> | <a href=MbrDtlMain.php?12496198>MIKE E SPAULDING</a>                |3.0  |D  40|D  39|W  54|L  10|L  32|W  51|
+   CA | 12496198 / R: 1746   ->1702     |N:4  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201411240912-001-13465174>31</a> | <a href=MbrDtlMain.php?13465174>BRIAN CHENG</a>                     |3.0  |L   1|L  43|W  57|H    |D  33|W  55|
+   CA | 13465174 / R: 1634   ->1610     |N:4  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201411240912-001-14732314>32</a> | <a href=MbrDtlMain.php?14732314>AARON SUN</a>                       |3.0  |L  14|W  66|L  17|W  63|W  30|L  13|
+   CA | 14732314 / R: 1448   ->1569     |N:2  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201411240912-001-14970284>33</a> | <a href=MbrDtlMain.php?14970284>ALEX DANG</a>                       |3.0  |L  53|W  57|W  69|D  21|D  31|L  11|
+   CA | 14970284 / R: 1574   ->1565     |N:4  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201411240912-001-14251603>34</a> | <a href=MbrDtlMain.php?14251603>ISABELLA LIU</a>                    |3.0  |H    |L  22|W  73|L  43|W  46|D  35|
+   CA | 14251603 / R: 1579   ->1547     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201411240912-001-14488686>35</a> | <a href=MbrDtlMain.php?14488686>GABRIELA YU</a>                     |3.0  |W  50|D  12|U    |W  65|L   8|D  34|
+   CA | 14488686 / R: 1474   ->1536     |N:3  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201411240912-001-14733406>36</a> | <a href=MbrDtlMain.php?14733406>EDWARD CHOU</a>                     |3.0  |L  10|W  70|L  61|B    |L   7|W  54|
+   CA | 14733406 / R: 1506   ->1474     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201411240912-001-14635735>37</a> | <a href=MbrDtlMain.php?14635735>TONY TONG</a>                       |3.0  |W  54|L  19|L  15|W  69|L  11|W  56|
+   CA | 14635735 / R: 1426   ->1444     |N:4  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201411240912-001-13979146>38</a> | <a href=MbrDtlMain.php?13979146>RYAN TIANYUAN YANG</a>              |3.0  |L  13|D  65|L  47|H    |W  70|W  50|
+   CA | 13979146 / R: 1406   ->1415     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201411240912-001-10446198>39</a> | <a href=MbrDtlMain.php?10446198>FRANK S WOSCZYNA</a>                |3.0  |H    |D  30|L  29|W  67|X    |L  14|
+   CA | 10446198 / R: 1230   ->1316     |N:4  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201411240912-001-13748408>40</a> | <a href=MbrDtlMain.php?13748408>PAYNE CHIEN</a>                     |3.0  |D  30|D  23|W  50|H    |H    |L  22|
+   CA | 13748408 / R: 1074   ->1242     |N:3  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201411240912-001-10452635>41</a> | <a href=MbrDtlMain.php?10452635>JEFFREY I SCHWARTZ</a>              |2.5  |L  11|W  46|L  27|H    |W  64|L  21|
+   CA | 10452635 / R: 1540   ->1538     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201411240912-001-12607364>42</a> | <a href=MbrDtlMain.php?12607364>ROBERT L HEAD</a>                   |2.5  |L  21|W  71|W   7|L  13|L  26|H    |
+   CA | 12607364 / R: 1501   ->1527     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201411240912-001-14492148>43</a> | <a href=MbrDtlMain.php?14492148>RYAN THOMAS WU</a>                  |2.5  |L  15|W  31|H    |W  34|L  24|L  25|
+   CA | 14492148 / R: 1314   ->1399     |N:3  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201411240912-001-15136553>44</a> | <a href=MbrDtlMain.php?15136553>RAPHAEL R MANAHAN</a>               |2.5  |L   6|D  72|L  24|L  56|W  73|W  64|
+   CA | 15136553 / R: 1350   ->1336     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201411240912-001-15215658>45</a> | <a href=MbrDtlMain.php?15215658>TOMMY WEN</a>                       |2.5  |W  60|L  14|L  49|W  73|D  25|U    |
+   CA | 15215658 / R: 1163   ->1196     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201411240912-001-14174243>46</a> | <a href=MbrDtlMain.php?14174243>STANLEY CHENG</a>                   |2.5  |L  16|L  41|W  74|H    |L  34|W  65|
+   CA | 14174243 / R: 1036   ->1067     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201411240912-001-12604433>47</a> | <a href=MbrDtlMain.php?12604433>RONALD ANTHONY MORRIS</a>           |2.0  |L  18|H    |W  38|H    |U    |U    |
+   CA | 12604433 / R: 1826   ->1806     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201411240912-001-14885268>48</a> | <a href=MbrDtlMain.php?14885268>KIRK VAGHO GHAZARIAN</a>            |2.0  |H    |H    |U    |U    |W  58|U    |
+   VI | 14885268 / R: 1740   ->1741     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201411240912-001-14688812>49</a> | <a href=MbrDtlMain.php?14688812>XAVIER ARMAGNAC</a>                 |2.0  |L   2|W  56|W  45|L  19|F    |U    |
+   CA | 14688812 / R: 1636   ->1637     |N:4  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201411240912-001-14612224>50</a> | <a href=MbrDtlMain.php?14612224>KYLE LI</a>                         |2.0  |L  35|W  55|L  40|W  59|L   9|L  38|
+   CA | 14612224 / R: 1651   ->1578     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201411240912-001-12685563>51</a> | <a href=MbrDtlMain.php?12685563>RICHARD H LUCHETTA</a>              |2.0  |L  12|L  54|W  70|L  26|W  69|L  30|
+   CA | 12685563 / R: 1468   ->1433     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201411240912-001-14668997>52</a> | <a href=MbrDtlMain.php?14668997>ABINANDA MUKUNDAN</a>               |2.0  |L  20|W  74|L   6|U    |W  65|U    |
+   CA | 14668997 / R: 1418   ->1418     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201411240912-001-15215643>53</a> | <a href=MbrDtlMain.php?15215643>TEDDIE WEN</a>                      |2.0  |W  33|W  13|L   4|L  15|L  23|U    |
+   CA | 15215643 / R: 1302   ->1417     |N:3  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201411240912-001-15106396>54</a> | <a href=MbrDtlMain.php?15106396>KEVIN SHAOWANG ZHANG</a>            |2.0  |L  37|W  51|L  30|H    |H    |L  36|
+   CA | 15106396 / R: 1324   ->1321     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201411240912-001-13748394>55</a> | <a href=MbrDtlMain.php?13748394>WAYNE CHIEN</a>                     |2.0  |L  29|L  50|W  71|H    |H    |L  31|
+   CA | 13748394 / R: 1314   ->1296     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201411240912-001-15303867>56</a> | <a href=MbrDtlMain.php?15303867>EMANUEL ACOSTA</a>                  |2.0  |L  17|L  49|L  60|W  44|W  71|L  37|
+   CA | 15303867 / R: 1268P21->1242     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201411240912-001-15197452>57</a> | <a href=MbrDtlMain.php?15197452>KAIHAO WEN</a>                      |2.0  |L  58|L  33|L  31|F    |W  74|W  60|
+   CA | 15197452 / R: 1161   ->1138     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201411240912-001-15268997>58</a> | <a href=MbrDtlMain.php?15268997>DOV TUNG</a>                        |2.0  |W  57|L   4|L  25|L  66|L  48|W  70|
+   CA | 15268997 / R: 1023   ->1071     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201411240912-001-15215637>59</a> | <a href=MbrDtlMain.php?15215637>BRANDON JUNLIN CHANG</a>            |2.0  |W  74|L  21|L  23|L  50|L  60|W  73|
+   CA | 15215637 / R: 1089   ->1062     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201411240912-001-14921105>60</a> | <a href=MbrDtlMain.php?14921105>PHILLIP GAN</a>                     |2.0  |L  45|L  63|W  56|L   7|W  59|L  57|
+   CA | 14921105 / R:  824   -> 941     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201411240912-001-15054861>61</a> | <a href=MbrDtlMain.php?15054861>HEIDI TENG</a>                      |2.0  |H    |H    |W  36|L  29|L  22|U    |
+   CA | 15054861 / R:  808   -> 905     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201411240912-001-12681969>62</a> | <a href=MbrDtlMain.php?12681969>DAVID MUNOZ</a>                     |1.5  |W  65|H    |U    |U    |U    |U    |
+   CA | 12681969 / R: 1779   ->1779     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201411240912-001-12503769>63</a> | <a href=MbrDtlMain.php?12503769>ANTHONY WILLIAM GRAUSO</a>          |1.5  |L   3|W  60|L   5|L  32|H    |U    |
+   CA | 12503769 / R: 1531   ->1511     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201411240912-001-15385323>64</a> | <a href=MbrDtlMain.php?15385323>ALEX HE</a>                         |1.5  |W  70|H    |L  11|L  24|L  41|L  44|
+   CA | 15385323 / R: 1149   ->1136     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201411240912-001-15384796>65</a> | <a href=MbrDtlMain.php?15384796>ERIC ANDY WOO</a>                   |1.5  |L  62|D  38|W  72|L  35|L  52|L  46|
+   CA | 15384796 / R: 1042   ->1081     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201411240912-001-12452351>66</a> | <a href=MbrDtlMain.php?12452351>ALFREDO CON</a>                     |1.0  |L  27|L  32|U    |W  58|U    |U    |
+   CA | 12452351 / R: 1800   ->1800     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201411240912-001-12349170>67</a> | <a href=MbrDtlMain.php?12349170>MARCUS E BENTON JR</a>              |1.0  |H    |H    |L  13|L  39|U    |U    |
+   CA | 12349170 / R: 1500   ->1500     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201411240912-001-12469114>68</a> | <a href=MbrDtlMain.php?12469114>MICHAEL W BELCHER</a>               |1.0  |L  19|H    |H    |U    |U    |U    |
+   CA | 12469114 / R: 1501   ->1500     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201411240912-001-15259004>69</a> | <a href=MbrDtlMain.php?15259004>KEVIN C TENG</a>                    |1.0  |H    |H    |L  33|L  37|L  51|U    |
+   CA | 15259004 / R:  833   -> 829     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201411240912-001-15331965>70</a> | <a href=MbrDtlMain.php?15331965>LU SHUN TONG</a>                    |1.0  |L  64|L  36|L  51|W  74|L  38|L  58|
+   CA | 15331965 / R:  802   -> 799     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201411240912-001-15532408>71</a> | <a href=MbrDtlMain.php?15532408>ZIYUAN WANG</a>                     |1.0  |L  25|L  42|L  55|X    |L  56|U    |
+   CA | 15532408 / R: Unrated-> 648P4   |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201411240912-001-15463886>72</a> | <a href=MbrDtlMain.php?15463886>CARLOS A LUNA</a>                   |0.5  |L   9|D  44|L  65|U    |U    |U    |
+   CA | 15463886 / R: 1611P15->1551P18  |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201411240912-001-15542887>73</a> | <a href=MbrDtlMain.php?15542887>CHARLES CACERES</a>                 |0.5  |H    |L  20|L  34|L  45|L  44|L  59|
+   CA | 15542887 / R: Unrated-> 666P5   |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201411240912-001-15136568>74</a> | <a href=MbrDtlMain.php?15136568>SOPHIA S MANAHAN</a>                |0.0  |L  59|L  52|L  46|L  70|L  57|U    |
+   CA | 15136568 / R:  705   -> 668     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------
+Note:  Performances satisfying the requirements for norms are now being shown for events in the *Total Pts* column.<br>It may take a week for a recently rated event to have norms computed for it.
+Show floating point ratings from <a href=XtblMainFP.php?201411240912.0>this event</a>
+</pre>
+</td>
+</tr>
+</table>
+</table>
+</form>
+&nbsp;
+<p>
+<hr>
+<p>
+<center>
+<p>
+<p>
+<font size=-1>
+Session  / 0
+<br>Version 1.00b / 2003-10-16
+</font>
+<br>
+<font size=-1>
+<i>
+USCF Member Services Area - Copyright 2002-2012 by the <a href="http://www.USChess.org">US Chess Federation</a> -  All Rights Reserved
+<br><a href="http://msa.uschess.org/FAQ.php">Frequently Asked Questions</a>
+<br>Report problems to <a href="mailto:msafeedback@uschess.org">msafeedback@uschess.org</a>
+<br><a href="http://www.USChess.org">Return to USCF Home Page</a>
+</i>
+</font>
+</center>
+<p>
+<hr>
+<p>
+</body>
+</html>

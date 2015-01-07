@@ -1,0 +1,816 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+<title>USCF MSA - Cross Table for CTPE OAKS DAY CHALLENGE (Event 201405026302)</title>
+<style type='text/css'>
+body {margin-left: 10; margin-right: 10; margin-top: 0; margin-bottom: 0;  background-color: #40B7D3; min-width: 800px;}
+td {font: helvetica; color: black; font-size: 100%;}
+input {font: helvetica; font-size: 100%; color: black; font-weight: bold; padding-left: 4;}
+input.submit_debug {font: helvetica; font-size: 10pt; color: red; font-weight: normal; background-color: #BFBFBF;}
+input.submit {font: helvetica; font-size: 10pt; color: black; font-weight: normal; background-color: #BFBFBF;}
+input.submit_dis {font: helvetica; font-size: 10pt; color: grey; background-color: #BFBFBF;}
+select {font: helvetica; font-size: 10pt;  color: brown}
+a.topbar-line1 {font: helvetica; font-size: 100%; color: white; text-decoration: none; padding-left: 10;}
+a.topbar-line2 {font: helvetica; font-size: 100%; color: #0373A4; text-decoration: underline; padding-left: 10;}
+/* a {font: helvetica; font-size: 100%; color: black; text-decoration: none; padding-left: 10;} */
+
+/*  table {border: 2px solid red; margin: 0px;}
+td{border: 1px dotted purple; padding: 2px; } */
+
+table.topbar {border-style: none; border-width: 0; border: 0; margin: 0; padding: 0; cell-padding: 0; background-color: #40B7D3;}
+tr.topbar {padding: 5;  margin-top: 5; margin-bottom: 5; background-color: #40B7D3; }
+td.topbar {padding: 3; color: white; font: helvetica; font-size: 100%; font-weight: bold;}
+td.topbar-side {padding: 0; color: black; font: helvetica; font-size: 100%; background-color: #FFFFFF;}
+td.topbar-middle {padding: 0; color: black; font: helvetica; font-size: 100%; background-color: #FFFFFF;}
+td.topbar-line2 {padding: 0; padding: 3; font: helvetica; font-size: 100%; color: #0373A4; background-color: #C7EAFB;}
+td.topbar-line2-right {text-align: right; padding: 0; padding: 3; font: helvetica; font-size: 100%; color: #0373A4; background-color: #C7EAFB;}
+td.topbar-right {text-align: right; padding: 0; color: blue; font: helvetica; font-size: 100%;  background-color: #40B7D3;}
+span.right {text-align: right; background-color: #E0FFFF}
+</style></head>
+<body >
+<table width=100% class=topbar cellspacing=0><tr class=topbar></td><td class=topbar width=100% ><table cellspacing=0 class=topbar width=100%><tr class=topbar><td class=topbar >US Chess Federation - Member Services Area</td><td class=topbar-right >
+<a class=topbar-line1 href=http://main.uschess.org/content/blogcategory/30/319>Press</a>
+<a class=topbar-line1 href=http://main.uschess.org/content/view/7850/385>Advertising</a>
+<a class=topbar-line1 href=http://main.uschess.org/content/blogsection/12/35>About the USCF</a>
+<a class=topbar-line1 href=http://main.uschess.org/component/option,com_wrapper/Itemid,327>Contact Us</a></td></tr>
+</table></td></tr>
+
+<tr class=topbar>
+<td class=topbar-line2>
+<a class=topbar-line2 href=http://www.uschess.org>Return to USCF Home Page</a>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp;&nbsp;&nbsp;&nbsp;
+<a class=topbar-line2 href=Index.php>MSA Home</a>
+<a class=topbar-line2 href=http://www.uschess.org/datapage/player-search.php>Members</a>
+<a class=topbar-line2 href=AffLst.php>Affiliates</a>
+<a class=topbar-line2 href=http://www.uschess.org/datapage/event-search.php>Tournaments</a>
+<a class=topbar-line2 href=HelpTxt.php>Help</a>
+</td></tr>
+<tr class=topbar><td class=topbar-middle>
+<center>
+<table border=0 valign=top>
+
+<form method=post action=AffDtlMain.php>
+
+&nbsp;
+<p>
+<table border=1 bgcolor=FFFFFF cellpadding=0 cellspacing=0>
+<tr>
+<td>
+<table border=0 bgcolor=FFFFFF width=800 cellpadding=3 cellspacing=0>
+
+<tr>
+<td colspan=3 bgcolor=DDDDDD align=center>
+<b>Event Summary</b>
+</td>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Event
+</td>
+<td width=1 rowspan=10></td>
+<td>
+<b>CTPE OAKS DAY CHALLENGE</b> &nbsp;<small>(201405026302)</small>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE>
+Location
+</td>
+<td>
+<b>LOUISVILLE, KY &nbsp;40241 &nbsp;</b>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE>
+Event Date(s)
+</td>
+<td>
+<b>2014-05-02 </b>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE>
+Sponsoring Affiliate
+</td>
+<td>
+<b><a href=http://msa.uschess.org/AffDtlMain.php?A6033006>CTPE LLC</a></b> &nbsp;<small>(A6033006)</small>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE>
+Chief&nbsp; TD
+</td>
+<td>
+<b>MIAMI FUGATTE</b> &nbsp;<small>(12617088)</small>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE>
+Processed
+</td>
+<td>
+<b>Received: 2014-05-05 &nbsp; Entered: 2014-05-05 &nbsp; Rated: 2014-05-05</b>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE valign=top>
+Stats
+</td>
+<td>
+<b>7 Section(s),&nbsp; 29 Players</b>
+<br><font color=blue>The ratings shown on this page are not official published ratings and may change from time to time.  Using them for pairing purposes in tournaments should only be done if this has been advertised in all advance publicity and is announced to all players at the tournament.</font>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table border=0 bgcolor=FFFFFF width=800 cellpadding=3 cellspacing=0>
+
+<tr>
+<td colspan=6 bgcolor=DDDDDD align=center>
+<b>Sections</b>
+</td>
+<tr bgcolor=EEEEEE>
+<td width=70 align=center valign=middle>
+<font color=A00000>
+<b><i>HINT:</I.</b>
+</font>
+</td>
+<td width=1></td>
+<td>
+<font color=A00000><b>
+&nbsp; * Click on a Section Name to see the cross table for that Section, &nbsp;<i>or</i>
+<br>
+&nbsp; * Click on "Show All Sections" to see the cross tables for all sections at once.
+<br>
+</b></font>
+</td>
+</tr>
+
+<tr>
+<td width=80 bgcolor=EEEEEE>
+Section 1
+</td>
+<td width=1></td>
+<td>
+<a href=XtblMain.php?201405026302.1><b>OAK'S DAY QUAD A</b></a>
+</td>
+</tr>
+
+<tr>
+<td width=80 bgcolor=EEEEEE>
+Section 2
+</td>
+<td width=1></td>
+<td>
+<a href=XtblMain.php?201405026302.2><b>OAK'S DAY QUINT B</b></a>
+</td>
+</tr>
+
+<tr>
+<td width=80 bgcolor=EEEEEE>
+Section 3
+</td>
+<td width=1></td>
+<td>
+<a href=XtblMain.php?201405026302.3><b>OAK'S DAY QUAD C</b></a>
+</td>
+</tr>
+
+<tr>
+<td width=80 bgcolor=EEEEEE>
+Section 4
+</td>
+<td width=1></td>
+<td>
+<a href=XtblMain.php?201405026302.4><b>Oak's Day Quad D</b></a>
+</td>
+</tr>
+
+<tr>
+<td width=80 bgcolor=EEEEEE>
+Section 5
+</td>
+<td width=1></td>
+<td>
+<a href=XtblMain.php?201405026302.5><b>Oak's Day Quad E</b></a>
+</td>
+</tr>
+
+<tr>
+<td width=80 bgcolor=EEEEEE>
+Section 6
+</td>
+<td width=1></td>
+<td>
+<a href=XtblMain.php?201405026302.6><b>Oak's Day Quad F</b></a>
+</td>
+</tr>
+
+<tr>
+<td width=80 bgcolor=EEEEEE>
+Section 7
+</td>
+<td width=1></td>
+<td>
+<a href=XtblMain.php?201405026302.7><b>Oak's Day Quad G</b></a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p>
+<a anchor="Section1"></a>
+<p>
+<table border=1 bgcolor=FFFFFF cellpadding=0 cellspacing=0>
+<tr>
+<td>
+<table border=0 width=800 bgcolor=FFFFFF  cellpadding=3 cellspacing=0>
+<tr>
+<td colspan=3 align=center bgcolor=DDDDFF>
+<b>Section 1 - OAK'S DAY QUAD A</b>
+</td>
+</tr>
+
+<tr>
+<td width=120 bgcolor=EEEEEE>
+Section Date(s)
+</td>
+<td width=1></td>
+<td>
+<b>2014-05-02</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Processed
+</td>
+<td width=1></td>
+<td>
+<b>Received: 2014-05-05 &nbsp; Entered: 2014-05-05 &nbsp; Rated: 2014-05-05 Re-Rated: 2014-05-07</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Stats
+</td>
+<td width=1></td>
+<td>
+<b>3 Rounds,&nbsp; 4 Players;  &nbsp;K Factor: F  &nbsp;Rating Sys: D  &nbsp;Tnmt Type: S  <br>Time Control: G/40;d5</b>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan=3>
+<pre>
+-----------------------------------------------------------------
+<i> * Click on a Pairing Number to see the Player's Opponents.
+ * Click on a Player's Name for more information about the Player.</i>
+<font size=+2>Crosstable data is <b>not</b> shown in tiebreak order and <font color=red ><b><i>does NOT reflect <br>any distribution of trophies or prize monies.</font></font></b></i><a href=http://www.uschess.org/msa/FAQ.php>(See Frequent Questions)</a>
+<i>Crosstable data is shown as reported to the USCF by the Tournament Director.  <br>Please contact the TD to report any crosstable errors.</i>
+Note:  The information below the "Total Pts" score shows the highest norm earned in this event.<br>For more information on norms, see <a href=http://www.glicko.net/ratings/titles.pdf>The USCF Title System</a>.
+-----------------------------------------------------------------
+ Pair | Player Name                     |Total|Round|Round|Round| 
+ Num  | USCF ID / Rtg (Pre->Post)       | Pts |  1  |  2  |  3  | 
+-----------------------------------------------------------------
+    <a href=XtblPlr.php?201405026302-001-15345573>1</a> | <a href=MbrDtlMain.php?15345573>JACOB GORTER</a>                    |3.0  |W   3|W   4|W   2|
+   KY | 15345573 / R:  101P4 -> 289P7   |     |     |     |     |
+      |            Q:  101P4 -> 289P7   |     |     |     |     |
+-----------------------------------------------------------------
+    <a href=XtblPlr.php?201405026302-001-15331662>2</a> | <a href=MbrDtlMain.php?15331662>DYLAN ALPHENAAR</a>                 |2.0  |W   4|W   3|L   1|
+   KY | 15331662 / R:  209P10-> 237P13  |     |     |     |     |
+      |            Q:  210P10-> 237P13  |     |     |     |     |
+-----------------------------------------------------------------
+    <a href=XtblPlr.php?201405026302-001-15324032>3</a> | <a href=MbrDtlMain.php?15324032>ABBY WHALEY</a>                     |1.0  |L   1|L   2|W   4|
+   KY | 15324032 / R:  105P4 -> 110P7   |     |     |     |     |
+      |            Q:  105P4 -> 110P7   |     |     |     |     |
+-----------------------------------------------------------------
+    <a href=XtblPlr.php?201405026302-001-15289355>4</a> | <a href=MbrDtlMain.php?15289355>MELODY MOKTAR</a>                   |0.0  |L   2|L   1|L   3|
+   KY | 15289355 / R:  149   -> 150     |     |     |     |     |
+      |            Q:  149   -> 150     |     |     |     |     |
+-----------------------------------------------------------------
+Note:  Performances satisfying the requirements for norms are now being shown for events in the *Total Pts* column.<br>It may take a week for a recently rated event to have norms computed for it.
+</pre>
+</td>
+</tr>
+</table>
+<p>
+<a anchor="Section2"></a>
+<p>
+<table border=1 bgcolor=FFFFFF cellpadding=0 cellspacing=0>
+<tr>
+<td>
+<table border=0 width=800 bgcolor=FFFFFF  cellpadding=3 cellspacing=0>
+<tr>
+<td colspan=3 align=center bgcolor=DDDDFF>
+<b>Section 2 - OAK'S DAY QUINT B</b>
+</td>
+</tr>
+
+<tr>
+<td width=120 bgcolor=EEEEEE>
+Section Date(s)
+</td>
+<td width=1></td>
+<td>
+<b>2014-05-02</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Processed
+</td>
+<td width=1></td>
+<td>
+<b>Received: 2014-05-05 &nbsp; Entered: 2014-05-05 &nbsp; Rated: 2014-05-05 Re-Rated: 2014-05-21</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Stats
+</td>
+<td width=1></td>
+<td>
+<b>3 Rounds,&nbsp; 5 Players;  &nbsp;K Factor: F  &nbsp;Rating Sys: D  &nbsp;Tnmt Type: S  <br>Time Control: G/40;d5</b>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan=3>
+<pre>
+-----------------------------------------------------------------
+<i> * Click on a Pairing Number to see the Player's Opponents.
+ * Click on a Player's Name for more information about the Player.</i>
+<font size=+2>Crosstable data is <b>not</b> shown in tiebreak order and <font color=red ><b><i>does NOT reflect <br>any distribution of trophies or prize monies.</font></font></b></i><a href=http://www.uschess.org/msa/FAQ.php>(See Frequent Questions)</a>
+<i>Crosstable data is shown as reported to the USCF by the Tournament Director.  <br>Please contact the TD to report any crosstable errors.</i>
+Note:  The information below the "Total Pts" score shows the highest norm earned in this event.<br>For more information on norms, see <a href=http://www.glicko.net/ratings/titles.pdf>The USCF Title System</a>.
+-----------------------------------------------------------------
+ Pair | Player Name                     |Total|Round|Round|Round| 
+ Num  | USCF ID / Rtg (Pre->Post)       | Pts |  1  |  2  |  3  | 
+-----------------------------------------------------------------
+    <a href=XtblPlr.php?201405026302-002-15003115>1</a> | <a href=MbrDtlMain.php?15003115>MICHAEL C SUMMITT</a>               |3.0  |W   4|W   2|W   3|
+   KY | 15003115 / R:  396   -> 526     |     |     |     |     |
+      |            Q:  396   -> 530     |     |     |     |     |
+-----------------------------------------------------------------
+    <a href=XtblPlr.php?201405026302-002-14845393>2</a> | <a href=MbrDtlMain.php?14845393>JOSEPH BOONE II</a>                 |2.0  |W   5|L   1|W   4|
+   KY | 14845393 / R:  344P13-> 364P16  |     |     |     |     |
+      |            Q:  354P13-> 374P16  |     |     |     |     |
+-----------------------------------------------------------------
+    <a href=XtblPlr.php?201405026302-002-15447823>3</a> | <a href=MbrDtlMain.php?15447823>ETHAN M DUNLAVY</a>                 |2.0  |X    |W   5|L   1|
+   KY | 15447823 / R: Unrated-> 337P2   |     |     |     |     |
+      |            Q: Unrated-> 340P2   |     |     |     |     |
+-----------------------------------------------------------------
+    <a href=XtblPlr.php?201405026302-002-15345546>4</a> | <a href=MbrDtlMain.php?15345546>WILL RECKTENWALD</a>                |1.0  |L   1|B    |L   2|
+   KY | 15345546 / R:  277P5 -> 218P7   |     |     |     |     |
+      |            Q:  291P5 -> 230P7   |     |     |     |     |
+-----------------------------------------------------------------
+    <a href=XtblPlr.php?201405026302-002-15447817>5</a> | <a href=MbrDtlMain.php?15447817>ISAAC M PASSAMANECK</a>             |1.0  |L   2|L   3|B    |
+   KY | 15447817 / R: Unrated-> 100P2   |     |     |     |     |
+      |            Q: Unrated-> 100P2   |     |     |     |     |
+-----------------------------------------------------------------
+Note:  Performances satisfying the requirements for norms are now being shown for events in the *Total Pts* column.<br>It may take a week for a recently rated event to have norms computed for it.
+</pre>
+</td>
+</tr>
+</table>
+<p>
+<a anchor="Section3"></a>
+<p>
+<table border=1 bgcolor=FFFFFF cellpadding=0 cellspacing=0>
+<tr>
+<td>
+<table border=0 width=800 bgcolor=FFFFFF  cellpadding=3 cellspacing=0>
+<tr>
+<td colspan=3 align=center bgcolor=DDDDFF>
+<b>Section 3 - OAK'S DAY QUAD C</b>
+</td>
+</tr>
+
+<tr>
+<td width=120 bgcolor=EEEEEE>
+Section Date(s)
+</td>
+<td width=1></td>
+<td>
+<b>2014-05-02</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Processed
+</td>
+<td width=1></td>
+<td>
+<b>Received: 2014-05-05 &nbsp; Entered: 2014-05-05 &nbsp; Rated: 2014-05-05 Re-Rated: 2014-05-21</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Stats
+</td>
+<td width=1></td>
+<td>
+<b>3 Rounds,&nbsp; 4 Players;  &nbsp;K Factor: F  &nbsp;Rating Sys: D  &nbsp;Tnmt Type: S  <br>Time Control: G/40;d5</b>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan=3>
+<pre>
+-----------------------------------------------------------------
+<i> * Click on a Pairing Number to see the Player's Opponents.
+ * Click on a Player's Name for more information about the Player.</i>
+<font size=+2>Crosstable data is <b>not</b> shown in tiebreak order and <font color=red ><b><i>does NOT reflect <br>any distribution of trophies or prize monies.</font></font></b></i><a href=http://www.uschess.org/msa/FAQ.php>(See Frequent Questions)</a>
+<i>Crosstable data is shown as reported to the USCF by the Tournament Director.  <br>Please contact the TD to report any crosstable errors.</i>
+Note:  The information below the "Total Pts" score shows the highest norm earned in this event.<br>For more information on norms, see <a href=http://www.glicko.net/ratings/titles.pdf>The USCF Title System</a>.
+-----------------------------------------------------------------
+ Pair | Player Name                     |Total|Round|Round|Round| 
+ Num  | USCF ID / Rtg (Pre->Post)       | Pts |  1  |  2  |  3  | 
+-----------------------------------------------------------------
+    <a href=XtblPlr.php?201405026302-003-15055644>1</a> | <a href=MbrDtlMain.php?15055644>ANTHONY BLOOMER JR</a>              |3.0  |W   3|W   4|W   2|
+   KY | 15055644 / R:  527P25-> 685     |     |     |     |     |
+      |            Q:  528P25-> 686     |     |     |     |     |
+-----------------------------------------------------------------
+    <a href=XtblPlr.php?201405026302-003-15089778>2</a> | <a href=MbrDtlMain.php?15089778>GARRETT VIBBERT</a>                 |2.0  |W   4|W   3|L   1|
+   KY | 15089778 / R:  633   -> 637     |     |     |     |     |
+      |            Q:  633   -> 637     |     |     |     |     |
+-----------------------------------------------------------------
+    <a href=XtblPlr.php?201405026302-003-15438292>3</a> | <a href=MbrDtlMain.php?15438292>RACHEL MARIE THALER</a>             |1.0  |L   1|L   2|W   4|
+   KY | 15438292 / R: Unrated-> 448P3   |     |     |     |     |
+      |            Q: Unrated-> 449P3   |     |     |     |     |
+-----------------------------------------------------------------
+    <a href=XtblPlr.php?201405026302-003-14795356>4</a> | <a href=MbrDtlMain.php?14795356>ORKAN INANC</a>                     |0.0  |L   2|L   1|L   3|
+   KY | 14795356 / R:  493   -> 415     |     |     |     |     |
+      |            Q:  496   -> 417     |     |     |     |     |
+-----------------------------------------------------------------
+Note:  Performances satisfying the requirements for norms are now being shown for events in the *Total Pts* column.<br>It may take a week for a recently rated event to have norms computed for it.
+</pre>
+</td>
+</tr>
+</table>
+<p>
+<a anchor="Section4"></a>
+<p>
+<table border=1 bgcolor=FFFFFF cellpadding=0 cellspacing=0>
+<tr>
+<td>
+<table border=0 width=800 bgcolor=FFFFFF  cellpadding=3 cellspacing=0>
+<tr>
+<td colspan=3 align=center bgcolor=DDDDFF>
+<b>Section 4 - Oak's Day Quad D</b>
+</td>
+</tr>
+
+<tr>
+<td width=120 bgcolor=EEEEEE>
+Section Date(s)
+</td>
+<td width=1></td>
+<td>
+<b>2014-05-02</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Processed
+</td>
+<td width=1></td>
+<td>
+<b>Received: 2014-05-05 &nbsp; Entered: 2014-05-05 &nbsp; Rated: 2014-05-05 Re-Rated: 2014-05-13</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Stats
+</td>
+<td width=1></td>
+<td>
+<b>3 Rounds,&nbsp; 4 Players;  &nbsp;K Factor: F  &nbsp;Rating Sys: D  &nbsp;Tnmt Type: S  <br>Time Control: G/40;d5</b>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan=3>
+<pre>
+-----------------------------------------------------------------
+<i> * Click on a Pairing Number to see the Player's Opponents.
+ * Click on a Player's Name for more information about the Player.</i>
+<font size=+2>Crosstable data is <b>not</b> shown in tiebreak order and <font color=red ><b><i>does NOT reflect <br>any distribution of trophies or prize monies.</font></font></b></i><a href=http://www.uschess.org/msa/FAQ.php>(See Frequent Questions)</a>
+<i>Crosstable data is shown as reported to the USCF by the Tournament Director.  <br>Please contact the TD to report any crosstable errors.</i>
+Note:  The information below the "Total Pts" score shows the highest norm earned in this event.<br>For more information on norms, see <a href=http://www.glicko.net/ratings/titles.pdf>The USCF Title System</a>.
+-----------------------------------------------------------------
+ Pair | Player Name                     |Total|Round|Round|Round| 
+ Num  | USCF ID / Rtg (Pre->Post)       | Pts |  1  |  2  |  3  | 
+-----------------------------------------------------------------
+    <a href=XtblPlr.php?201405026302-004-14539327>1</a> | <a href=MbrDtlMain.php?14539327>ROSHAN POURGHASEMI</a>              |3.0  |W   4|W   2|W   3|
+   KY | 14539327 / R:  604   -> 747     |     |     |     |     |
+      |            Q:  724   -> 815     |     |     |     |     |
+-----------------------------------------------------------------
+    <a href=XtblPlr.php?201405026302-004-14967055>2</a> | <a href=MbrDtlMain.php?14967055>MENELIK NEAL</a>                    |2.0  |W   3|L   1|W   4|
+   KY | 14967055 / R:  674   -> 682     |     |     |     |     |
+      |            Q:  674   -> 690     |     |     |     |     |
+-----------------------------------------------------------------
+    <a href=XtblPlr.php?201405026302-004-15447802>3</a> | <a href=MbrDtlMain.php?15447802>NATHAN POMLES</a>                   |1.0  |L   2|W   4|L   1|
+   KY | 15447802 / R: Unrated-> 507P3   |     |     |     |     |
+      |            Q: Unrated-> 535P3   |     |     |     |     |
+-----------------------------------------------------------------
+    <a href=XtblPlr.php?201405026302-004-15345552>4</a> | <a href=MbrDtlMain.php?15345552>ANDY J RECKTENWALD</a>              |0.0  |L   1|L   3|L   2|
+   KY | 15345552 / R:  549P10-> 473P13  |     |     |     |     |
+      |            Q:  551P10-> 482P13  |     |     |     |     |
+-----------------------------------------------------------------
+Note:  Performances satisfying the requirements for norms are now being shown for events in the *Total Pts* column.<br>It may take a week for a recently rated event to have norms computed for it.
+</pre>
+</td>
+</tr>
+</table>
+<p>
+<a anchor="Section5"></a>
+<p>
+<table border=1 bgcolor=FFFFFF cellpadding=0 cellspacing=0>
+<tr>
+<td>
+<table border=0 width=800 bgcolor=FFFFFF  cellpadding=3 cellspacing=0>
+<tr>
+<td colspan=3 align=center bgcolor=DDDDFF>
+<b>Section 5 - Oak's Day Quad E</b>
+</td>
+</tr>
+
+<tr>
+<td width=120 bgcolor=EEEEEE>
+Section Date(s)
+</td>
+<td width=1></td>
+<td>
+<b>2014-05-02</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Processed
+</td>
+<td width=1></td>
+<td>
+<b>Received: 2014-05-05 &nbsp; Entered: 2014-05-05 &nbsp; Rated: 2014-05-05 Re-Rated: 2014-05-07</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Stats
+</td>
+<td width=1></td>
+<td>
+<b>3 Rounds,&nbsp; 4 Players;  &nbsp;K Factor: F  &nbsp;Rating Sys: D  &nbsp;Tnmt Type: S  <br>Time Control: G/40;d5</b>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan=3>
+<pre>
+-----------------------------------------------------------------
+<i> * Click on a Pairing Number to see the Player's Opponents.
+ * Click on a Player's Name for more information about the Player.</i>
+<font size=+2>Crosstable data is <b>not</b> shown in tiebreak order and <font color=red ><b><i>does NOT reflect <br>any distribution of trophies or prize monies.</font></font></b></i><a href=http://www.uschess.org/msa/FAQ.php>(See Frequent Questions)</a>
+<i>Crosstable data is shown as reported to the USCF by the Tournament Director.  <br>Please contact the TD to report any crosstable errors.</i>
+Note:  The information below the "Total Pts" score shows the highest norm earned in this event.<br>For more information on norms, see <a href=http://www.glicko.net/ratings/titles.pdf>The USCF Title System</a>.
+-----------------------------------------------------------------
+ Pair | Player Name                     |Total|Round|Round|Round| 
+ Num  | USCF ID / Rtg (Pre->Post)       | Pts |  1  |  2  |  3  | 
+-----------------------------------------------------------------
+    <a href=XtblPlr.php?201405026302-005-15090706>1</a> | <a href=MbrDtlMain.php?15090706>JASON MCDONALD</a>                  |3.0  |W   3|W   2|W   4|
+   KY | 15090706 / R:  917   -> 938     |     |     |     |     |
+      |            Q:  915   -> 937     |     |     |     |     |
+-----------------------------------------------------------------
+    <a href=XtblPlr.php?201405026302-005-15023083>2</a> | <a href=MbrDtlMain.php?15023083>JACK TALBOTT</a>                    |2.0  |W   4|L   1|W   3|
+   KY | 15023083 / R:  606   -> 647     |     |     |     |     |
+      |            Q:  610   -> 650     |     |     |     |     |
+-----------------------------------------------------------------
+    <a href=XtblPlr.php?201405026302-005-14313471>3</a> | <a href=MbrDtlMain.php?14313471>PINAR INANC</a>                     |1.0  |L   1|W   4|L   2|
+   KY | 14313471 / R:  637   -> 603     |     |     |     |     |
+      |            Q:  642   -> 607     |     |     |     |     |
+-----------------------------------------------------------------
+    <a href=XtblPlr.php?201405026302-005-15442716>4</a> | <a href=MbrDtlMain.php?15442716>CAMERON ARMSTRONG HAWKINS</a>       |0.0  |L   2|L   3|L   1|
+   KY | 15442716 / R: Unrated-> 205P3   |     |     |     |     |
+      |            Q: Unrated-> 210P3   |     |     |     |     |
+-----------------------------------------------------------------
+Note:  Performances satisfying the requirements for norms are now being shown for events in the *Total Pts* column.<br>It may take a week for a recently rated event to have norms computed for it.
+</pre>
+</td>
+</tr>
+</table>
+<p>
+<a anchor="Section6"></a>
+<p>
+<table border=1 bgcolor=FFFFFF cellpadding=0 cellspacing=0>
+<tr>
+<td>
+<table border=0 width=800 bgcolor=FFFFFF  cellpadding=3 cellspacing=0>
+<tr>
+<td colspan=3 align=center bgcolor=DDDDFF>
+<b>Section 6 - Oak's Day Quad F</b>
+</td>
+</tr>
+
+<tr>
+<td width=120 bgcolor=EEEEEE>
+Section Date(s)
+</td>
+<td width=1></td>
+<td>
+<b>2014-05-02</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Processed
+</td>
+<td width=1></td>
+<td>
+<b>Received: 2014-05-05 &nbsp; Entered: 2014-05-05 &nbsp; Rated: 2014-05-05 Re-Rated: 2014-05-21</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Stats
+</td>
+<td width=1></td>
+<td>
+<b>3 Rounds,&nbsp; 4 Players;  &nbsp;K Factor: F  &nbsp;Rating Sys: D  &nbsp;Tnmt Type: S  <br>Time Control: G/40;d5</b>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan=3>
+<pre>
+-----------------------------------------------------------------
+<i> * Click on a Pairing Number to see the Player's Opponents.
+ * Click on a Player's Name for more information about the Player.</i>
+<font size=+2>Crosstable data is <b>not</b> shown in tiebreak order and <font color=red ><b><i>does NOT reflect <br>any distribution of trophies or prize monies.</font></font></b></i><a href=http://www.uschess.org/msa/FAQ.php>(See Frequent Questions)</a>
+<i>Crosstable data is shown as reported to the USCF by the Tournament Director.  <br>Please contact the TD to report any crosstable errors.</i>
+Note:  The information below the "Total Pts" score shows the highest norm earned in this event.<br>For more information on norms, see <a href=http://www.glicko.net/ratings/titles.pdf>The USCF Title System</a>.
+-----------------------------------------------------------------
+ Pair | Player Name                     |Total|Round|Round|Round| 
+ Num  | USCF ID / Rtg (Pre->Post)       | Pts |  1  |  2  |  3  | 
+-----------------------------------------------------------------
+    <a href=XtblPlr.php?201405026302-006-15345567>1</a> | <a href=MbrDtlMain.php?15345567>ALEX C GRAHAM</a>                   |3.0  |W   2|W   4|W   3|
+   KY | 15345567 / R:  829P3 ->1020P6   |     |     |     |     |
+      |            Q:  795P3 ->1001P6   |     |     |     |     |
+-----------------------------------------------------------------
+    <a href=XtblPlr.php?201405026302-006-15003121>2</a> | <a href=MbrDtlMain.php?15003121>BRYSON C VIBBERT</a>                |2.0  |L   1|W   3|W   4|
+   KY | 15003121 / R:  932   -> 943     |     |     |     |     |
+      |            Q:  930   -> 939     |     |     |     |     |
+-----------------------------------------------------------------
+    <a href=XtblPlr.php?201405026302-006-14744757>3</a> | <a href=MbrDtlMain.php?14744757>ANDREW ROBERTSON CLARK</a>          |1.0  |W   4|L   2|L   1|
+   KY | 14744757 / R:  840   -> 821     |     |     |     |     |
+      |            Q:  834   -> 814     |     |     |     |     |
+-----------------------------------------------------------------
+    <a href=XtblPlr.php?201405026302-006-15002840>4</a> | <a href=MbrDtlMain.php?15002840>SAI JAVVADI</a>                     |0.0  |L   3|L   1|L   2|
+   KY | 15002840 / R:  755   -> 702     |     |     |     |     |
+      |            Q:  758   -> 703     |     |     |     |     |
+-----------------------------------------------------------------
+Note:  Performances satisfying the requirements for norms are now being shown for events in the *Total Pts* column.<br>It may take a week for a recently rated event to have norms computed for it.
+</pre>
+</td>
+</tr>
+</table>
+<p>
+<a anchor="Section7"></a>
+<p>
+<table border=1 bgcolor=FFFFFF cellpadding=0 cellspacing=0>
+<tr>
+<td>
+<table border=0 width=800 bgcolor=FFFFFF  cellpadding=3 cellspacing=0>
+<tr>
+<td colspan=3 align=center bgcolor=DDDDFF>
+<b>Section 7 - Oak's Day Quad G</b>
+</td>
+</tr>
+
+<tr>
+<td width=120 bgcolor=EEEEEE>
+Section Date(s)
+</td>
+<td width=1></td>
+<td>
+<b>2014-05-02</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Processed
+</td>
+<td width=1></td>
+<td>
+<b>Received: 2014-05-05 &nbsp; Entered: 2014-05-05 &nbsp; Rated: 2014-05-05 Re-Rated: 2014-09-09</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Stats
+</td>
+<td width=1></td>
+<td>
+<b>3 Rounds,&nbsp; 4 Players;  &nbsp;K Factor: F  &nbsp;Rating Sys: D  &nbsp;Tnmt Type: S  <br>Time Control: G/40;d5</b>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan=3>
+<pre>
+-----------------------------------------------------------------
+<i> * Click on a Pairing Number to see the Player's Opponents.
+ * Click on a Player's Name for more information about the Player.</i>
+<font size=+2>Crosstable data is <b>not</b> shown in tiebreak order and <font color=red ><b><i>does NOT reflect <br>any distribution of trophies or prize monies.</font></font></b></i><a href=http://www.uschess.org/msa/FAQ.php>(See Frequent Questions)</a>
+<i>Crosstable data is shown as reported to the USCF by the Tournament Director.  <br>Please contact the TD to report any crosstable errors.</i>
+Note:  The information below the "Total Pts" score shows the highest norm earned in this event.<br>For more information on norms, see <a href=http://www.glicko.net/ratings/titles.pdf>The USCF Title System</a>.
+-----------------------------------------------------------------
+ Pair | Player Name                     |Total|Round|Round|Round| 
+ Num  | USCF ID / Rtg (Pre->Post)       | Pts |  1  |  2  |  3  | 
+-----------------------------------------------------------------
+    <a href=XtblPlr.php?201405026302-007-15021656>1</a> | <a href=MbrDtlMain.php?15021656>OLIVER AOLI NOTH</a>                |2.5  |D   2|W   4|W   3|
+   KY | 15021656 / R:  931   ->1088     |     |     |     |     |
+      |            Q:  929   ->1084     |     |     |     |     |
+-----------------------------------------------------------------
+    <a href=XtblPlr.php?201405026302-007-14344913>2</a> | <a href=MbrDtlMain.php?14344913>JACK HAROLD BRADLEY</a>             |2.0  |D   1|D   3|W   4|
+   KY | 14344913 / R: 1295   ->1274     |     |     |     |     |
+      |            Q: 1282   ->1262     |     |     |     |     |
+-----------------------------------------------------------------
+    <a href=XtblPlr.php?201405026302-007-13337990>3</a> | <a href=MbrDtlMain.php?13337990>WILL MANDROLA</a>                   |1.5  |W   4|D   2|L   1|
+   KY | 13337990 / R: 1080   ->1083     |     |     |     |     |
+      |            Q: 1064   ->1070     |     |     |     |     |
+-----------------------------------------------------------------
+    <a href=XtblPlr.php?201405026302-007-14588966>4</a> | <a href=MbrDtlMain.php?14588966>CONNOR KEENAN</a>                   |0.0  |L   3|L   1|L   2|
+   KY | 14588966 / R:  970   -> 923     |     |     |     |     |
+      |            Q:  974   -> 925     |     |     |     |     |
+-----------------------------------------------------------------
+Note:  Performances satisfying the requirements for norms are now being shown for events in the *Total Pts* column.<br>It may take a week for a recently rated event to have norms computed for it.
+</pre>
+</td>
+</tr>
+</table>
+</table>
+</form>
+&nbsp;
+<p>
+<hr>
+<p>
+<center>
+<p>
+<p>
+<font size=-1>
+Session  / 0
+<br>Version 1.00b / 2003-10-16
+</font>
+<br>
+<font size=-1>
+<i>
+USCF Member Services Area - Copyright 2002-2012 by the <a href="http://www.USChess.org">US Chess Federation</a> -  All Rights Reserved
+<br><a href="http://msa.uschess.org/FAQ.php">Frequently Asked Questions</a>
+<br>Report problems to <a href="mailto:msafeedback@uschess.org">msafeedback@uschess.org</a>
+<br><a href="http://www.USChess.org">Return to USCF Home Page</a>
+</i>
+</font>
+</center>
+<p>
+<hr>
+<p>
+</body>
+</html>

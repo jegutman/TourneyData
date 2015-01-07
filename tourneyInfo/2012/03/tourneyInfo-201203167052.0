@@ -1,0 +1,828 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+<title>USCF MSA - Cross Table for DCC FRI 3.16.12 (Event 201203167052)</title>
+<style type='text/css'>
+body {margin-left: 10; margin-right: 10; margin-top: 0; margin-bottom: 0;  background-color: #40B7D3; min-width: 800px;}
+td {font: helvetica; color: black; font-size: 100%;}
+input {font: helvetica; font-size: 100%; color: black; font-weight: bold; padding-left: 4;}
+input.submit_debug {font: helvetica; font-size: 10pt; color: red; font-weight: normal; background-color: #BFBFBF;}
+input.submit {font: helvetica; font-size: 10pt; color: black; font-weight: normal; background-color: #BFBFBF;}
+input.submit_dis {font: helvetica; font-size: 10pt; color: grey; background-color: #BFBFBF;}
+select {font: helvetica; font-size: 10pt;  color: brown}
+a.topbar-line1 {font: helvetica; font-size: 100%; color: white; text-decoration: none; padding-left: 10;}
+a.topbar-line2 {font: helvetica; font-size: 100%; color: #0373A4; text-decoration: underline; padding-left: 10;}
+/* a {font: helvetica; font-size: 100%; color: black; text-decoration: none; padding-left: 10;} */
+
+/*  table {border: 2px solid red; margin: 0px;}
+td{border: 1px dotted purple; padding: 2px; } */
+
+table.topbar {border-style: none; border-width: 0; border: 0; margin: 0; padding: 0; cell-padding: 0; background-color: #40B7D3;}
+tr.topbar {padding: 5;  margin-top: 5; margin-bottom: 5; background-color: #40B7D3; }
+td.topbar {padding: 3; color: white; font: helvetica; font-size: 100%; font-weight: bold;}
+td.topbar-side {padding: 0; color: black; font: helvetica; font-size: 100%; background-color: #FFFFFF;}
+td.topbar-middle {padding: 0; color: black; font: helvetica; font-size: 100%; background-color: #FFFFFF;}
+td.topbar-line2 {padding: 0; padding: 3; font: helvetica; font-size: 100%; color: #0373A4; background-color: #C7EAFB;}
+td.topbar-line2-right {text-align: right; padding: 0; padding: 3; font: helvetica; font-size: 100%; color: #0373A4; background-color: #C7EAFB;}
+td.topbar-right {text-align: right; padding: 0; color: blue; font: helvetica; font-size: 100%;  background-color: #40B7D3;}
+span.right {text-align: right; background-color: #E0FFFF}
+</style></head>
+<body >
+<table width=100% class=topbar cellspacing=0><tr class=topbar></td><td class=topbar width=100% ><table cellspacing=0 class=topbar width=100%><tr class=topbar><td class=topbar >US Chess Federation - Member Services Area</td><td class=topbar-right >
+<a class=topbar-line1 href=http://main.uschess.org/content/blogcategory/30/319>Press</a>
+<a class=topbar-line1 href=http://main.uschess.org/content/view/7850/385>Advertising</a>
+<a class=topbar-line1 href=http://main.uschess.org/content/blogsection/12/35>About the USCF</a>
+<a class=topbar-line1 href=http://main.uschess.org/component/option,com_wrapper/Itemid,327>Contact Us</a></td></tr>
+</table></td></tr>
+
+<tr class=topbar>
+<td class=topbar-line2>
+<a class=topbar-line2 href=http://www.uschess.org>Return to USCF Home Page</a>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp;&nbsp;&nbsp;&nbsp;
+<a class=topbar-line2 href=Index.php>MSA Home</a>
+<a class=topbar-line2 href=http://www.uschess.org/datapage/player-search.php>Members</a>
+<a class=topbar-line2 href=AffLst.php>Affiliates</a>
+<a class=topbar-line2 href=http://www.uschess.org/datapage/event-search.php>Tournaments</a>
+<a class=topbar-line2 href=HelpTxt.php>Help</a>
+</td></tr>
+<tr class=topbar><td class=topbar-middle>
+<center>
+<table border=0 valign=top>
+
+<form method=post action=AffDtlMain.php>
+
+&nbsp;
+<p>
+<table border=1 bgcolor=FFFFFF cellpadding=0 cellspacing=0>
+<tr>
+<td>
+<table border=0 bgcolor=FFFFFF width=800 cellpadding=3 cellspacing=0>
+
+<tr>
+<td colspan=3 bgcolor=DDDDDD align=center>
+<b>Event Summary</b>
+</td>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Event
+</td>
+<td width=1 rowspan=10></td>
+<td>
+<b>DCC FRI 3.16.12</b> &nbsp;<small>(201203167052)</small>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE>
+Location
+</td>
+<td>
+<b>RICHARDSON, TX &nbsp;75080 &nbsp;</b>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE>
+Event Date(s)
+</td>
+<td>
+<b>2012-03-16 </b>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE>
+Sponsoring Affiliate
+</td>
+<td>
+<b><a href=http://msa.uschess.org/AffDtlMain.php?A5011493>DALLAS CHESS CLUB</a></b> &nbsp;<small>(A5011493)</small>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE>
+Chief&nbsp; TD
+</td>
+<td>
+<b>THOMAS E CRANE</b> &nbsp;<small>(12836462)</small>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE>
+Processed
+</td>
+<td>
+<b>Received: 2012-03-17 &nbsp; Entered: 2012-03-17 &nbsp; Rated: 2012-03-17</b>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE valign=top>
+Stats
+</td>
+<td>
+<b>3 Section(s),&nbsp; 95 Players</b>
+<br><font color=blue>The ratings shown on this page are not official published ratings and may change from time to time.  Using them for pairing purposes in tournaments should only be done if this has been advertised in all advance publicity and is announced to all players at the tournament.</font>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table border=0 bgcolor=FFFFFF width=800 cellpadding=3 cellspacing=0>
+
+<tr>
+<td colspan=6 bgcolor=DDDDDD align=center>
+<b>Sections</b>
+</td>
+<tr bgcolor=EEEEEE>
+<td width=70 align=center valign=middle>
+<font color=A00000>
+<b><i>HINT:</I.</b>
+</font>
+</td>
+<td width=1></td>
+<td>
+<font color=A00000><b>
+&nbsp; * Click on a Section Name to see the cross table for that Section, &nbsp;<i>or</i>
+<br>
+&nbsp; * Click on "Show All Sections" to see the cross tables for all sections at once.
+<br>
+</b></font>
+</td>
+</tr>
+
+<tr>
+<td width=80 bgcolor=EEEEEE>
+Section 1
+</td>
+<td width=1></td>
+<td>
+<a href=XtblMain.php?201203167052.1><b>F3_16UP</b></a>
+</td>
+</tr>
+
+<tr>
+<td width=80 bgcolor=EEEEEE>
+Section 2
+</td>
+<td width=1></td>
+<td>
+<a href=XtblMain.php?201203167052.2><b>F3_16MID</b></a>
+</td>
+</tr>
+
+<tr>
+<td width=80 bgcolor=EEEEEE>
+Section 3
+</td>
+<td width=1></td>
+<td>
+<a href=XtblMain.php?201203167052.3><b>F3_16LO</b></a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p>
+<a anchor="Section1"></a>
+<p>
+<table border=1 bgcolor=FFFFFF cellpadding=0 cellspacing=0>
+<tr>
+<td>
+<table border=0 width=800 bgcolor=FFFFFF  cellpadding=3 cellspacing=0>
+<tr>
+<td colspan=3 align=center bgcolor=DDDDFF>
+<b>Section 1 - F3_16UP</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Chf. Asst. TD
+</td>
+<td width=1></td>
+<td>
+<b>ROBERT B JONES</b> &nbsp;<small>(12214650)</small>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Asst. TD
+</td>
+<td width=1></td>
+<td>
+<b>JACE MATTHEW JONES</b> &nbsp;<small>(12811694)</small>
+</td>
+</tr>
+
+<tr>
+<td width=120 bgcolor=EEEEEE>
+Section Date(s)
+</td>
+<td width=1></td>
+<td>
+<b>2012-03-16</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Processed
+</td>
+<td width=1></td>
+<td>
+<b>Received: 2012-03-17 &nbsp; Entered: 2012-03-17 &nbsp; Rated: 2012-03-17 Re-Rated: 2014-09-16</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Stats
+</td>
+<td width=1></td>
+<td>
+<b>4 Rounds,&nbsp; 58 Players;  &nbsp;K Factor: F  &nbsp;Rating Sys: D  &nbsp;Tnmt Type: S  <br>Time Control: G/30;d5</b>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan=3>
+<pre>
+-----------------------------------------------------------------------
+<i> * Click on a Pairing Number to see the Player's Opponents.
+ * Click on a Player's Name for more information about the Player.</i>
+<font size=+2>Crosstable data is <b>not</b> shown in tiebreak order and <font color=red ><b><i>does NOT reflect <br>any distribution of trophies or prize monies.</font></font></b></i><a href=http://www.uschess.org/msa/FAQ.php>(See Frequent Questions)</a>
+<i>Crosstable data is shown as reported to the USCF by the Tournament Director.  <br>Please contact the TD to report any crosstable errors.</i>
+Note:  The information below the "Total Pts" score shows the highest norm earned in this event.<br>For more information on norms, see <a href=http://www.glicko.net/ratings/titles.pdf>The USCF Title System</a>.
+-----------------------------------------------------------------------
+ Pair | Player Name                     |Total|Round|Round|Round|Round| 
+ Num  | USCF ID / Rtg (Pre->Post)       | Pts |  1  |  2  |  3  |  4  | 
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201203167052-001-12688291>1</a> | <a href=MbrDtlMain.php?12688291>ALEJANDRO RAMIREZ</a>               |4.0  |W   7|W  26|W  10|W   6|
+   TX | 12688291 / R: 2674   ->2676     |N:C  |     |     |     |     |
+      |            Q: 2502   ->2506     |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201203167052-001-12816147>2</a> | <a href=MbrDtlMain.php?12816147>FRANCISCO L GUADALUPE II</a>        |4.0  |W  54|W  40|W  18|W   5|
+   TX | 12816147 / R: 2306   ->2315     |N:C  |     |     |     |     |
+      |            Q: 2132   ->2144     |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201203167052-001-14492751>3</a> | <a href=MbrDtlMain.php?14492751>ODUNAYO AJIBOYE</a>                 |3.5  |H    |W  21|W  36|W  11|
+   TX | 14492751 / R: 2066   ->2071     |     |     |     |     |     |
+      |            Q: 2094   ->2099     |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201203167052-001-13177373>4</a> | <a href=MbrDtlMain.php?13177373>AUSTIN Z JIANG</a>                  |3.5  |W  16|W  48|W  28|H    |
+   TX | 13177373 / R: 2041   ->2047     |     |     |     |     |     |
+      |            Q: 1886   ->1896     |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201203167052-001-12667367>5</a> | <a href=MbrDtlMain.php?12667367>CHRISTOPHER J TOOLIN</a>            |3.0  |W  34|W  49|W  17|L   2|
+   TX | 12667367 / R: 2253   ->2249     |N:1  |     |     |     |     |
+      |            Q: 2104   ->2101     |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201203167052-001-13091096>6</a> | <a href=MbrDtlMain.php?13091096>JONATHAN CHIANG</a>                 |3.0  |W  15|W  41|W  12|L   1|
+   TX | 13091096 / R: 2195   ->2197     |N:2  |     |     |     |     |
+      |            Q: 2185   ->2186     |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201203167052-001-12958332>7</a> | <a href=MbrDtlMain.php?12958332>DION SU</a>                         |3.0  |L   1|W  39|W  40|W  28|
+   TX | 12958332 / R: 2028   ->2031     |N:3  |     |     |     |     |
+      |            Q: 2008   ->2010     |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201203167052-001-13996018>8</a> | <a href=MbrDtlMain.php?13996018>VENKAT TEJAH KOTTA</a>              |3.0  |L  22|W  56|W  41|W  26|
+   TX | 13996018 / R: 1816   ->1819     |N:3  |     |     |     |     |
+      |            Q: 1767   ->1770     |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201203167052-001-12211920>9</a> | <a href=MbrDtlMain.php?12211920>MACK H WILLIAMS JR</a>              |3.0  |H    |D  29|W  48|W  32|
+   TX | 12211920 / R: 1807   ->1801     |     |     |     |     |     |
+      |            Q: 1708   ->1704     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-001-14331242>10</a> | <a href=MbrDtlMain.php?14331242>LUIS LIZARDO-SANCHEZ</a>            |3.0  |W  35|W  44|L   1|W  30|
+   TX | 14331242 / R: 1778   ->1799     |N:3  |     |     |     |     |
+      |            Q: 1715   ->1742     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-001-14694293>11</a> | <a href=MbrDtlMain.php?14694293>RAM KRISHNA</a>                     |3.0  |W  20|W  45|W  22|L   3|
+   TX | 14694293 / R: 1672   ->1737     |N:2  |     |     |     |     |
+      |            Q: 1676   ->1732     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-001-14237416>12</a> | <a href=MbrDtlMain.php?14237416>DAVID C LI</a>                      |3.0  |W  23|W  31|L   6|W  22|
+   TX | 14237416 / R: 1609   ->1695     |N:2  |     |     |     |     |
+      |            Q: 1566   ->1656     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-001-14028747>13</a> | <a href=MbrDtlMain.php?14028747>MEIYI SU</a>                        |3.0  |L  41|W  54|W  46|W  25|
+   TX | 14028747 / R: 1552   ->1602     |N:3  |     |     |     |     |
+      |            Q: 1482   ->1544     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-001-13177367>14</a> | <a href=MbrDtlMain.php?13177367>ALEXANDER D JIANG</a>               |2.5  |L  19|W  47|W  49|H    |
+   TX | 13177367 / R: 1931   ->1918     |     |     |     |     |     |
+      |            Q: 1915   ->1901     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-001-13928401>15</a> | <a href=MbrDtlMain.php?13928401>TIANMING XIE</a>                    |2.5  |L   6|W  27|W  42|H    |
+   TX | 13928401 / R: 1843   ->1846     |     |     |     |     |     |
+      |            Q: 1810   ->1813     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-001-14100620>16</a> | <a href=MbrDtlMain.php?14100620>BRIAN FANYUAN GU</a>                |2.5  |L   4|W  55|W  44|H    |
+   TX | 14100620 / R: 1820   ->1818     |     |     |     |     |     |
+      |            Q: 1736   ->1732     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-001-13752893>17</a> | <a href=MbrDtlMain.php?13752893>ALEX Y HAN</a>                      |2.5  |W  25|W  30|L   5|H    |
+   TX | 13752893 / R: 1752   ->1762     |     |     |     |     |     |
+      |            Q: 1709   ->1718     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-001-14643301>18</a> | <a href=MbrDtlMain.php?14643301>NAVID A HAKIM</a>                   |2.5  |H    |W  33|L   2|W  29|
+   TX | 14643301 / R: 1744   ->1750     |     |     |     |     |     |
+      |            Q: 1688   ->1694     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-001-14296461>19</a> | <a href=MbrDtlMain.php?14296461>CHASE FRUTOS</a>                    |2.5  |W  14|D  32|H    |H    |
+   TX | 14296461 / R: 1733   ->1743     |     |     |     |     |     |
+      |            Q: 1688   ->1699     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-001-13146343>20</a> | <a href=MbrDtlMain.php?13146343>DAVID WANG</a>                      |2.5  |L  11|W  50|W  33|H    |
+   TX | 13146343 / R: 1705   ->1698     |     |     |     |     |     |
+      |            Q: 1649   ->1644     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-001-14286731>21</a> | <a href=MbrDtlMain.php?14286731>TOMISIN OGUNFUNMI</a>               |2.5  |D  32|L   3|W  38|X    |
+   TX | 14286731 / R: 1439   ->1470     |     |     |     |     |     |
+      |            Q: 1413   ->1443     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-001-13862594>22</a> | <a href=MbrDtlMain.php?13862594>BOVEY LIU</a>                       |2.0  |W   8|W  42|L  11|L  12|
+   TX | 13862594 / R: 2048   ->2023     |N:3  |     |     |     |     |
+      |            Q: 1954   ->1929     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-001-12455287>23</a> | <a href=MbrDtlMain.php?12455287>DAVID CHIANG</a>                    |2.0  |L  12|W  58|L  30|W  48|
+   TX | 12455287 / R: 1699   ->1670     |N:4  |     |     |     |     |
+      |            Q: 1651   ->1621     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-001-13935146>24</a> | <a href=MbrDtlMain.php?13935146>MARCUS S MAO</a>                    |2.0  |L  37|W  53|L  32|X    |
+   TX | 13935146 / R: 1655   ->1621     |     |     |     |     |     |
+      |            Q: 1614   ->1579     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-001-13486563>25</a> | <a href=MbrDtlMain.php?13486563>MARK LAYNE WEISBERG</a>             |2.0  |L  17|W  57|W  31|L  13|
+   TX | 13486563 / R: 1636   ->1620     |N:4  |     |     |     |     |
+      |            Q: 1586   ->1570     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-001-14316052>26</a> | <a href=MbrDtlMain.php?14316052>EDWARD S MAO</a>                    |2.0  |W  55|L   1|W  45|L   8|
+   TX | 14316052 / R: 1592   ->1596     |N:4  |     |     |     |     |
+      |            Q: 1551   ->1555     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-001-14664637>27</a> | <a href=MbrDtlMain.php?14664637>KEVIN T SUPAKKUL</a>                |2.0  |L  48|L  15|W  56|W  53|
+   TX | 14664637 / R: 1570   ->1551     |     |     |     |     |     |
+      |            Q: 1535   ->1516     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-001-13866727>28</a> | <a href=MbrDtlMain.php?13866727>VAMSHI REDDY GUJJU</a>              |2.0  |W  39|W  46|L   4|L   7|
+   TX | 13866727 / R: 1509   ->1539     |N:4  |     |     |     |     |
+      |            Q: 1466   ->1497     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-001-14282654>29</a> | <a href=MbrDtlMain.php?14282654>JONATHAN P WILSON</a>               |2.0  |H    |D   9|W  35|L  18|
+   TX | 14282654 / R: 1324   ->1416     |     |     |     |     |     |
+      |            Q: 1273   ->1368     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-001-13721340>30</a> | <a href=MbrDtlMain.php?13721340>CRAIG WINCHELL</a>                  |2.0  |W  52|L  17|W  23|L  10|
+   TX | 13721340 / R: 1320   ->1397     |N:4  |     |     |     |     |
+      |            Q: 1275   ->1356     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-001-14028691>31</a> | <a href=MbrDtlMain.php?14028691>ETHAN EMMANUEL</a>                  |2.0  |W  56|L  12|L  25|W  49|
+   TX | 14028691 / R: 1360   ->1395     |N:4  |     |     |     |     |
+      |            Q: 1336   ->1367     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-001-12907957>32</a> | <a href=MbrDtlMain.php?12907957>NIKHIL KESARLA</a>                  |2.0  |D  21|D  19|W  24|L   9|
+   TX | 12907957 / R: 1253   ->1368     |N:3  |     |     |     |     |
+      |            Q: 1217   ->1334     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-001-14673411>33</a> | <a href=MbrDtlMain.php?14673411>ADRIAN D STACEY</a>                 |2.0  |W  53|L  18|L  20|W  47|
+   TX | 14673411 / R: 1308   ->1362     |N:4  |     |     |     |     |
+      |            Q: 1283   ->1334     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-001-13114854>34</a> | <a href=MbrDtlMain.php?13114854>ROBERT SANCHEZ</a>                  |1.5  |L   5|W  43|H    |U    |
+   TX | 13114854 / R: 1890   ->1888     |     |     |     |     |     |
+      |            Q: 1850   ->1846     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-001-14362815>35</a> | <a href=MbrDtlMain.php?14362815>ABHISHEK REDDY OBILI</a>            |1.5  |L  10|W  51|L  29|H    |
+   TX | 14362815 / R: 1810   ->1778     |     |     |     |     |     |
+      |            Q: 1776   ->1741     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-001-13928396>36</a> | <a href=MbrDtlMain.php?13928396>YIQUN XIE</a>                       |1.5  |W  38|H    |L   3|F    |
+   TX | 13928396 / R: 1739   ->1744     |     |     |     |     |     |
+      |            Q: 1624   ->1635     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-001-12811694>37</a> | <a href=MbrDtlMain.php?12811694>JACE MATTHEW JONES</a>              |1.5  |W  24|U    |U    |H    |
+   NY | 12811694 / R: 1722   ->1732     |     |     |     |     |     |
+      |            Q: 1683   ->1694     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-001-13715325>38</a> | <a href=MbrDtlMain.php?13715325>DHEERESH MADDU</a>                  |1.5  |L  36|D  52|L  21|W  57|
+   TX | 13715325 / R: 1636   ->1598     |     |     |     |     |     |
+      |            Q: 1599   ->1557     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-001-14290387>39</a> | <a href=MbrDtlMain.php?14290387>ERIC WANG</a>                       |1.5  |L  28|L   7|W  52|H    |
+   TX | 14290387 / R: 1562   ->1547     |     |     |     |     |     |
+      |            Q: 1531   ->1515     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-001-13620918>40</a> | <a href=MbrDtlMain.php?13620918>MICHAEL METTLER</a>                 |1.5  |W  50|L   2|L   7|H    |
+   TX | 13620918 / R: 1494   ->1502     |     |     |     |     |     |
+      |            Q: 1446   ->1453     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-001-14452671>41</a> | <a href=MbrDtlMain.php?14452671>HARRY WANG</a>                      |1.5  |W  13|L   6|L   8|H    |
+   TX | 14452671 / R: 1413   ->1449     |     |     |     |     |     |
+      |            Q: 1386   ->1420     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-001-14327492>42</a> | <a href=MbrDtlMain.php?14327492>ARYAMAN BANSAL</a>                  |1.5  |W  47|L  22|L  15|H    |
+   TX | 14327492 / R: 1382   ->1409     |     |     |     |     |     |
+      |            Q: 1329   ->1359     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-001-13934473>43</a> | <a href=MbrDtlMain.php?13934473>MARK METTLER</a>                    |1.5  |L  49|L  34|W  51|H    |
+   TX | 13934473 / R: 1379   ->1374     |     |     |     |     |     |
+      |            Q: 1331   ->1327     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-001-14617367>44</a> | <a href=MbrDtlMain.php?14617367>ERIC SHI</a>                        |1.5  |W  58|L  10|L  16|H    |
+   TX | 14617367 / R: 1366   ->1373     |     |     |     |     |     |
+      |            Q: 1334   ->1341     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-001-14638982>45</a> | <a href=MbrDtlMain.php?14638982>KEVIN B LIU</a>                     |1.5  |W  57|L  11|L  26|H    |
+   TX | 14638982 / R: 1241   ->1266     |     |     |     |     |     |
+      |            Q: 1229   ->1250     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-001-14554791>46</a> | <a href=MbrDtlMain.php?14554791>ANDREW TANG</a>                     |1.5  |W  51|L  28|L  13|H    |
+   TX | 14554791 / R: 1230   ->1247     |     |     |     |     |     |
+      |            Q: 1190   ->1208     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-001-14084414>47</a> | <a href=MbrDtlMain.php?14084414>BEHFAR OLFET</a>                    |1.0  |L  42|L  14|W  57|L  33|
+   TX | 14084414 / R: 1486   ->1450     |     |     |     |     |     |
+      |            Q: 1447   ->1410     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-001-14645581>48</a> | <a href=MbrDtlMain.php?14645581>STEPHEN J BALHOFF</a>               |1.0  |W  27|L   4|L   9|L  23|
+   TX | 14645581 / R: 1437   ->1448     |     |     |     |     |     |
+      |            Q: 1396   ->1405     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-001-14290440>49</a> | <a href=MbrDtlMain.php?14290440>ANDREW SUN-RONG MAO</a>             |1.0  |W  43|L   5|L  14|L  31|
+   TX | 14290440 / R: 1426   ->1419     |     |     |     |     |     |
+      |            Q: 1390   ->1383     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-001-14638997>50</a> | <a href=MbrDtlMain.php?14638997>JIE LIU</a>                         |1.0  |L  40|L  20|W  58|F    |
+   TX | 14638997 / R: 1328   ->1329     |     |     |     |     |     |
+      |            Q: 1237   ->1245     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-001-12964026>51</a> | <a href=MbrDtlMain.php?12964026>ROBERT MASINGALE</a>                |1.0  |L  46|L  35|L  43|W  58|
+   TX | 12964026 / R: 1311   ->1300     |     |     |     |     |     |
+      |            Q: 1275   ->1248     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-001-14320195>52</a> | <a href=MbrDtlMain.php?14320195>AUSTIN MEAD</a>                     |1.0  |L  30|D  38|L  39|H    |
+   TX | 14320195 / R: 1262   ->1257     |     |     |     |     |     |
+      |            Q: 1235   ->1229     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-001-13477340>53</a> | <a href=MbrDtlMain.php?13477340>BHARATH NALLANTHIGHALL</a>          |1.0  |L  33|L  24|B    |L  27|
+   TX | 13477340 / R: 1208   ->1186     |     |     |     |     |     |
+      |            Q: 1175   ->1152     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-001-13494646>54</a> | <a href=MbrDtlMain.php?13494646>ERIC MICHAEL COLDEWEY</a>           |0.5  |L   2|L  13|U    |H    |
+   TX | 13494646 / R: 1982   ->1962     |     |     |     |     |     |
+      |            Q: 1933   ->1910     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-001-14480784>55</a> | <a href=MbrDtlMain.php?14480784>ANIRUDH GANESH</a>                  |0.5  |L  26|L  16|H    |U    |
+   TX | 14480784 / R: 1359   ->1347     |     |     |     |     |     |
+      |            Q: 1298   ->1286     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-001-14548776>56</a> | <a href=MbrDtlMain.php?14548776>RUDRANSH RAJARAM</a>                |0.5  |L  31|L   8|L  27|H    |
+   TX | 14548776 / R: 1280   ->1256     |     |     |     |     |     |
+      |            Q: 1248   ->1224     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-001-14457510>57</a> | <a href=MbrDtlMain.php?14457510>COLE NICHOLAS FRUTOS</a>            |0.0  |L  45|L  25|L  47|L  38|
+   TX | 14457510 / R: 1353   ->1302     |     |     |     |     |     |
+      |            Q: 1321   ->1268     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-001-14349198>58</a> | <a href=MbrDtlMain.php?14349198>SEBASTIAN ALESSANDRO GIORDANO</a>   |0.0  |L  44|L  23|L  50|L  51|
+   TX | 14349198 / R: 1296   ->1239     |     |     |     |     |     |
+      |            Q: 1285   ->1220     |     |     |     |     |     |
+-----------------------------------------------------------------------
+Note:  Performances satisfying the requirements for norms are now being shown for events in the *Total Pts* column.<br>It may take a week for a recently rated event to have norms computed for it.
+</pre>
+</td>
+</tr>
+</table>
+<p>
+<a anchor="Section2"></a>
+<p>
+<table border=1 bgcolor=FFFFFF cellpadding=0 cellspacing=0>
+<tr>
+<td>
+<table border=0 width=800 bgcolor=FFFFFF  cellpadding=3 cellspacing=0>
+<tr>
+<td colspan=3 align=center bgcolor=DDDDFF>
+<b>Section 2 - F3_16MID</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Chf. Asst. TD
+</td>
+<td width=1></td>
+<td>
+<b>ROBERT B JONES</b> &nbsp;<small>(12214650)</small>
+</td>
+</tr>
+
+<tr>
+<td width=120 bgcolor=EEEEEE>
+Section Date(s)
+</td>
+<td width=1></td>
+<td>
+<b>2012-03-16</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Processed
+</td>
+<td width=1></td>
+<td>
+<b>Received: 2012-03-17 &nbsp; Entered: 2012-03-17 &nbsp; Rated: 2012-03-17 Re-Rated: 2014-09-16</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Stats
+</td>
+<td width=1></td>
+<td>
+<b>4 Rounds,&nbsp; 27 Players;  &nbsp;K Factor: F  &nbsp;Rating Sys: D  &nbsp;Tnmt Type: S  <br>Time Control: G/30;d5</b>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan=3>
+<pre>
+-----------------------------------------------------------------------
+<i> * Click on a Pairing Number to see the Player's Opponents.
+ * Click on a Player's Name for more information about the Player.</i>
+<font size=+2>Crosstable data is <b>not</b> shown in tiebreak order and <font color=red ><b><i>does NOT reflect <br>any distribution of trophies or prize monies.</font></font></b></i><a href=http://www.uschess.org/msa/FAQ.php>(See Frequent Questions)</a>
+<i>Crosstable data is shown as reported to the USCF by the Tournament Director.  <br>Please contact the TD to report any crosstable errors.</i>
+Note:  The information below the "Total Pts" score shows the highest norm earned in this event.<br>For more information on norms, see <a href=http://www.glicko.net/ratings/titles.pdf>The USCF Title System</a>.
+-----------------------------------------------------------------------
+ Pair | Player Name                     |Total|Round|Round|Round|Round| 
+ Num  | USCF ID / Rtg (Pre->Post)       | Pts |  1  |  2  |  3  |  4  | 
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201203167052-002-14510942>1</a> | <a href=MbrDtlMain.php?14510942>MINWOO JO</a>                       |4.0  |W  26|W  11|W   7|W   4|
+   TX | 14510942 / R: 1140   ->1266     |N:4  |     |     |     |     |
+      |            Q: 1109   ->1241     |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201203167052-002-14739715>2</a> | <a href=MbrDtlMain.php?14739715>MCKINLEY XIE</a>                    |3.5  |W  15|W   6|W  27|H   0|
+   TX | 14739715 / R: 1053   ->1123     |     |     |     |     |     |
+      |            Q: 1049   ->1117     |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201203167052-002-14725412>3</a> | <a href=MbrDtlMain.php?14725412>DAVID YUE</a>                       |3.0  |W   5|W  14|L   4|W  11|
+   TX | 14725412 / R: 1178P7 ->1218P11  |     |     |     |     |     |
+      |            Q: 1174P7 ->1212P11  |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201203167052-002-13521501>4</a> | <a href=MbrDtlMain.php?13521501>AKHIL R DONAPATI</a>                |3.0  |W  25|W  20|W   3|L   1|
+   TX | 13521501 / R: 1122   ->1166     |     |     |     |     |     |
+      |            Q: 1114   ->1156     |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201203167052-002-14702822>5</a> | <a href=MbrDtlMain.php?14702822>GIREESH CHANDRA DAGGUPATI</a>       |3.0  |L   3|W  27|W  18|W  14|
+   TX | 14702822 / R: 1122   ->1141     |     |     |     |     |     |
+      |            Q: 1115   ->1134     |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201203167052-002-14410368>6</a> | <a href=MbrDtlMain.php?14410368>SHREE MOHAN</a>                     |3.0  |W  18|L   2|W  19|W  23|
+   TX | 14410368 / R:  746P23-> 958     |     |     |     |     |     |
+      |            Q:  751P23-> 957     |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201203167052-002-14730914>7</a> | <a href=MbrDtlMain.php?14730914>SAI R NAGIREDDY</a>                 |2.5  |W  23|W  19|L   1|H   0|
+   TX | 14730914 / R: 1195   ->1189     |     |     |     |     |     |
+      |            Q: 1172   ->1167     |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201203167052-002-14031604>8</a> | <a href=MbrDtlMain.php?14031604>ZOE WANG</a>                        |2.5  |H   0|D  22|W  20|H   0|
+   TX | 14031604 / R: 1139   ->1138     |     |     |     |     |     |
+      |            Q: 1022   ->1035     |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201203167052-002-14590093>9</a> | <a href=MbrDtlMain.php?14590093>KAI TSUEI</a>                       |2.5  |L  20|W  24|W  13|H   0|
+   TX | 14590093 / R: 1129   ->1116     |     |     |     |     |     |
+      |            Q: 1116   ->1103     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-002-14230208>10</a> | <a href=MbrDtlMain.php?14230208>FRANCISCO A GOMEZ-QUINONEZ</a>      |2.0  |D  22|L  13|W  16|H   0|
+   TX | 14230208 / R: 1147   ->1109     |     |     |     |     |     |
+      |            Q: 1127   ->1090     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-002-14739695>11</a> | <a href=MbrDtlMain.php?14739695>JONATHAN LU</a>                     |2.0  |W  16|L   1|W  21|L   3|
+   TX | 14739695 / R: 1109   ->1092     |     |     |     |     |     |
+      |            Q: 1093   ->1076     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-002-14478496>12</a> | <a href=MbrDtlMain.php?14478496>RAAGHAV RAMJI</a>                   |2.0  |L  17|D  25|W  24|H   0|
+   TX | 14478496 / R: 1103   ->1065     |     |     |     |     |     |
+      |            Q: 1107   ->1064     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-002-14288078>13</a> | <a href=MbrDtlMain.php?14288078>MUKUNDAN KAILASH GURUMURTHY</a>     |2.0  |D  24|W  10|L   9|H   0|
+   TX | 14288078 / R: 1074   ->1062     |     |     |     |     |     |
+      |            Q: 1058   ->1047     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-002-14672492>14</a> | <a href=MbrDtlMain.php?14672492>JONATHAN XU</a>                     |2.0  |W  27|L   3|W  22|L   5|
+   TX | 14672492 / R:  976   -> 983     |     |     |     |     |     |
+      |            Q:  971   -> 978     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-002-13798658>15</a> | <a href=MbrDtlMain.php?13798658>AMEYA TELANG</a>                    |2.0  |L   2|L  18|W  26|W  22|
+   TX | 13798658 / R:  944   -> 951     |     |     |     |     |     |
+      |            Q:  938   -> 941     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-002-14024043>16</a> | <a href=MbrDtlMain.php?14024043>JASH PUJARA</a>                     |2.0  |L  11|W  26|L  10|W  27|
+   TX | 14024043 / R:  326P8 -> 476P12  |     |     |     |     |     |
+      |            Q:  315P8 -> 456P12  |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-002-12779010>17</a> | <a href=MbrDtlMain.php?12779010>HELEN JAMISON</a>                   |1.5  |W  12|H   0|U   0|U   0|
+   TX | 12779010 / R: 1054   ->1083     |     |     |     |     |     |
+      |            Q:  987   ->1023     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-002-13459468>18</a> | <a href=MbrDtlMain.php?13459468>UTKARSH KANIYAR</a>                 |1.5  |L   6|W  15|L   5|D  21|
+   TX | 13459468 / R: 1080   ->1036     |     |     |     |     |     |
+      |            Q: 1070   ->1026     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-002-14706873>19</a> | <a href=MbrDtlMain.php?14706873>SWARAAJ BHATTACHARYA</a>            |1.5  |W  21|L   7|L   6|H   0|
+   TX | 14706873 / R:  926   -> 918     |     |     |     |     |     |
+      |            Q:  918   -> 909     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-002-14583075>20</a> | <a href=MbrDtlMain.php?14583075>THOMAS KUNG</a>                     |1.5  |W   9|L   4|L   8|H   0|
+   TX | 14583075 / R:  835   -> 884     |     |     |     |     |     |
+      |            Q:  842   -> 877     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-002-14883000>21</a> | <a href=MbrDtlMain.php?14883000>SAM SUPAKKUL</a>                    |1.5  |L  19|W  23|L  11|D  18|
+   TX | 14883000 / R: Unrated-> 859P4   |     |     |     |     |     |
+      |            Q: Unrated-> 848P4   |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-002-14241235>22</a> | <a href=MbrDtlMain.php?14241235>RISHIN KESARLA</a>                  |1.0  |D  10|D   8|L  14|L  15|
+   TX | 14241235 / R: 1031   -> 988     |     |     |     |     |     |
+      |            Q: 1030   -> 978     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-002-14718965>23</a> | <a href=MbrDtlMain.php?14718965>CHRISTINE ZHENG</a>                 |1.0  |L   7|L  21|W  25|L   6|
+   TX | 14718965 / R:  905   -> 863     |     |     |     |     |     |
+      |            Q:  894   -> 852     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-002-14680616>24</a> | <a href=MbrDtlMain.php?14680616>ALVIN TANG</a>                      |1.0  |D  13|L   9|L  12|H   0|
+   TX | 14680616 / R:  773   -> 777     |     |     |     |     |     |
+      |            Q:  779   -> 781     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-002-14711591>25</a> | <a href=MbrDtlMain.php?14711591>DARREN XI</a>                       |1.0  |L   4|D  12|L  23|H   0|
+   TX | 14711591 / R:  702   -> 703     |     |     |     |     |     |
+      |            Q:  695   -> 696     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-002-14730920>26</a> | <a href=MbrDtlMain.php?14730920>SHIVA R NAGIREDDY</a>               |0.5  |L   1|L  16|L  15|H   0|
+   TX | 14730920 / R:  842   -> 769     |     |     |     |     |     |
+      |            Q:  735   -> 670     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-002-14667512>27</a> | <a href=MbrDtlMain.php?14667512>JENNIFER SU</a>                     |0.0  |L  14|L   5|L   2|L  16|
+   TX | 14667512 / R:  656   -> 600     |     |     |     |     |     |
+      |            Q:  640   -> 584     |     |     |     |     |     |
+-----------------------------------------------------------------------
+Note:  Performances satisfying the requirements for norms are now being shown for events in the *Total Pts* column.<br>It may take a week for a recently rated event to have norms computed for it.
+</pre>
+</td>
+</tr>
+</table>
+<p>
+<a anchor="Section3"></a>
+<p>
+<table border=1 bgcolor=FFFFFF cellpadding=0 cellspacing=0>
+<tr>
+<td>
+<table border=0 width=800 bgcolor=FFFFFF  cellpadding=3 cellspacing=0>
+<tr>
+<td colspan=3 align=center bgcolor=DDDDFF>
+<b>Section 3 - F3_16LO</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Chf. Asst. TD
+</td>
+<td width=1></td>
+<td>
+<b>ROBERT B JONES</b> &nbsp;<small>(12214650)</small>
+</td>
+</tr>
+
+<tr>
+<td width=120 bgcolor=EEEEEE>
+Section Date(s)
+</td>
+<td width=1></td>
+<td>
+<b>2012-03-16</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Processed
+</td>
+<td width=1></td>
+<td>
+<b>Received: 2012-03-17 &nbsp; Entered: 2012-03-17 &nbsp; Rated: 2012-03-17 Re-Rated: 2014-08-20</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Stats
+</td>
+<td width=1></td>
+<td>
+<b>4 Rounds,&nbsp; 10 Players;  &nbsp;K Factor: F  &nbsp;Rating Sys: D  &nbsp;Tnmt Type: S  <br>Time Control: G/30;d5</b>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan=3>
+<pre>
+-----------------------------------------------------------------------
+<i> * Click on a Pairing Number to see the Player's Opponents.
+ * Click on a Player's Name for more information about the Player.</i>
+<font size=+2>Crosstable data is <b>not</b> shown in tiebreak order and <font color=red ><b><i>does NOT reflect <br>any distribution of trophies or prize monies.</font></font></b></i><a href=http://www.uschess.org/msa/FAQ.php>(See Frequent Questions)</a>
+<i>Crosstable data is shown as reported to the USCF by the Tournament Director.  <br>Please contact the TD to report any crosstable errors.</i>
+Note:  The information below the "Total Pts" score shows the highest norm earned in this event.<br>For more information on norms, see <a href=http://www.glicko.net/ratings/titles.pdf>The USCF Title System</a>.
+-----------------------------------------------------------------------
+ Pair | Player Name                     |Total|Round|Round|Round|Round| 
+ Num  | USCF ID / Rtg (Pre->Post)       | Pts |  1  |  2  |  3  |  4  | 
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201203167052-003-14805093>1</a> | <a href=MbrDtlMain.php?14805093>ANOOP REDDY</a>                     |3.0  |W   9|L   3|W   6|W   5|
+   TX | 14805093 / R:  680   -> 705     |     |     |     |     |     |
+      |            Q:  676   -> 702     |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201203167052-003-14466487>2</a> | <a href=MbrDtlMain.php?14466487>TYLER LUNDY MEAD</a>                |3.0  |W   4|W   7|L   5|W  10|
+   TX | 14466487 / R:  692   -> 697     |     |     |     |     |     |
+      |            Q:  683   -> 689     |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201203167052-003-14148115>3</a> | <a href=MbrDtlMain.php?14148115>SID NAIR</a>                        |3.0  |L   7|W   1|W   8|W   9|
+   TX | 14148115 / R:  562P8 -> 574P12  |     |     |     |     |     |
+      |            Q:  559P8 -> 571P12  |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201203167052-003-14746995>4</a> | <a href=MbrDtlMain.php?14746995>VISHAL SATHISH</a>                  |3.0  |L   2|W   9|W  10|W   7|
+   TX | 14746995 / R:  497   -> 540     |     |     |     |     |     |
+      |            Q:  494   -> 537     |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201203167052-003-14844975>5</a> | <a href=MbrDtlMain.php?14844975>BECKETT GARRY TOOLEY</a>            |2.5  |W   8|D   6|W   2|L   1|
+   TX | 14844975 / R:  704P4 -> 692P8   |     |     |     |     |     |
+      |            Q:  703P4 -> 689P8   |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201203167052-003-14844960>6</a> | <a href=MbrDtlMain.php?14844960>BRIDGET ANNIKA TOOLEY</a>           |2.5  |W  10|D   5|L   1|W   8|
+   TX | 14844960 / R:  682P4 -> 623P8   |     |     |     |     |     |
+      |            Q:  680P4 -> 621P8   |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201203167052-003-14882996>7</a> | <a href=MbrDtlMain.php?14882996>SERENE SUPAKKUL</a>                 |2.0  |W   3|L   2|W   9|L   4|
+   TX | 14882996 / R: Unrated-> 485P4   |     |     |     |     |     |
+      |            Q: Unrated-> 482P4   |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201203167052-003-14473175>8</a> | <a href=MbrDtlMain.php?14473175>MALAJAH FLEEKS</a>                  |1.0  |L   5|W  10|L   3|L   6|
+   TX | 14473175 / R:  201P19-> 213P23  |     |     |     |     |     |
+      |            Q:  198P19-> 210P23  |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201203167052-003-14250458>9</a> | <a href=MbrDtlMain.php?14250458>JAIME WANG</a>                      |0.0  |L   1|L   4|L   7|L   3|
+   TX | 14250458 / R:  150   -> 150     |     |     |     |     |     |
+      |            Q:  150   -> 150     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201203167052-003-14250464>10</a> | <a href=MbrDtlMain.php?14250464>ANNIE WANG</a>                      |0.0  |L   6|L   8|L   4|L   2|
+   TX | 14250464 / R:  194   -> 150     |     |     |     |     |     |
+      |            Q:  191   -> 150     |     |     |     |     |     |
+-----------------------------------------------------------------------
+Note:  Performances satisfying the requirements for norms are now being shown for events in the *Total Pts* column.<br>It may take a week for a recently rated event to have norms computed for it.
+</pre>
+</td>
+</tr>
+</table>
+</table>
+</form>
+&nbsp;
+<p>
+<hr>
+<p>
+<center>
+<p>
+<p>
+<font size=-1>
+Session  / 0
+<br>Version 1.00b / 2003-10-16
+</font>
+<br>
+<font size=-1>
+<i>
+USCF Member Services Area - Copyright 2002-2012 by the <a href="http://www.USChess.org">US Chess Federation</a> -  All Rights Reserved
+<br><a href="http://msa.uschess.org/FAQ.php">Frequently Asked Questions</a>
+<br>Report problems to <a href="mailto:msafeedback@uschess.org">msafeedback@uschess.org</a>
+<br><a href="http://www.USChess.org">Return to USCF Home Page</a>
+</i>
+</font>
+</center>
+<p>
+<hr>
+<p>
+</body>
+</html>

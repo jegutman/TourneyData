@@ -14,7 +14,7 @@ class Section():
 
     def addPlayer(self, player):
         self.results.append(player)
-        self.playerMap[player.getEventId()] = player
+        self.playerMap[int(player.getEventId())] = player
 
 class Tournament():
     def __init__(self, tournamentId):
@@ -73,7 +73,7 @@ def parseTournaments(tournaments):
     results = [parseSingleTournament(t) for t in tournaments.sections]
 
 def parseSingleTournament(tournament):
-    resultMap = { 'W' : 1, 'B' : 1, 'N' : 1, 'D' : 0.5, 'H' : 0.5, 'Z' : 0.5, 'R' : 0.5, 'F' : 0, 'X' : 0, 'L' : 0, 'U' : 0, '?' : 0, 'S' : 0}
+    resultMap = { 'W' : 1, 'B' : 1, 'N' : 1, 'D' : 0.5, 'H' : 0.5, 'Z' : 0.5, 'R' : 0.5, 'F' : 0, 'X' : 0, 'L' : 0, 'U' : 0, '?' : 0, 'S' : 0, 'BYE' : 1}
     crosstable = {}
     for player in tournament.results:
         crosstable[player.getEventId()] = []
@@ -85,6 +85,7 @@ def parseSingleTournament(tournament):
             if re.match('[WDL]\d+', tmp[0]):
                 tmp = [tmp[0][0], tmp[0][1:]]
                 #assert False, tmp
+            if tmp[0] == '*': tmp = ['*****']
             if len(tmp) != 2: 
                 if tmp[0] == '*****':
                     crosstable[player.getEventId()].append(('***', '***', ''))
@@ -112,13 +113,14 @@ def parseSingleTournament(tournament):
                     continue
                 if not re.match('\d+', tmp[1]):
                     tmp[1] = 0
+                if tmp == ['1', 0]: tmp = ['B', 0]
                 result, opponent = tmp
                 try:
                     opponent = int(opponent)
                 except:
                     assert False, (opponent, tournament.tournamentId, result, tmp, re.match('[WDL]\d*', tmp[0]))
                 crosstable[player.getEventId()].append((opponent, result, color))
-                if result not in resultMap: assert False, (tmp[0], player.tournamentId)
+                if result not in resultMap: assert False, (tmp, player.tournamentId)
                 total += resultMap[result]
             #    print player.games
             #    assert False, (tmp, len(tmp), player.getEventId(), player.getId())
@@ -279,6 +281,51 @@ def getEventInfo(tournamentId, force=False, debug=False, delay=2, onlyNew=False)
     parser.feed(f.read())
     #print len(parser.tournaments)
     return parser.tournaments
+        
+def loadTournaments(tournaments, password):
+    print tournaments.tournamentId
+    results = [loadSingleTournament(t, password) for t in tournaments.sections]
+
+def loadSingleTournament(section, password):
+    import MySQLdb
+    sqlconnect = MySQLdb.connect(host='localhost', user='loader', passwd = password)
+    cursor = sqlconnect.cursor()
+    tournamentid = section.tournamentId
+    sectionid    = section.sectionId
+    sql = """INSERT INTO uscfdata.TournamentResults values
+             (%(tournamentid)s, %(roundnum)s, %(sectionid)s, %(playerId)s, %(uscfid)s, '%(color)s', '%(result)s', %(oppUscfId)s, '%(preRating)s', '%(oppPreRating)s')
+          """
+    for playerId in sorted(section.playerMap.keys(), key=lambda x:int(x)):
+        player = section.playerMap[playerId]
+        uscfid = player.getId()
+        if 'R' not in player.ratings:
+            continue
+        preRating = "".join(player.ratings['R'][0:2]).strip()
+        for roundindex in range(0,len(player.games)):
+            roundnum = roundindex +1
+            pairing, color = player.games[roundindex]
+            if not color: color = 'U'
+            tmp = re.split('  *', pairing.strip())
+            if re.match('[WDL]\d+', tmp[0]):
+                tmp = [tmp[0][0], tmp[0][1:]]
+                #assert False, tmp
+            if tmp[0] not in ('W', 'D', 'L') or len(tmp) != 2:
+                continue
+            result, opponent = tmp
+            try:
+                oppPlayer = section.playerMap[int(opponent)]
+            except:
+                if tournamentid != '201411302392':
+                    print "MISSING:", (int(opponent), playerId, tournamentid)
+                continue
+            oppUscfId = oppPlayer.getId()
+            oppPreRating = "".join(oppPlayer.ratings['R'][0:2]).strip()
+            #print sql % locals()
+            try:
+                cursor.execute(sql % locals())
+                sqlconnect.commit()
+            except:
+                continue
         
 
 #getEventInfo('201409018812', debug=True)

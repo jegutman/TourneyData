@@ -1,0 +1,625 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+<title>USCF MSA - Cross Table for WINTER2011 (Event 201102165101)</title>
+<style type='text/css'>
+body {margin-left: 10; margin-right: 10; margin-top: 0; margin-bottom: 0;  background-color: #40B7D3; min-width: 800px;}
+td {font: helvetica; color: black; font-size: 100%;}
+input {font: helvetica; font-size: 100%; color: black; font-weight: bold; padding-left: 4;}
+input.submit_debug {font: helvetica; font-size: 10pt; color: red; font-weight: normal; background-color: #BFBFBF;}
+input.submit {font: helvetica; font-size: 10pt; color: black; font-weight: normal; background-color: #BFBFBF;}
+input.submit_dis {font: helvetica; font-size: 10pt; color: grey; background-color: #BFBFBF;}
+select {font: helvetica; font-size: 10pt;  color: brown}
+a.topbar-line1 {font: helvetica; font-size: 100%; color: white; text-decoration: none; padding-left: 10;}
+a.topbar-line2 {font: helvetica; font-size: 100%; color: #0373A4; text-decoration: underline; padding-left: 10;}
+/* a {font: helvetica; font-size: 100%; color: black; text-decoration: none; padding-left: 10;} */
+
+/*  table {border: 2px solid red; margin: 0px;}
+td{border: 1px dotted purple; padding: 2px; } */
+
+table.topbar {border-style: none; border-width: 0; border: 0; margin: 0; padding: 0; cell-padding: 0; background-color: #40B7D3;}
+tr.topbar {padding: 5;  margin-top: 5; margin-bottom: 5; background-color: #40B7D3; }
+td.topbar {padding: 3; color: white; font: helvetica; font-size: 100%; font-weight: bold;}
+td.topbar-side {padding: 0; color: black; font: helvetica; font-size: 100%; background-color: #FFFFFF;}
+td.topbar-middle {padding: 0; color: black; font: helvetica; font-size: 100%; background-color: #FFFFFF;}
+td.topbar-line2 {padding: 0; padding: 3; font: helvetica; font-size: 100%; color: #0373A4; background-color: #C7EAFB;}
+td.topbar-line2-right {text-align: right; padding: 0; padding: 3; font: helvetica; font-size: 100%; color: #0373A4; background-color: #C7EAFB;}
+td.topbar-right {text-align: right; padding: 0; color: blue; font: helvetica; font-size: 100%;  background-color: #40B7D3;}
+span.right {text-align: right; background-color: #E0FFFF}
+</style></head>
+<body >
+<table width=100% class=topbar cellspacing=0><tr class=topbar></td><td class=topbar width=100% ><table cellspacing=0 class=topbar width=100%><tr class=topbar><td class=topbar >US Chess Federation - Member Services Area</td><td class=topbar-right >
+<a class=topbar-line1 href=http://main.uschess.org/content/blogcategory/30/319>Press</a>
+<a class=topbar-line1 href=http://main.uschess.org/content/view/7850/385>Advertising</a>
+<a class=topbar-line1 href=http://main.uschess.org/content/blogsection/12/35>About the USCF</a>
+<a class=topbar-line1 href=http://main.uschess.org/component/option,com_wrapper/Itemid,327>Contact Us</a></td></tr>
+</table></td></tr>
+
+<tr class=topbar>
+<td class=topbar-line2>
+<a class=topbar-line2 href=http://www.uschess.org>Return to USCF Home Page</a>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp;&nbsp;&nbsp;&nbsp;
+<a class=topbar-line2 href=Index.php>MSA Home</a>
+<a class=topbar-line2 href=http://www.uschess.org/datapage/player-search.php>Members</a>
+<a class=topbar-line2 href=AffLst.php>Affiliates</a>
+<a class=topbar-line2 href=http://www.uschess.org/datapage/event-search.php>Tournaments</a>
+<a class=topbar-line2 href=HelpTxt.php>Help</a>
+</td></tr>
+<tr class=topbar><td class=topbar-middle>
+<center>
+<table border=0 valign=top>
+
+<form method=post action=AffDtlMain.php>
+
+&nbsp;
+<p>
+<table border=1 bgcolor=FFFFFF cellpadding=0 cellspacing=0>
+<tr>
+<td>
+<table border=0 bgcolor=FFFFFF width=800 cellpadding=3 cellspacing=0>
+
+<tr>
+<td colspan=3 bgcolor=DDDDDD align=center>
+<b>Event Summary</b>
+</td>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Event
+</td>
+<td width=1 rowspan=10></td>
+<td>
+<b>WINTER2011</b> &nbsp;<small>(201102165101)</small>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE>
+Location
+</td>
+<td>
+<b>BROOKLYN, NY &nbsp;11206 &nbsp;USA</b>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE>
+Event Date(s)
+</td>
+<td>
+<b>2011-01-01 thru 2011-02-16 </b>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE>
+Sponsoring Affiliate
+</td>
+<td>
+<b><a href=http://msa.uschess.org/AffDtlMain.php?H6010270>IS 318 CHESS CLUB</a></b> &nbsp;<small>(H6010270)</small>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE>
+Chief&nbsp; TD
+</td>
+<td>
+<b>JOHN R GALVIN</b> &nbsp;<small>(12849342)</small>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE>
+Processed
+</td>
+<td>
+<b>Received: 2011-02-18 &nbsp; Entered: 2011-02-18 &nbsp; Rated: 2011-02-18</b>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE valign=top>
+Stats
+</td>
+<td>
+<b>1 Section(s),&nbsp; 86 Players</b>
+<br><font color=blue>The ratings shown on this page are not official published ratings and may change from time to time.  Using them for pairing purposes in tournaments should only be done if this has been advertised in all advance publicity and is announced to all players at the tournament.</font>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+
+</table>
+<p>
+<a anchor="Section1"></a>
+<p>
+<table border=1 bgcolor=FFFFFF cellpadding=0 cellspacing=0>
+<tr>
+<td>
+<table border=0  bgcolor=FFFFFF  cellpadding=3 cellspacing=0>
+<tr>
+<td colspan=3 align=center bgcolor=DDDDFF>
+<b>Section 1 - SECTION1</b>
+</td>
+</tr>
+
+<tr>
+<td width=120 bgcolor=EEEEEE>
+Section Date(s)
+</td>
+<td width=1></td>
+<td>
+<b>2011-01-01 thru 2011-02-16</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Processed
+</td>
+<td width=1></td>
+<td>
+<b>Received: 2011-02-18 &nbsp; Entered: 2011-02-18 &nbsp; Rated: 2011-02-18 Re-Rated: 2014-12-15</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Stats
+</td>
+<td width=1></td>
+<td>
+<b>12 Rounds,&nbsp; 99 Players;  &nbsp;K Factor: F  &nbsp;Rating Sys: D  &nbsp;Tnmt Type: S  <br>Time Control: G/30</b>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan=3>
+<pre>
+-----------------------------------------------------------------------------------------------------------------------
+<i> * Click on a Pairing Number to see the Player's Opponents.
+ * Click on a Player's Name for more information about the Player.</i>
+<font size=+2>Crosstable data is <b>not</b> shown in tiebreak order and <font color=red ><b><i>does NOT reflect <br>any distribution of trophies or prize monies.</font></font></b></i><a href=http://www.uschess.org/msa/FAQ.php>(See Frequent Questions)</a>
+<i>Crosstable data is shown as reported to the USCF by the Tournament Director.  <br>Please contact the TD to report any crosstable errors.</i>
+Note:  The information below the "Total Pts" score shows the highest norm earned in this event.<br>For more information on norms, see <a href=http://www.glicko.net/ratings/titles.pdf>The USCF Title System</a>.
+-----------------------------------------------------------------------------------------------------------------------
+ Pair | Player Name                     |Total|Round|Round|Round|Round|Round|Round|Round|Round|Round|Round|Round|Round| 
+ Num  | USCF ID / Rtg (Pre->Post)       | Pts |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  | 10  | 11  | 12  | 
+-----------------------------------------------------------------------------------------------------------------------
+    <a href=XtblPlr.php?201102165101-001-14284232>1</a> | <a href=MbrDtlMain.php?14284232>JORGE QUIROZ</a>                    |6.5  |U   0|W  17|W  68|L  28|W  14|U   0|D   2|U   0|L   4|W  11|W  28|W  15|
+   NY | 14284232 / R: 1428   ->1462     |N:4  |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q: 1378   ->1415     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+    <a href=XtblPlr.php?201102165101-001-14463225>2</a> | <a href=MbrDtlMain.php?14463225>KEVIN MARIN</a>                     |6.0  |W   5|U   0|U   0|U   0|W  44|U   0|D   1|W   3|L  10|D   3|W  14|W   5|
+   NY | 14463225 / R: 1319   ->1457     |N:4  |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q: 1267   ->1417     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+    <a href=XtblPlr.php?201102165101-001-14491570>3</a> | <a href=MbrDtlMain.php?14491570>TOMMY ZHANG</a>                     |5.5  |W  14|U   0|U   0|W  29|L  20|L  34|W   5|L   2|U   0|D   2|W  44|W  48|
+   NY | 14491570 / R: 1047   ->1217     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q: 1017   ->1186     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+    <a href=XtblPlr.php?201102165101-001-13860005>4</a> | <a href=MbrDtlMain.php?13860005>D'ANDREA DEY</a>                    |5.0  |U   0|W  24|W   9|W  11|U   0|W  16|U   0|U   0|W   1|U   0|L  25|F   0|
+   NY | 13860005 / R: 1790   ->1796     |N:3  |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q: 1728   ->1734     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+    <a href=XtblPlr.php?201102165101-001-14176632>5</a> | <a href=MbrDtlMain.php?14176632>CARLOS TAPIA</a>                    |5.0  |L   2|W  42|W  78|W  27|U   0|L  17|L   3|L   9|W  73|L   9|W  12|L   2|
+   NY | 14176632 / R: 1404   ->1367     |N:4  |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q: 1351   ->1313     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+    <a href=XtblPlr.php?201102165101-001-14125092>6</a> | <a href=MbrDtlMain.php?14125092>RAPHAEL CLIFTON</a>                 |5.0  |U   0|U   0|L  26|U   0|W  56|W  13|W  14|W  42|L   8|W  42|F   0|L  36|
+   NY | 14125092 / R: 1111   ->1235     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q: 1083   ->1201     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+    <a href=XtblPlr.php?201102165101-001-14521627>7</a> | <a href=MbrDtlMain.php?14521627>ARIEL PEGUERO</a>                   |4.5  |L  15|W  22|L  15|U   0|U   0|D  56|W  22|U   0|U   0|W  90|W  87|L  53|
+   NY | 14521627 / R:  884   -> 836     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q:  856   -> 807     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+    <a href=XtblPlr.php?201102165101-001-12937601>8</a> | <a href=MbrDtlMain.php?12937601>MAYA MCGREEN</a>                    |4.0  |U   0|W  28|U   0|W  74|U   0|U   0|W  47|U   0|W   6|U   0|F   0|L  23|
+   NY | 12937601 / R: 1520   ->1535     |N:4  |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q: 1428   ->1452     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+    <a href=XtblPlr.php?201102165101-001-13578801>9</a> | <a href=MbrDtlMain.php?13578801>MARKUS POND</a>                     |4.0  |U   0|U   0|L   4|D  24|U   0|W  27|L  24|W   5|D  24|W   5|F   0|L  16|
+   NY | 13578801 / R: 1500   ->1519     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q: 1419   ->1444     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-13597870>10</a> | <a href=MbrDtlMain.php?13597870>MATTHEW N KLUSKA</a>                |4.0  |U   0|U   0|U   0|U   0|U   0|L  26|U   0|W  41|W   2|W  70|F   0|W  74|
+   NY | 13597870 / R: 1390   ->1469     |N:3  |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q: 1333   ->1422     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-13250243>11</a> | <a href=MbrDtlMain.php?13250243>SEKOU PROWELL</a>                   |4.0  |W  27|U   0|W  74|L   4|U   0|W  18|U   0|U   0|U   0|L   1|F   0|W  45|
+   NY | 13250243 / R: 1398   ->1443     |N:4  |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q: 1340   ->1390     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-14491564>12</a> | <a href=MbrDtlMain.php?14491564>MOSHE LOPEZ</a>                     |4.0  |W  88|L  15|L  22|L  14|W  22|U   0|W  13|U   0|W  29|U   0|L   5|L  20|
+   NY | 14491564 / R: 1180   ->1090     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q: 1153   ->1060     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-14096560>13</a> | <a href=MbrDtlMain.php?14096560>EDELI CUATE</a>                     |4.0  |W  45|W  45|U   0|U   0|U   0|L   6|L  12|U   0|W  88|U   0|W  53|F   0|
+   NY | 14096560 / R:  950   ->1017     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q:  916   -> 982     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-14531817>14</a> | <a href=MbrDtlMain.php?14531817>JACK WEN</a>                        |4.0  |L   3|L  38|W  48|W  12|L   1|W  15|L   6|U   0|U   0|U   0|L   2|W  87|
+   NY | 14531817 / R:  873   ->1006     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q:  835   -> 972     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-14554167>15</a> | <a href=MbrDtlMain.php?14554167>HUMZ ALBORATI</a>                   |4.0  |W   7|W  12|W   7|U   0|U   0|L  14|U   0|U   0|W  53|U   0|F   0|L   1|
+   NY | 14554167 / R:  872   -> 976     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q:  845   -> 947     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-14044774>16</a> | <a href=MbrDtlMain.php?14044774>ALEXANDER BRADFORD</a>              |3.0  |U   0|L  30|W  61|W  17|U   0|L   4|U   0|U   0|L  33|U   0|F   0|W   9|
+   NY | 14044774 / R: 1654   ->1677     |N:3  |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q: 1581   ->1608     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-12939578>17</a> | <a href=MbrDtlMain.php?12939578>MARIAH MCGREEN</a>                  |3.0  |U   0|L   1|W  27|L  16|U   0|W   5|U   0|U   0|U   0|U   0|F   0|W  18|
+   NY | 12939578 / R: 1486   ->1495     |N:4  |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q: 1406   ->1421     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-14284211>18</a> | <a href=MbrDtlMain.php?14284211>AVERY JONAS</a>                     |3.0  |U   0|U   0|U   0|W  68|U   0|L  11|U   0|W  27|U   0|W  27|F   0|L  17|
+   NY | 14284211 / R: 1457   ->1468     |N:4  |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q: 1415   ->1423     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-14096512>19</a> | <a href=MbrDtlMain.php?14096512>SHANNIAH WRIGHT</a>                 |3.0  |U   0|U   0|U   0|W  44|U   0|W  28|U   0|U   0|W  27|U   0|F   0|F   0|
+   NY | 14096512 / R: 1157   ->1291     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q: 1118   ->1254     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-14515802>20</a> | <a href=MbrDtlMain.php?14515802>SPIKE SMITH</a>                     |3.0  |U   0|U   0|U   0|U   0|W   3|W  49|U   0|U   0|U   0|U   0|L  22|W  12|
+   NY | 14515802 / R: 1104   ->1099     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q: 1073   ->1068     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-14416620>21</a> | <a href=MbrDtlMain.php?14416620>EFRAIN NEGRON</a>                   |3.0  |U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|W  51|W  32|W  54|
+   NY | 14416620 / R:  954P11->1001P14  |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q:  937P11-> 980P14  |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-14170098>22</a> | <a href=MbrDtlMain.php?14170098>HABY DIALLO</a>                     |3.0  |U   0|L   7|W  12|U   0|L  12|U   0|L   7|U   0|W  90|U   0|W  20|F   0|
+   NY | 14170098 / R:  490   -> 703     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q:  467   -> 678     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-13137307>23</a> | <a href=MbrDtlMain.php?13137307>ISAAC BARAYEV</a>                   |2.5  |U   0|U   0|D  30|U   0|U   0|U   0|U   0|U   0|W  60|U   0|L  35|W   8|
+   NY | 13137307 / R: 2044   ->2035     |N:2  |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q: 1926   ->1918     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-13295671>24</a> | <a href=MbrDtlMain.php?13295671>JERMAINE COOPER</a>                 |2.0  |U   0|L   4|U   0|D   9|U   0|U   0|W   9|U   0|D   9|U   0|F   0|F   0|
+   NY | 13295671 / R: 1697   ->1682     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q: 1630   ->1613     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-14176605>25</a> | <a href=MbrDtlMain.php?14176605>BRIAN ARTHUR JR</a>                 |2.0  |W  43|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|W   4|F   0|
+   NY | 14176605 / R: 1422   ->1467     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q: 1362   ->1410     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-14463225>26</a> | <a href=MbrDtlMain.php?14463225>KEVIN MARIN</a>                     |2.0  |U   0|U   0|W   6|U   0|U   0|W  10|U   0|U   0|U   0|U   0|F   0|F   0|
+   NY | 14463225 / R: 1319   ->1457     |N:4  |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q: 1267   ->1417     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-13679473>27</a> | <a href=MbrDtlMain.php?13679473>ANTHONY S ASSEVIRO JR</a>           |2.0  |L  11|W  43|L  17|L   5|U   0|L   9|U   0|L  18|L  19|L  18|F   0|W  68|
+   NY | 13679473 / R: 1345   ->1295     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q: 1294   ->1242     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-13895594>28</a> | <a href=MbrDtlMain.php?13895594>TERAAB FEASTER</a>                  |2.0  |W  48|L   8|L  39|W   1|L  43|L  19|U   0|U   0|L  49|U   0|L   1|F   0|
+   NY | 13895594 / R: 1136   ->1114     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q: 1090   ->1068     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-14363171>29</a> | <a href=MbrDtlMain.php?14363171>DAVID DING</a>                      |2.0  |U   0|U   0|U   0|L   3|U   0|W  44|U   0|U   0|L  12|U   0|F   0|W  49|
+   NY | 14363171 / R:  926   ->1000     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q:  887   -> 966     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-13696544>30</a> | <a href=MbrDtlMain.php?13696544>JAMES A BLACK JR</a>                |1.5  |U   0|W  16|D  23|U   0|U   0|U   0|U   0|U   0|U   0|U   0|F   0|F   0|
+   NY | 13696544 / R: 2125   ->2124     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q: 2036   ->2034     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-14089411>31</a> | <a href=MbrDtlMain.php?14089411>STEFEK YURGEL</a>                   |1.5  |U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|L  52|D  55|W  94|F   0|
+   NY | 14089411 / R: 1073   ->1006     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q: 1045   -> 977     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-14416635>32</a> | <a href=MbrDtlMain.php?14416635>GABRIEL ROSES</a>                   |1.5  |U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|D  54|L  21|W  51|
+   NY | 14416635 / R:  420P11-> 556P14  |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q:  408P11-> 540P14  |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-13534356>33</a> | <a href=MbrDtlMain.php?13534356>JUSTUS D WILLIAMS</a>               |1.0  |U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|W  16|U   0|F   0|F   0|
+   NY | 13534356 / R: 2211   ->2212     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q: 2075   ->2077     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-13825231>34</a> | <a href=MbrDtlMain.php?13825231>RANDY RIVERA</a>                    |1.0  |U   0|U   0|U   0|U   0|U   0|W   3|U   0|U   0|U   0|U   0|F   0|F   0|
+   NY | 13825231 / R: 1781   ->1782     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q: 1728   ->1730     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-13256270>35</a> | <a href=MbrDtlMain.php?13256270>RASHAWN J WILLIAMS</a>              |1.0  |U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|W  23|F   0|
+   NY | 13256270 / R: 1757   ->1780     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q: 1685   ->1709     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-13563127>36</a> | <a href=MbrDtlMain.php?13563127>VAUGHN JONATIN SOSO</a>             |1.0  |U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|F   0|W   6|
+   NY | 13563127 / R: 1464   ->1472     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q: 1419   ->1428     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-14284211>37</a> | <a href=MbrDtlMain.php?14284211>AVERY JONAS</a>                     |1.0  |U   0|U   0|W  71|U   0|U   0|U   0|U   0|U   0|U   0|U   0|F   0|F   0|
+   NY | 14284211 / R: 1457   ->1468     |N:4  |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q: 1415   ->1423     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-13332773>38</a> | <a href=MbrDtlMain.php?13332773>ANITA MAKSIMIUK</a>                 |1.0  |U   0|W  14|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|F   0|F   0|
+   NY | 13332773 / R: 1393   ->1403     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q: 1344   ->1355     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-13332773>39</a> | <a href=MbrDtlMain.php?13332773>ANITA MAKSIMIUK</a>                 |1.0  |U   0|U   0|W  28|U   0|U   0|U   0|U   0|U   0|U   0|U   0|F   0|F   0|
+   NY | 13332773 / R: 1393   ->1403     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q: 1344   ->1355     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-12858547>40</a> | <a href=MbrDtlMain.php?12858547>MARTA SZULC</a>                     |1.0  |U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|F   0|W  83|
+   NY | 12858547 / R: 1342   ->1345     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q: 1224   ->1228     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-13859962>41</a> | <a href=MbrDtlMain.php?13859962>OTTO GALLAGHER SCHATZ</a>           |1.0  |U   0|U   0|L  42|U   0|U   0|W  73|U   0|L  10|U   0|U   0|F   0|F   0|
+   NY | 13859962 / R: 1377   ->1341     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q: 1340   ->1300     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-14363186>42</a> | <a href=MbrDtlMain.php?14363186>YUXIN ZHUO</a>                      |1.0  |U   0|L   5|W  41|U   0|U   0|U   0|U   0|L   6|U   0|L   6|F   0|F   0|
+   NY | 14363186 / R: 1372   ->1318     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q: 1323   ->1268     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-13526644>43</a> | <a href=MbrDtlMain.php?13526644>NICHOLAS AMATULLI</a>               |1.0  |L  25|L  27|U   0|U   0|W  28|U   0|U   0|U   0|U   0|U   0|F   0|F   0|
+   NY | 13526644 / R: 1256   ->1239     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q: 1215   ->1196     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-14044732>44</a> | <a href=MbrDtlMain.php?14044732>EARL F CHASE JR</a>                 |1.0  |U   0|U   0|U   0|L  19|L   2|L  29|U   0|U   0|W  87|U   0|L   3|F   0|
+   NY | 14044732 / R: 1244   ->1167     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q: 1211   ->1132     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-14521544>45</a> | <a href=MbrDtlMain.php?14521544>JAMYE MOYA</a>                      |1.0  |L  13|L  13|W  79|U   0|U   0|U   0|U   0|U   0|U   0|U   0|F   0|L  11|
+   NY | 14521544 / R: 1075   ->1042     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q: 1033   ->1001     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-13563148>46</a> | <a href=MbrDtlMain.php?13563148>ASHE COLLIER</a>                    |1.0  |U   0|U   0|U   0|U   0|L  48|U   0|W  87|U   0|U   0|U   0|F   0|F   0|
+   NY | 13563148 / R: 1046   ->1020     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q: 1018   -> 990     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-14178246>47</a> | <a href=MbrDtlMain.php?14178246>XONATIA LEE</a>                     |1.0  |U   0|U   0|U   0|U   0|U   0|U   0|L   8|U   0|U   0|U   0|W  88|F   0|
+   NY | 14178246 / R: 1013   ->1017     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q:  963   -> 967     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-13861810>48</a> | <a href=MbrDtlMain.php?13861810>ZION MCKENZIE</a>                   |1.0  |L  28|U   0|L  14|U   0|W  46|U   0|U   0|U   0|U   0|U   0|F   0|L   3|
+   NY | 13861810 / R: 1027   -> 993     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q:  993   -> 958     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-13959672>49</a> | <a href=MbrDtlMain.php?13959672>JUSTIN BANNISTER</a>                |1.0  |U   0|U   0|U   0|U   0|U   0|L  20|U   0|U   0|W  28|U   0|F   0|L  29|
+   NY | 13959672 / R:  966   -> 962     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q:  936   -> 930     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-14139368>50</a> | <a href=MbrDtlMain.php?14139368>BARBARA KRAWCZUK</a>                |1.0  |U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|W  84|U   0|F   0|F   0|
+   NY | 14139368 / R:  578   -> 635     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q:  577   -> 633     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-14609566>51</a> | <a href=MbrDtlMain.php?14609566>JACKIE ZHANG</a>                    |1.0  |U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|L  21|W  54|L  32|
+   NY | 14609566 / R:  524P4 -> 579P7   |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q:  497P4 -> 551P7   |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-14405897>52</a> | <a href=MbrDtlMain.php?14405897>DANIEL MASTARELZ</a>                |1.0  |U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|W  31|U   0|F   0|F   0|
+   NY | 14405897 / R:  459   -> 537     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q:  400   -> 480     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-14491591>53</a> | <a href=MbrDtlMain.php?14491591>MATTHEW VEGA</a>                    |1.0  |U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|L  15|U   0|L  13|W   7|
+   NY | 14491591 / R:  345P9 -> 459P12  |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q:  279P9 -> 399P12  |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-14416608>54</a> | <a href=MbrDtlMain.php?14416608>MAZHAR SIDDIQUE</a>                 |0.5  |U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|D  32|L  51|L  21|
+   NY | 14416608 / R:  921   -> 834     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q:  876   -> 788     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-14109855>55</a> | <a href=MbrDtlMain.php?14109855>KRYSTIAN PSUJEK</a>                 |0.5  |U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|D  31|F   0|F   0|
+   NY | 14109855 / R:  533   -> 567     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q:  524   -> 558     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-14554194>56</a> | <a href=MbrDtlMain.php?14554194>SEBASTIAN P WISNIEWSKI</a>          |0.5  |U   0|U   0|U   0|U   0|L   6|D   7|U   0|U   0|U   0|U   0|F   0|F   0|
+   NY | 14554194 / R:  436P21-> 465P23  |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q:  415P21-> 444P23  |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-14045756>57</a> | <a href=MbrDtlMain.php?14045756>DANNY FENG</a>                      |0.0  |U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|F   0|F   0|
+   NY | 14045756 / R: 1975   ->1975     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q: 1885   ->1885     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-13416702>58</a> | <a href=MbrDtlMain.php?13416702>SHAWN SWINDELL</a>                  |0.0  |U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|F   0|F   0|
+   NY | 13416702 / R: 1946   ->1946     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q: 1876   ->1876     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-14068022>59</a> | <a href=MbrDtlMain.php?14068022>DAVID KIM</a>                       |0.0  |U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|F   0|F   0|
+   NY | 14068022 / R: 1787   ->1787     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q: 1714   ->1714     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-13886103>60</a> | <a href=MbrDtlMain.php?13886103>KENNETH MARTIN</a>                  |0.0  |U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|L  23|U   0|F   0|F   0|
+   NY | 13886103 / R: 1738   ->1733     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q: 1681   ->1674     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-13088532>61</a> | <a href=MbrDtlMain.php?13088532>JOHN PAUL GARCIA</a>                |0.0  |U   0|U   0|L  16|U   0|U   0|U   0|U   0|U   0|U   0|U   0|F   0|F   0|
+   NY | 13088532 / R: 1685   ->1669     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q: 1631   ->1614     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-14045798>62</a> | <a href=MbrDtlMain.php?14045798>ALEEM AWAN</a>                      |0.0  |U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|F   0|F   0|
+   NY | 14045798 / R: 1654   ->1654     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q: 1587   ->1587     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-14045798>63</a> | <a href=MbrDtlMain.php?14045798>ALEEM AWAN</a>                      |0.0  |U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|F   0|F   0|
+   NY | 14045798 / R: 1654   ->1654     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q: 1587   ->1587     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-13997960>64</a> | <a href=MbrDtlMain.php?13997960>SEBASTIAN DABROWSKI</a>             |0.0  |U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|F   0|F   0|
+   NY | 13997960 / R: 1609   ->1609     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q: 1552   ->1552     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-13088547>65</a> | <a href=MbrDtlMain.php?13088547>JAKOB KOBAJLO</a>                   |0.0  |U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|F   0|F   0|
+   NY | 13088547 / R: 1602   ->1602     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q: 1540   ->1540     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-14117127>66</a> | <a href=MbrDtlMain.php?14117127>LUKAS FRON</a>                      |0.0  |U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|F   0|F   0|
+   NY | 14117127 / R: 1569   ->1569     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q: 1512   ->1512     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-13250243>67</a> | <a href=MbrDtlMain.php?13250243>SEKOU PROWELL</a>                   |0.0  |U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|F   0|F   0|
+   NY | 13250243 / R: 1398   ->1443     |N:4  |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q: 1340   ->1390     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-13598172>68</a> | <a href=MbrDtlMain.php?13598172>RHODA LYNCH</a>                     |0.0  |U   0|U   0|L   1|L  18|U   0|U   0|U   0|U   0|U   0|U   0|F   0|L  27|
+   NY | 13598172 / R: 1466   ->1404     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q: 1428   ->1362     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-14176632>69</a> | <a href=MbrDtlMain.php?14176632>CARLOS TAPIA</a>                    |0.0  |U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|F   0|F   0|
+   NY | 14176632 / R: 1404   ->1367     |N:4  |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q: 1351   ->1313     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-13859962>70</a> | <a href=MbrDtlMain.php?13859962>OTTO GALLAGHER SCHATZ</a>           |0.0  |U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|L  10|F   0|F   0|
+   NY | 13859962 / R: 1377   ->1341     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q: 1340   ->1300     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-13769688>71</a> | <a href=MbrDtlMain.php?13769688>KEITH LEARY</a>                     |0.0  |U   0|U   0|L  37|U   0|U   0|U   0|U   0|U   0|U   0|U   0|F   0|F   0|
+   NY | 13769688 / R: 1335   ->1321     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q: 1281   ->1267     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-14208981>72</a> | <a href=MbrDtlMain.php?14208981>WARREN ZHANG</a>                    |0.0  |U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|F   0|F   0|
+   NY | 14208981 / R: 1296   ->1296     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q: 1243   ->1243     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-13281288>73</a> | <a href=MbrDtlMain.php?13281288>KAMIL CHMIELEWSKI</a>               |0.0  |U   0|U   0|U   0|U   0|U   0|L  41|U   0|U   0|L   5|U   0|F   0|F   0|
+   NY | 13281288 / R: 1365   ->1292     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q: 1310   ->1234     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-13281288>74</a> | <a href=MbrDtlMain.php?13281288>KAMIL CHMIELEWSKI</a>               |0.0  |U   0|U   0|L  11|L   8|U   0|U   0|U   0|U   0|U   0|U   0|F   0|L  10|
+   NY | 13281288 / R: 1365   ->1292     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q: 1310   ->1234     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-12851326>75</a> | <a href=MbrDtlMain.php?12851326>LAURIS A MURNIEKS</a>               |0.0  |U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|F   0|
+   NY | 12851326 / R: 1160   ->1160     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q: 1078   ->1078     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-13769872>76</a> | <a href=MbrDtlMain.php?13769872>LEQUASIAH LAWRENCE</a>              |0.0  |U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|F   0|F   0|
+   NY | 13769872 / R: 1154   ->1154     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q: 1099   ->1099     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-13825246>77</a> | <a href=MbrDtlMain.php?13825246>BRIAN FLORES</a>                    |0.0  |U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|F   0|F   0|
+   NY | 13825246 / R: 1154   ->1154     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q: 1112   ->1112     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-13281225>78</a> | <a href=MbrDtlMain.php?13281225>HENRY CALI</a>                      |0.0  |U   0|U   0|L   5|U   0|U   0|U   0|U   0|U   0|U   0|U   0|F   0|F   0|
+   NY | 13281225 / R: 1163   ->1150     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q: 1135   ->1120     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-14515802>79</a> | <a href=MbrDtlMain.php?14515802>SPIKE SMITH</a>                     |0.0  |U   0|U   0|L  45|U   0|U   0|U   0|U   0|U   0|U   0|U   0|F   0|F   0|
+   NY | 14515802 / R: 1104   ->1099     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q: 1073   ->1068     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-13886062>80</a> | <a href=MbrDtlMain.php?13886062>CEDRIC BROWN</a>                    |0.0  |U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|F   0|F   0|
+   NY | 13886062 / R: 1069   ->1069     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q: 1044   ->1044     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-14096560>81</a> | <a href=MbrDtlMain.php?14096560>EDELI CUATE</a>                     |0.0  |U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|F   0|F   0|
+   NY | 14096560 / R:  950   ->1017     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q:  916   -> 982     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-14363171>82</a> | <a href=MbrDtlMain.php?14363171>DAVID DING</a>                      |0.0  |U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|F   0|F   0|
+   NY | 14363171 / R:  926   ->1000     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q:  887   -> 966     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-14416608>83</a> | <a href=MbrDtlMain.php?14416608>MAZHAR SIDDIQUE</a>                 |0.0  |U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|F   0|L  40|
+   NY | 14416608 / R:  921   -> 834     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q:  876   -> 788     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-14572651>84</a> | <a href=MbrDtlMain.php?14572651>KRISTIAN PAYNE</a>                  |0.0  |U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|L  50|U   0|F   0|F   0|
+   NY | 14572651 / R:  816P24-> 767P25  |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q:  805P24-> 756P25  |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-14581104>85</a> | <a href=MbrDtlMain.php?14581104>DAVID YUEN</a>                      |0.0  |U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|F   0|F   0|
+   NY | 14581104 / R:  668P4 -> 668P4   |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q:  642P4 -> 642P4   |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-14060795>86</a> | <a href=MbrDtlMain.php?14060795>PATRICK JOHNSTON</a>                |0.0  |U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|F   0|F   0|
+   NJ | 14060795 / R:  705   -> 664     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q:  677   -> 635     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-14060795>87</a> | <a href=MbrDtlMain.php?14060795>PATRICK JOHNSTON</a>                |0.0  |U   0|U   0|U   0|U   0|U   0|U   0|L  46|U   0|L  44|U   0|L   7|L  14|
+   NJ | 14060795 / R:  705   -> 664     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q:  677   -> 635     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-13978603>88</a> | <a href=MbrDtlMain.php?13978603>SEBASTIAN GARCIA</a>                |0.0  |L  12|U   0|U   0|U   0|U   0|U   0|U   0|U   0|L  13|U   0|L  47|F   0|
+   NY | 13978603 / R:  658   -> 639     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q:  625   -> 605     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-14603572>89</a> | <a href=MbrDtlMain.php?14603572>MUBASSAR UDDIN</a>                  |0.0  |U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|F   0|F   0|
+   NY | 14603572 / R:  517P8 -> 517P8   |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q:  482P8 -> 482P8   |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-14170062>90</a> | <a href=MbrDtlMain.php?14170062>ZANEA SEYMOUR</a>                   |0.0  |U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|L  22|L   7|F   0|F   0|
+   NY | 14170062 / R:  548   -> 516     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q:  512   -> 481     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-14596767>91</a> | <a href=MbrDtlMain.php?14596767>SHIHAB ISLAM</a>                    |0.0  |U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|F   0|F   0|
+   NY | 14596767 / R:  515P12-> 515P12  |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q:  484P12-> 484P12  |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-14284205>92</a> | <a href=MbrDtlMain.php?14284205>JASVIR RAI</a>                      |0.0  |U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|F   0|F   0|
+   NY | 14284205 / R:  467P25-> 467P25  |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q:  441P25-> 441P25  |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-14531912>93</a> | <a href=MbrDtlMain.php?14531912>PRASANT DAS</a>                     |0.0  |U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|F   0|F   0|
+   NY | 14531912 / R:  466P3 -> 466P3   |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q:  444P3 -> 444P3   |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-14572672>94</a> | <a href=MbrDtlMain.php?14572672>EGE OZBEK</a>                       |0.0  |U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|L  31|F   0|
+   NY | 14572672 / R:  460P23-> 456P24  |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q:  453P23-> 449P24  |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-14154537>95</a> | <a href=MbrDtlMain.php?14154537>EMPRESS BROWN</a>                   |0.0  |U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|F   0|F   0|
+   NY | 14154537 / R:  410   -> 410     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q:  349   -> 349     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-14515404>96</a> | <a href=MbrDtlMain.php?14515404>JACOB OSTROVSKI</a>                 |0.0  |U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|F   0|F   0|
+   NY | 14515404 / R:  397P19-> 397P19  |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q:  351P19-> 351P19  |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-14540675>97</a> | <a href=MbrDtlMain.php?14540675>VINCENTE GOMEZ</a>                  |0.0  |U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|F   0|F   0|
+   NY | 14540675 / R:  351P20-> 351P20  |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q:  324P20-> 324P20  |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-14531954>98</a> | <a href=MbrDtlMain.php?14531954>DAVID TSOI</a>                      |0.0  |U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|F   0|F   0|
+   NY | 14531954 / R:  236P7 -> 236P7   |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q:  207P7 -> 207P7   |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102165101-001-14561535>99</a> | <a href=MbrDtlMain.php?14561535>TARIQ TROUTMAN</a>                  |0.0  |U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|U   0|F   0|F   0|
+   NY | 14561535 / R:  235P9 -> 235P9   |     |     |     |     |     |     |     |     |     |     |     |     |     |
+      |            Q:  225P9 -> 225P9   |     |     |     |     |     |     |     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------------------------------------------------
+Note:  Performances satisfying the requirements for norms are now being shown for events in the *Total Pts* column.<br>It may take a week for a recently rated event to have norms computed for it.
+</pre>
+</td>
+</tr>
+</table>
+</table>
+</form>
+&nbsp;
+<p>
+<hr>
+<p>
+<center>
+<p>
+<p>
+<font size=-1>
+Session  / 0
+<br>Version 1.00b / 2003-10-16
+</font>
+<br>
+<font size=-1>
+<i>
+USCF Member Services Area - Copyright 2002-2012 by the <a href="http://www.USChess.org">US Chess Federation</a> -  All Rights Reserved
+<br><a href="http://msa.uschess.org/FAQ.php">Frequently Asked Questions</a>
+<br>Report problems to <a href="mailto:msafeedback@uschess.org">msafeedback@uschess.org</a>
+<br><a href="http://www.USChess.org">Return to USCF Home Page</a>
+</i>
+</font>
+</center>
+<p>
+<hr>
+<p>
+</body>
+</html>

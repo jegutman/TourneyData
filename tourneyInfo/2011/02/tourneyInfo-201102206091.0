@@ -1,0 +1,791 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+<title>USCF MSA - Cross Table for USAT-NORTH (Event 201102206091)</title>
+<style type='text/css'>
+body {margin-left: 10; margin-right: 10; margin-top: 0; margin-bottom: 0;  background-color: #40B7D3; min-width: 800px;}
+td {font: helvetica; color: black; font-size: 100%;}
+input {font: helvetica; font-size: 100%; color: black; font-weight: bold; padding-left: 4;}
+input.submit_debug {font: helvetica; font-size: 10pt; color: red; font-weight: normal; background-color: #BFBFBF;}
+input.submit {font: helvetica; font-size: 10pt; color: black; font-weight: normal; background-color: #BFBFBF;}
+input.submit_dis {font: helvetica; font-size: 10pt; color: grey; background-color: #BFBFBF;}
+select {font: helvetica; font-size: 10pt;  color: brown}
+a.topbar-line1 {font: helvetica; font-size: 100%; color: white; text-decoration: none; padding-left: 10;}
+a.topbar-line2 {font: helvetica; font-size: 100%; color: #0373A4; text-decoration: underline; padding-left: 10;}
+/* a {font: helvetica; font-size: 100%; color: black; text-decoration: none; padding-left: 10;} */
+
+/*  table {border: 2px solid red; margin: 0px;}
+td{border: 1px dotted purple; padding: 2px; } */
+
+table.topbar {border-style: none; border-width: 0; border: 0; margin: 0; padding: 0; cell-padding: 0; background-color: #40B7D3;}
+tr.topbar {padding: 5;  margin-top: 5; margin-bottom: 5; background-color: #40B7D3; }
+td.topbar {padding: 3; color: white; font: helvetica; font-size: 100%; font-weight: bold;}
+td.topbar-side {padding: 0; color: black; font: helvetica; font-size: 100%; background-color: #FFFFFF;}
+td.topbar-middle {padding: 0; color: black; font: helvetica; font-size: 100%; background-color: #FFFFFF;}
+td.topbar-line2 {padding: 0; padding: 3; font: helvetica; font-size: 100%; color: #0373A4; background-color: #C7EAFB;}
+td.topbar-line2-right {text-align: right; padding: 0; padding: 3; font: helvetica; font-size: 100%; color: #0373A4; background-color: #C7EAFB;}
+td.topbar-right {text-align: right; padding: 0; color: blue; font: helvetica; font-size: 100%;  background-color: #40B7D3;}
+span.right {text-align: right; background-color: #E0FFFF}
+</style></head>
+<body >
+<table width=100% class=topbar cellspacing=0><tr class=topbar></td><td class=topbar width=100% ><table cellspacing=0 class=topbar width=100%><tr class=topbar><td class=topbar >US Chess Federation - Member Services Area</td><td class=topbar-right >
+<a class=topbar-line1 href=http://main.uschess.org/content/blogcategory/30/319>Press</a>
+<a class=topbar-line1 href=http://main.uschess.org/content/view/7850/385>Advertising</a>
+<a class=topbar-line1 href=http://main.uschess.org/content/blogsection/12/35>About the USCF</a>
+<a class=topbar-line1 href=http://main.uschess.org/component/option,com_wrapper/Itemid,327>Contact Us</a></td></tr>
+</table></td></tr>
+
+<tr class=topbar>
+<td class=topbar-line2>
+<a class=topbar-line2 href=http://www.uschess.org>Return to USCF Home Page</a>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp;&nbsp;&nbsp;&nbsp;
+<a class=topbar-line2 href=Index.php>MSA Home</a>
+<a class=topbar-line2 href=http://www.uschess.org/datapage/player-search.php>Members</a>
+<a class=topbar-line2 href=AffLst.php>Affiliates</a>
+<a class=topbar-line2 href=http://www.uschess.org/datapage/event-search.php>Tournaments</a>
+<a class=topbar-line2 href=HelpTxt.php>Help</a>
+</td></tr>
+<tr class=topbar><td class=topbar-middle>
+<center>
+<table border=0 valign=top>
+
+<form method=post action=AffDtlMain.php>
+
+&nbsp;
+<p>
+<table border=1 bgcolor=FFFFFF cellpadding=0 cellspacing=0>
+<tr>
+<td>
+<table border=0 bgcolor=FFFFFF width=800 cellpadding=3 cellspacing=0>
+
+<tr>
+<td colspan=3 bgcolor=DDDDDD align=center>
+<b>Event Summary</b>
+</td>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Event
+</td>
+<td width=1 rowspan=10></td>
+<td>
+<b>USAT-NORTH</b> &nbsp;<small>(201102206091)</small>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE>
+Location
+</td>
+<td>
+<b>NORTHBROOK, IL &nbsp;60062 &nbsp;USA</b>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE>
+Event Date(s)
+</td>
+<td>
+<b>2011-02-18 thru 2011-02-20 </b>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE>
+Sponsoring Affiliate
+</td>
+<td>
+<b><a href=http://msa.uschess.org/AffDtlMain.php?A6033687>BUBBACAT CHESS</a></b> &nbsp;<small>(A6033687)</small>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE>
+Chief&nbsp; TD
+</td>
+<td>
+<b>GLENN E PANNER</b> &nbsp;<small>(12417641)</small>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE>
+Chf. Assist. TD
+</td>
+<td>
+<b>MARET THORPE</b> &nbsp;<small>(13483913)</small>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE>
+Processed
+</td>
+<td>
+<b>Received: 2011-02-21 &nbsp; Entered: 2011-02-21 &nbsp; Rated: 2011-02-21</b>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE valign=top>
+Stats
+</td>
+<td>
+<b>2 Section(s),&nbsp; 143 Players</b>
+<br><font color=blue>The ratings shown on this page are not official published ratings and may change from time to time.  Using them for pairing purposes in tournaments should only be done if this has been advertised in all advance publicity and is announced to all players at the tournament.</font>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table border=0 bgcolor=FFFFFF width=800 cellpadding=3 cellspacing=0>
+
+<tr>
+<td colspan=6 bgcolor=DDDDDD align=center>
+<b>Sections</b>
+</td>
+<tr bgcolor=EEEEEE>
+<td width=70 align=center valign=middle>
+<font color=A00000>
+<b><i>HINT:</I.</b>
+</font>
+</td>
+<td width=1></td>
+<td>
+<font color=A00000><b>
+&nbsp; * Click on a Section Name to see the cross table for that Section, &nbsp;<i>or</i>
+<br>
+&nbsp; * Click on "Show All Sections" to see the cross tables for all sections at once.
+<br>
+</b></font>
+</td>
+</tr>
+
+<tr>
+<td width=80 bgcolor=EEEEEE>
+Section 1
+</td>
+<td width=1></td>
+<td>
+<a href=XtblMain.php?201102206091.1><b>USAT 3-DAY</b></a>
+</td>
+</tr>
+
+<tr>
+<td width=80 bgcolor=EEEEEE>
+Section 2
+</td>
+<td width=1></td>
+<td>
+<a href=XtblMain.php?201102206091.2><b>EXTRA</b></a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p>
+<a anchor="Section1"></a>
+<p>
+<table border=1 bgcolor=FFFFFF cellpadding=0 cellspacing=0>
+<tr>
+<td>
+<table border=0 width=800 bgcolor=FFFFFF  cellpadding=3 cellspacing=0>
+<tr>
+<td colspan=3 align=center bgcolor=DDDDFF>
+<b>Section 1 - USAT 3-DAY</b>
+</td>
+</tr>
+
+<tr>
+<td width=120 bgcolor=EEEEEE>
+Section Date(s)
+</td>
+<td width=1></td>
+<td>
+<b>2011-02-18 thru 2011-02-20</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Processed
+</td>
+<td width=1></td>
+<td>
+<b>Received: 2011-02-21 &nbsp; Entered: 2011-02-21 &nbsp; Rated: 2011-02-21 Re-Rated: 2014-12-15</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Stats
+</td>
+<td width=1></td>
+<td>
+<b>5 Rounds,&nbsp; 143 Players;  &nbsp;K Factor: F  &nbsp;Rating Sys: R  &nbsp;Tnmt Type: S  <br>Time Control: G/90</b>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan=3>
+<pre>
+-----------------------------------------------------------------------------
+<i> * Click on a Pairing Number to see the Player's Opponents.
+ * Click on a Player's Name for more information about the Player.</i>
+<font size=+2>Crosstable data is <b>not</b> shown in tiebreak order and <font color=red ><b><i>does NOT reflect <br>any distribution of trophies or prize monies.</font></font></b></i><a href=http://www.uschess.org/msa/FAQ.php>(See Frequent Questions)</a>
+<i>Crosstable data is shown as reported to the USCF by the Tournament Director.  <br>Please contact the TD to report any crosstable errors.</i>
+Note:  The information below the "Total Pts" score shows the highest norm earned in this event.<br>For more information on norms, see <a href=http://www.glicko.net/ratings/titles.pdf>The USCF Title System</a>.
+-----------------------------------------------------------------------------
+ Pair | Player Name                     |Total|Round|Round|Round|Round|Round| 
+ Num  | USCF ID / Rtg (Pre->Post)       | Pts |  1  |  2  |  3  |  4  |  5  | 
+-----------------------------------------------------------------------------
+    <a href=XtblPlr.php?201102206091-001-12593986>1</a> | <a href=MbrDtlMain.php?12593986>JOSHUA E FRIEDEL</a>                |5.0  |W 104|W  22|W  38|W  10|W  33|
+   WI | 12593986 / R: 2610   ->2620     |N:M  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+    <a href=XtblPlr.php?201102206091-001-12841108>2</a> | <a href=MbrDtlMain.php?12841108>ERIK SANTARIUS</a>                  |5.0  |W  41|W  25|W  77|W 105|W 103|
+   WI | 12841108 / R: 2347   ->2365     |N:M  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+    <a href=XtblPlr.php?201102206091-001-12843029>3</a> | <a href=MbrDtlMain.php?12843029>ATULYA SHETTY</a>                   |5.0  |W  91|W 103|W  92|W 124|W  47|
+   MI | 12843029 / R: 2272   ->2283     |N:C  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+    <a href=XtblPlr.php?201102206091-001-13666146>4</a> | <a href=MbrDtlMain.php?13666146>STEVEN J RAND</a>                   |5.0  |W  93|W  49|W  21|W  18|W 107|
+   MO | 13666146 / R: 1923   ->2001     |N:C  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+    <a href=XtblPlr.php?201102206091-001-12799033>5</a> | <a href=MbrDtlMain.php?12799033>JEREMY VON HATTEN</a>               |5.0  |W 132|W 134|W 143|W  94|W 123|
+   IL | 12799033 / R: 1710   ->1762     |N:2  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+    <a href=XtblPlr.php?201102206091-001-12542549>6</a> | <a href=MbrDtlMain.php?12542549>PETROS DEMETRIOS KARAGIANIS</a>     |4.5  |W  39|W 126|W  44|D  59|W 113|
+   IL | 12542549 / R: 2237   ->2249     |N:C  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+    <a href=XtblPlr.php?201102206091-001-20070967>7</a> | <a href=MbrDtlMain.php?20070967>DREW D HOLLINBERGER</a>             |4.5  |W  50|W  16|D  13|W  24|W 132|
+   IN | 20070967 / R: 2087   ->2103     |N:C  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+    <a href=XtblPlr.php?201102206091-001-12650924>8</a> | <a href=MbrDtlMain.php?12650924>MICHAEL A BARKDOLL</a>              |4.5  |W  77|W 129|D  41|W 114|W 124|
+   IL | 12650924 / R: 1843   ->1921     |N:1  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+    <a href=XtblPlr.php?201102206091-001-13301021>9</a> | <a href=MbrDtlMain.php?13301021>MIKE MEI</a>                        |4.5  |W 143|W  70|W 132|W  89|D  24|
+   IL | 13301021 / R: 1871   ->1890     |N:2  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-12559845>10</a> | <a href=MbrDtlMain.php?12559845>ANGELO YOUNG</a>                    |4.0  |W 128|W  37|W  39|L   1|W 104|
+   IL | 12559845 / R: 2423   ->2431     |N:M  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-10341752>11</a> | <a href=MbrDtlMain.php?10341752>STEVEN TENNANT</a>                  |4.0  |X   0|W  30|W 124|D 103|D  38|
+   IL | 10341752 / R: 2224   ->2228     |N:C  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-13547552>12</a> | <a href=MbrDtlMain.php?13547552>NOLAN HENDRICKSON</a>               |4.0  |D  33|W  80|D 108|W  84|W 138|
+   WI | 13547552 / R: 2209   ->2213     |N:1  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-12887417>13</a> | <a href=MbrDtlMain.php?12887417>SAM A SCHMAKEL</a>                  |4.0  |W  74|W  68|D   7|W  88|D  79|
+   IL | 12887417 / R: 2099   ->2100     |N:1  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-12773968>14</a> | <a href=MbrDtlMain.php?12773968>ZACH KASIURAK</a>                   |4.0  |W  53|W  66|D  40|W  19|D  26|
+   OH | 12773968 / R: 2093   ->2099     |N:1  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-12834788>15</a> | <a href=MbrDtlMain.php?12834788>AAKAASH MEDURI</a>                  |4.0  |L  61|B   0|W 138|W  64|W  82|
+   IL | 12834788 / R: 2005   ->2013     |N:1  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-12928026>16</a> | <a href=MbrDtlMain.php?12928026>IAN EDGERLE</a>                     |4.0  |W  75|L   7|W  97|W  51|W  90|
+   MI | 12928026 / R: 1968   ->1970     |N:2  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-13695630>17</a> | <a href=MbrDtlMain.php?13695630>ROBBY HECHT</a>                     |4.0  |W 118|W  77|W 115|L  25|W  67|
+   IL | 13695630 / R: 1908   ->1922     |N:2  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-13646954>18</a> | <a href=MbrDtlMain.php?13646954>ZHAOZHI LI</a>                      |4.0  |W 130|W  78|W 112|L   4|W  99|
+   IL | 13646954 / R: 1848   ->1878     |N:2  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-12495634>19</a> | <a href=MbrDtlMain.php?12495634>MARK S ENGELEN</a>                  |4.0  |W 131|W 107|W  55|L  14|W  71|
+   IL | 12495634 / R: 1818   ->1857     |N:2  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-12731698>20</a> | <a href=MbrDtlMain.php?12731698>ROGER R WANG</a>                    |4.0  |L  97|W 122|W  89|W  74|W 142|
+   IL | 12731698 / R: 1822   ->1812     |N:4  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-12560488>21</a> | <a href=MbrDtlMain.php?12560488>ALEX BETANELI</a>                   |3.5  |D  28|W  26|L   4|W  27|W  40|
+   WI | 12560488 / R: 2304   ->2294     |N:1  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-12595805>22</a> | <a href=MbrDtlMain.php?12595805>STEFFEN KLUG</a>                    |3.5  |W 109|L   1|W 125|D  44|W  36|
+   IL | 12595805 / R: 2124   ->2139     |N:C  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-10481783>23</a> | <a href=MbrDtlMain.php?10481783>ALLEN J BECKER</a>                  |3.5  |D 103|W  91|W  67|L  92|W  62|
+   WI | 10481783 / R: 2032   ->2030     |N:2  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-12449710>24</a> | <a href=MbrDtlMain.php?12449710>ROBERT D MORRIS</a>                 |3.5  |X   0|W  88|W  51|L   7|D   9|
+   IL | 12449710 / R: 2027   ->2021     |N:2  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-10336040>25</a> | <a href=MbrDtlMain.php?10336040>D GREGORY BUNGO</a>                 |3.5  |W 114|L   2|W  86|W  17|D  60|
+   IL | 10336040 / R: 2002   ->2015     |N:1  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-14244434>26</a> | <a href=MbrDtlMain.php?14244434>GADDIEL TAN TAN</a>                 |3.5  |W 101|L  21|W 134|W  49|D  14|
+   IL | 14244434 / R: 2009   ->2014     |N:2  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-13197512>27</a> | <a href=MbrDtlMain.php?13197512>RENE ANCHETA</a>                    |3.5  |W 122|W  89|W  90|L  21|D  28|
+   IL | 13197512 / R: 1978   ->1981     |N:2  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-14096988>28</a> | <a href=MbrDtlMain.php?14096988>DMITRI A SERGATSKOV</a>             |3.5  |D  21|W  86|W  93|D  31|D  27|
+   IL | 14096988 / R: 1909   ->1925     |N:1  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-13464694>29</a> | <a href=MbrDtlMain.php?13464694>APURVA VIRKUD</a>                   |3.5  |W 129|W 105|D  48|L  77|W  57|
+   MI | 13464694 / R: 1871   ->1890     |N:2  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-12593543>30</a> | <a href=MbrDtlMain.php?12593543>JOSEPH CYGAN</a>                    |3.5  |W 116|L  11|W  65|D  60|W 134|
+   IL | 12593543 / R: 1864   ->1877     |N:2  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-14195454>31</a> | <a href=MbrDtlMain.php?14195454>DAVID TIANJIAN PENG</a>             |3.5  |W  73|W  83|W 101|D  28|L  54|
+   IL | 14195454 / R: 1833   ->1832     |N:3  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-13713156>32</a> | <a href=MbrDtlMain.php?13713156>SHIVA SURI</a>                      |3.5  |W  42|L 110|W 131|W  99|D 120|
+   WI | 13713156 / R: 1619   ->1654     |N:3  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-12497557>33</a> | <a href=MbrDtlMain.php?12497557>JIM H DEAN</a>                      |3.0  |D  12|D  34|W  36|W  35|L   1|
+   IN | 12497557 / R: 2327   ->2336     |N:M  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-12838750>34</a> | <a href=MbrDtlMain.php?12838750>SETH HOMA</a>                       |3.0  |W  80|D  33|W  84|D 106|L  39|
+   MI | 12838750 / R: 2329   ->2317     |N:1  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-12807204>35</a> | <a href=MbrDtlMain.php?12807204>MATTHIAS PFAU</a>                   |3.0  |X   0|W  45|W 106|L  33|U   0|
+   IL | 12807204 / R: Unrated->2298P3   |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-12592469>36</a> | <a href=MbrDtlMain.php?12592469>WILLIAM JAMES ARAMIL</a>            |3.0  |W 108|W 138|L  33|W  45|L  22|
+   IL | 12592469 / R: 2296   ->2285     |N:1  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-12853959>37</a> | <a href=MbrDtlMain.php?12853959>ERIC S ROSEN</a>                    |3.0  |W  85|L  10|W  46|L  38|W  69|
+   IL | 12853959 / R: 2288   ->2278     |N:1  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-12743460>38</a> | <a href=MbrDtlMain.php?12743460>JEREMY KANE</a>                     |3.0  |W  43|D  44|L   1|W  37|D  11|
+   MD | 12743460 / R: 2226   ->2235     |N:C  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-10302307>39</a> | <a href=MbrDtlMain.php?10302307>KEVIN CZUHAI</a>                    |3.0  |L   6|W  69|L  10|W 138|W  34|
+   MI | 10302307 / R: 2200   ->2203     |N:1  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-13273576>40</a> | <a href=MbrDtlMain.php?13273576>DANIEL BRENT GATER</a>              |3.0  |W 110|W  42|D  14|D 107|L  21|
+   TX | 13273576 / R: 2143   ->2144     |N:1  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-12611648>41</a> | <a href=MbrDtlMain.php?12611648>ANDREW D HUBBARD</a>                |3.0  |L   2|W 125|D   8|W  81|D  78|
+   MI | 12611648 / R: 2109   ->2106     |N:1  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-13416153>42</a> | <a href=MbrDtlMain.php?13416153>MICHAEL BOWERSOCK</a>               |3.0  |L  32|L  40|W  54|W 111|W  63|
+   MI | 13416153 / R: 2112   ->2097     |N:2  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-10332711>43</a> | <a href=MbrDtlMain.php?10332711>GLEN E GRATZ</a>                    |3.0  |L  38|W  85|D 104|D 109|W 106|
+   IL | 10332711 / R: 2089   ->2095     |N:1  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-12665428>44</a> | <a href=MbrDtlMain.php?12665428>MATTHEW PULLIN</a>                  |3.0  |W  82|D  38|L   6|D  22|W 108|
+   IL | 12665428 / R: 2032   ->2050     |N:1  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-12685294>45</a> | <a href=MbrDtlMain.php?12685294>VINCENT J HART</a>                  |3.0  |W 113|L  35|W  59|L  36|W 125|
+   IL | 12685294 / R: 2006   ->2021     |N:1  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-12841411>46</a> | <a href=MbrDtlMain.php?12841411>DANIEL R DUGOVIC</a>                |3.0  |W  84|W 128|L  37|D 108|D  59|
+   IL | 12841411 / R: 1971   ->1984     |N:1  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-10302994>47</a> | <a href=MbrDtlMain.php?10302994>GREGORY E BAILEY</a>                |3.0  |W 115|W  57|D 105|D  62|L   3|
+   MI | 10302994 / R: 1932   ->1939     |N:2  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-12796783>48</a> | <a href=MbrDtlMain.php?12796783>KEVIN J POTTS</a>                   |3.0  |W  92|D  64|D  29|D  67|D  65|
+   IL | 12796783 / R: 1843   ->1839     |N:2  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-14005180>49</a> | <a href=MbrDtlMain.php?14005180>ROMAN, M KUPERMAN</a>               |3.0  |W 119|L   4|W  98|L  26|W  53|
+   IL | 14005180 / R: 1810   ->1809     |N:3  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-11164412>50</a> | <a href=MbrDtlMain.php?11164412>ROBIN J GROCHOWSKI</a>              |3.0  |L   7|D  75|D  74|W  97|W  68|
+   WI | 11164412 / R: 1759   ->1748     |N:3  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-12559811>51</a> | <a href=MbrDtlMain.php?12559811>MARK STEPHEN PARNABY</a>            |3.0  |W 142|W  94|L  24|L  16|W 143|
+   IL | 12559811 / R: 1703   ->1700     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-12954448>52</a> | <a href=MbrDtlMain.php?12954448>PHILLIP NICHOLAS PARKER-TURNER</a>  |3.0  |U   0|L  97|W  95|W 119|W  56|
+   IL | 12954448 / R: 1673   ->1667     |N:3  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-13214695>53</a> | <a href=MbrDtlMain.php?13214695>DAVID PAYKIN</a>                    |3.0  |L  14|W 131|W 110|W 112|L  49|
+   IL | 13214695 / R: 1536   ->1641     |N:2  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-12870131>54</a> | <a href=MbrDtlMain.php?12870131>MASES M HAGOPIAN</a>                |3.0  |W 112|L  87|L  42|W 110|W  31|
+   IL | 12870131 / R: 1441   ->1590     |N:2  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-12728968>55</a> | <a href=MbrDtlMain.php?12728968>PATRICE CONNELLY</a>                |3.0  |D 111|W 119|L  19|W  98|D 112|
+   IL | 12728968 / R: 1522   ->1574     |N:3  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-14540612>56</a> | <a href=MbrDtlMain.php?14540612>STEVEN P SUGGETT</a>                |3.0  |L  79|B   0|W  94|W 143|L  52|
+   IL | 14540612 / R: 1435P3 ->1486P7   |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-12761641>57</a> | <a href=MbrDtlMain.php?12761641>CRISTIAN PENA</a>                   |3.0  |B   0|L  47|W 127|W  91|L  29|
+   IL | 12761641 / R: 1306   ->1431     |N:2  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-14361310>58</a> | <a href=MbrDtlMain.php?14361310>BENJAMIN S HARTMAN</a>              |3.0  |L  70|W 142|L 122|B   0|W 100|
+   IL | 14361310 / R: 1217P11->1204P15  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-12414858>59</a> | <a href=MbrDtlMain.php?12414858>LEN J WEBER</a>                     |2.5  |D 106|W  82|L  45|D   6|D  46|
+   IL | 12414858 / R: 2201   ->2200     |N:1  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-12860543>60</a> | <a href=MbrDtlMain.php?12860543>MICHAEL WILLIAM AUGER</a>           |2.5  |L  67|W  62|D 103|D  30|D  25|
+   IL | 12860543 / R: 2127   ->2111     |N:2  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-13405236>61</a> | <a href=MbrDtlMain.php?13405236>MICHAEL L CHEN</a>                  |2.5  |W  15|D 106|W 109|L 104|L  84|
+   MI | 13405236 / R: 2069   ->2063     |N:1  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-13477423>62</a> | <a href=MbrDtlMain.php?13477423>CHARLES SWAN</a>                    |2.5  |W 139|L  60|W  72|D  47|L  23|
+   IL | 13477423 / R: 1944   ->1934     |N:3  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-12452615>63</a> | <a href=MbrDtlMain.php?12452615>EDDIE BARBER</a>                    |2.5  |W  98|D  99|L  78|W  66|L  42|
+   MI | 12452615 / R: 1912   ->1896     |N:4  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-13365286>64</a> | <a href=MbrDtlMain.php?13365286>NATHANIEL AUSTIN KRANJC</a>         |2.5  |L 105|D  48|W 118|L  15|B   0|
+   IL | 13365286 / R: 1780   ->1778     |N:3  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-10348595>65</a> | <a href=MbrDtlMain.php?10348595>H WAYNE ELLICE</a>                  |2.5  |L  83|W 118|L  30|W 115|D  48|
+   IL | 10348595 / R: 1721   ->1720     |N:3  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-14089741>66</a> | <a href=MbrDtlMain.php?14089741>ABE SUN</a>                         |2.5  |W 140|L  14|W  73|L  63|D 110|
+   IL | 14089741 / R: 1716   ->1717     |N:3  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-12599331>67</a> | <a href=MbrDtlMain.php?12599331>JASON L SMITH</a>                   |2.5  |W  60|W 116|L  23|D  48|L  17|
+   IL | 12599331 / R: 1653   ->1702     |N:2  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-14196175>68</a> | <a href=MbrDtlMain.php?14196175>CHRISTIAN D KAVOURAS</a>            |2.5  |W  76|L  13|D 100|W  90|L  50|
+   IL | 14196175 / R: 1672   ->1663     |N:4  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-14264396>69</a> | <a href=MbrDtlMain.php?14264396>MARK WAECHTER</a>                   |2.5  |B   0|L  39|D 102|W  80|L  37|
+   IL | 14264396 / R: 1546   ->1617     |N:1  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-12917253>70</a> | <a href=MbrDtlMain.php?12917253>AKHIL DUTTA</a>                     |2.5  |W  58|L   9|W 121|D  79|L  74|
+   IL | 12917253 / R: 1583   ->1575     |N:4  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-12141270>71</a> | <a href=MbrDtlMain.php?12141270>LARRY PETERSON</a>                  |2.5  |U   0|D 135|W  79|W 120|L  19|
+   IL | 12141270 / R: 1460   ->1538     |N:3  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-14456077>72</a> | <a href=MbrDtlMain.php?14456077>BENJAMIN YU</a>                     |2.5  |D  81|B   0|L  62|W 117|L 118|
+   IL | 14456077 / R: 1441P19->1461P23  |N:4  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-14419730>73</a> | <a href=MbrDtlMain.php?14419730>JOHN GAO</a>                        |2.5  |L  31|B   0|L  66|W 133|D 119|
+   IL | 14419730 / R: 1427   ->1438     |N:4  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-12870710>74</a> | <a href=MbrDtlMain.php?12870710>MADELEINE REICHES</a>               |2.5  |L  13|W  96|D  50|L  20|W  70|
+   IL | 12870710 / R: 1288   ->1414     |N:3  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-13423536>75</a> | <a href=MbrDtlMain.php?13423536>SAMUEL JAMES GORECTKE</a>           |2.5  |L  16|D  50|W  96|L  95|W 141|
+   WI | 13423536 / R: 1318   ->1370     |N:4  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-14236716>76</a> | <a href=MbrDtlMain.php?14236716>SCOTT MARVEL</a>                    |2.5  |L  68|D 121|W 120|W  96|U   0|
+   MI | 14236716 / R: 1123P12->1271P16  |N:4  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-12842589>77</a> | <a href=MbrDtlMain.php?12842589>SPENCER BLEDSOE</a>                 |2.0  |L   8|L  17|L   2|W  29|W 136|
+   IL | 12842589 / R: 2023   ->2014     |N:2  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-12433402>78</a> | <a href=MbrDtlMain.php?12433402>FLORENTINO INUMERABLE JR</a>        |2.0  |D 117|L  18|W  63|U   0|D  41|
+   IL | 12433402 / R: 2025   ->2012     |N:3  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-12772868>79</a> | <a href=MbrDtlMain.php?12772868>DANIEL EDWARD PARMET</a>            |2.0  |W  56|L 132|L  71|D  70|D  13|
+   WI | 12772868 / R: 2003   ->1967     |N:4  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-12923946>80</a> | <a href=MbrDtlMain.php?12923946>DEREK D SACHS</a>                   |2.0  |L  34|L  12|W 113|L  69|W  85|
+   WI | 12923946 / R: 1913   ->1902     |N:3  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-13405242>81</a> | <a href=MbrDtlMain.php?13405242>PETER L CHEN</a>                    |2.0  |D  72|L 124|D 114|L  41|W  92|
+   MI | 13405242 / R: 1926   ->1900     |N:3  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-12895644>82</a> | <a href=MbrDtlMain.php?12895644>ANDREW TAYLOR</a>                   |2.0  |L  44|L  59|W 128|W 127|L  15|
+   IL | 12895644 / R: 1879   ->1881     |N:2  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-12439617>83</a> | <a href=MbrDtlMain.php?12439617>WADE CHRISTENSEN</a>                |2.0  |W  65|L  31|W 136|U   0|U   0|
+   WI | 12439617 / R: 1826   ->1845     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-13847466>84</a> | <a href=MbrDtlMain.php?13847466>EVAN D SPIEGEL</a>                  |2.0  |L  46|W 137|L  34|L  12|W  61|
+   IL | 13847466 / R: 1703   ->1767     |N:1  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-12732150>85</a> | <a href=MbrDtlMain.php?12732150>MATTHEW HOLLAWAY</a>                |2.0  |L  37|L  43|W 126|W 125|L  80|
+   IL | 12732150 / R: 1717   ->1747     |N:2  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-12347460>86</a> | <a href=MbrDtlMain.php?12347460>TONY R BROWN</a>                    |2.0  |B   0|L  28|L  25|W 129|U   0|
+   IL | 12347460 / R: 1744   ->1741     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-10337623>87</a> | <a href=MbrDtlMain.php?10337623>RICK LUTZKE</a>                     |2.0  |F   0|W  54|D  99|D 118|L 101|
+   IL | 10337623 / R: 1764   ->1727     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-10346606>88</a> | <a href=MbrDtlMain.php?10346606>GEE Y LEONG</a>                     |2.0  |L  96|L  24|W 142|L  13|B   0|
+   IL | 10346606 / R: 1747   ->1718     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-13788934>89</a> | <a href=MbrDtlMain.php?13788934>MATTHEW JAMES STEVENS</a>           |2.0  |W 120|L  27|L  20|L   9|W  95|
+   IL | 13788934 / R: 1732   ->1715     |N:4  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-20032704>90</a> | <a href=MbrDtlMain.php?20032704>JOSEPH MEYER</a>                    |2.0  |W 121|W  95|L  27|L  68|L  16|
+   IA | 20032704 / R: 1727   ->1707     |N:4  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-13423521>91</a> | <a href=MbrDtlMain.php?13423521>ANDREW M GORECTKE</a>               |2.0  |L   3|L  23|W 116|L  57|W 129|
+   WI | 13423521 / R: 1658   ->1653     |N:4  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-14162998>92</a> | <a href=MbrDtlMain.php?14162998>RAFEH QAZI</a>                      |2.0  |L  48|W 127|L   3|W  23|L  81|
+   IL | 14162998 / R: 1545   ->1620     |N:2  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-12690468>93</a> | <a href=MbrDtlMain.php?12690468>DONALD W WARD</a>                   |2.0  |L   4|W 130|L  28|W 101|L 111|
+   IL | 12690468 / R: 1516   ->1528     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-13672306>94</a> | <a href=MbrDtlMain.php?13672306>ARVIND RAMAKRISHNAN</a>             |2.0  |W 100|L  51|L  56|L   5|W  97|
+   IL | 13672306 / R: 1482   ->1467     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-14613358>95</a> | <a href=MbrDtlMain.php?14613358>PHUC HOANG</a>                      |2.0  |B   0|L  90|L  52|W  75|L  89|
+   IL | 14613358 / R: Unrated->1412P4   |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-13643933>96</a> | <a href=MbrDtlMain.php?13643933>RAHUL DHIMAN</a>                    |2.0  |W  88|L  74|L  75|L  76|W 121|
+   IL | 13643933 / R: 1427   ->1403     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-14191555>97</a> | <a href=MbrDtlMain.php?14191555>ADIL DZELILOVIC</a>                 |2.0  |W  20|W  52|L  16|L  50|L  94|
+   IL | 14191555 / R: 1282   ->1382     |N:3  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-14107163>98</a> | <a href=MbrDtlMain.php?14107163>JASON SCOTT DANIELS</a>             |2.0  |L  63|W 140|L  49|L  55|W 131|
+   IL | 14107163 / R: 1283   ->1352     |N:4  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201102206091-001-14330563>99</a> | <a href=MbrDtlMain.php?14330563>ADRIAN MUI</a>                      |2.0  |B   0|D  63|D  87|L  32|L  18|
+   IL | 14330563 / R: 1194P11->1274P15  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+  <a href=XtblPlr.php?201102206091-001-13916256>100</a> | <a href=MbrDtlMain.php?13916256>ALEX PATRICK NEVLING</a>            |2.0  |L  94|B   0|D  68|D 122|L  58|
+   IL | 13916256 / R:  970   ->1010     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+  <a href=XtblPlr.php?201102206091-001-13934211>101</a> | <a href=MbrDtlMain.php?13934211>DEVIN CLARK</a>                     |2.0  |L  26|B   0|L  31|L  93|W  87|
+   IL | 13934211 / R:  914   -> 998     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+  <a href=XtblPlr.php?201102206091-001-12738381>102</a> | <a href=MbrDtlMain.php?12738381>ALEKSANDA STAMNOV</a>               |1.5  |F   0|U   0|D  69|U   0|W 109|
+   IL | 12738381 / R: 2221   ->2216     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+  <a href=XtblPlr.php?201102206091-001-12479730>103</a> | <a href=MbrDtlMain.php?12479730>JOHN LANGRECK</a>                   |1.5  |D  23|L   3|D  60|D  11|L   2|
+   CA | 12479730 / R: 2232   ->2214     |N:1  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+  <a href=XtblPlr.php?201102206091-001-10529191>104</a> | <a href=MbrDtlMain.php?10529191>MARIANO A ACOSTA</a>                |1.5  |L   1|U   0|D  43|W  61|L  10|
+   IL | 10529191 / R: 2200   ->2200     |N:1  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+  <a href=XtblPlr.php?201102206091-001-12550427>105</a> | <a href=MbrDtlMain.php?12550427>CAMILO PANGAN</a>                   |1.5  |W  64|L  29|D  47|L   2|U   0|
+   IL | 12550427 / R: 2210   ->2200     |N:2  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+  <a href=XtblPlr.php?201102206091-001-12147690>106</a> | <a href=MbrDtlMain.php?12147690>BRYAN LILLY</a>                     |1.5  |D  59|D  61|L  35|D  34|L  43|
+   WI | 12147690 / R: 2152   ->2141     |N:1  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+  <a href=XtblPlr.php?201102206091-001-13346140>107</a> | <a href=MbrDtlMain.php?13346140>YURI FRIDMAN</a>                    |1.5  |X   0|L  19|U   0|D  40|L   4|
+   IL | 13346140 / R: 2114P13->2042P16  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+  <a href=XtblPlr.php?201102206091-001-12452603>108</a> | <a href=MbrDtlMain.php?12452603>JAMES B FAGAN</a>                   |1.5  |L  36|D 113|D  12|D  46|L  44|
+   IL | 12452603 / R: 2022   ->2008     |N:2  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+  <a href=XtblPlr.php?201102206091-001-12113620>109</a> | <a href=MbrDtlMain.php?12113620>STEVEN CRAIG MILLER</a>             |1.5  |L  22|B   0|L  61|D  43|L 102|
+   IL | 12113620 / R: 1942   ->1931     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+  <a href=XtblPlr.php?201102206091-001-12551569>110</a> | <a href=MbrDtlMain.php?12551569>JAMES JAY COONS</a>                 |1.5  |L  40|W  32|L  53|L  54|D  66|
+   WI | 12551569 / R: 1848   ->1813     |N:4  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+  <a href=XtblPlr.php?201102206091-001-13637306>111</a> | <a href=MbrDtlMain.php?13637306>DAUMANTS HAZNERS</a>                |1.5  |D  55|U   0|U   0|L  42|W  93|
+   IL | 13637306 / R: 1769   ->1764     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+  <a href=XtblPlr.php?201102206091-001-12885630>112</a> | <a href=MbrDtlMain.php?12885630>RAMA YALAVARTHI</a>                 |1.5  |L  54|W 133|L  18|L  53|D  55|
+   IL | 12885630 / R: 1786   ->1742     |N:4  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+  <a href=XtblPlr.php?201102206091-001-13451367>113</a> | <a href=MbrDtlMain.php?13451367>JACK THOMAS CURCIO</a>              |1.5  |L  45|D 108|L  80|W 126|L   6|
+   IL | 13451367 / R: 1709   ->1724     |N:2  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+  <a href=XtblPlr.php?201102206091-001-14495127>114</a> | <a href=MbrDtlMain.php?14495127>CHRIS ROBSON</a>                    |1.5  |L  25|B   0|D  81|L   8|L 127|
+   IL | 14495127 / R: 1746P6 ->1692P10  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+  <a href=XtblPlr.php?201102206091-001-13858968>115</a> | <a href=MbrDtlMain.php?13858968>HANSON HAO</a>                      |1.5  |L  47|W 139|L  17|L  65|D 116|
+   IL | 13858968 / R: 1518   ->1516     |N:4  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+  <a href=XtblPlr.php?201102206091-001-14042343>116</a> | <a href=MbrDtlMain.php?14042343>MIRANDA LIU</a>                     |1.5  |L  30|L  67|L  91|W 139|D 115|
+   IL | 14042343 / R: 1479   ->1477     |N:4  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+  <a href=XtblPlr.php?201102206091-001-13740795>117</a> | <a href=MbrDtlMain.php?13740795>KRIS HARIHARA</a>                   |1.5  |D  78|U   0|U   0|L  72|B   0|
+   IL | 13740795 / R: 1474P19->1471P21  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+  <a href=XtblPlr.php?201102206091-001-13546255>118</a> | <a href=MbrDtlMain.php?13546255>JOSEPH BAILEY</a>                   |1.5  |L  17|L  65|L  64|D  87|W  72|
+   MD | 13546255 / R: 1447   ->1466     |N:4  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+  <a href=XtblPlr.php?201102206091-001-12894282>119</a> | <a href=MbrDtlMain.php?12894282>MARLEY-VINCENT LINDSEY</a>          |1.5  |L  49|L  55|W 133|L  52|D  73|
+   NY | 12894282 / R: 1400   ->1405     |N:4  |     |     |     |     |     |
+-----------------------------------------------------------------------------
+  <a href=XtblPlr.php?201102206091-001-14474294>120</a> | <a href=MbrDtlMain.php?14474294>JACLYN SARNA</a>                    |1.5  |L  89|W 143|L  76|L  71|D  32|
+   IL | 14474294 / R: 1250P15->1243P20  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+  <a href=XtblPlr.php?201102206091-001-12923321>121</a> | <a href=MbrDtlMain.php?12923321>COLE FRANK</a>                      |1.5  |L  90|D  76|L  70|W 142|L  96|
+   IL | 12923321 / R: 1257   ->1242     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+  <a href=XtblPlr.php?201102206091-001-13412082>122</a> | <a href=MbrDtlMain.php?13412082>CAELEY HARIHARA</a>                 |1.5  |L  27|L  20|W  58|D 100|U   0|
+   IL | 13412082 / R: 1216   ->1224     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+  <a href=XtblPlr.php?201102206091-001-12448350>123</a> | <a href=MbrDtlMain.php?12448350>ETHELBERT P GAZMEN</a>              |1.0  |U   0|U   0|U   0|W 132|L   5|
+   IL | 12448350 / R: 1953   ->1940     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+  <a href=XtblPlr.php?201102206091-001-10268052>124</a> | <a href=MbrDtlMain.php?10268052>SCOT L HENDERSON</a>                |1.0  |U   0|W  81|L  11|L   3|L   8|
+   IL | 10268052 / R: 1912   ->1907     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+  <a href=XtblPlr.php?201102206091-001-12508412>125</a> | <a href=MbrDtlMain.php?12508412>JEFFREY ALLEN POKORSKI</a>          |1.0  |B   0|L  41|L  22|L  85|L  45|
+   WI | 12508412 / R: 1844   ->1817     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+  <a href=XtblPlr.php?201102206091-001-13688283>126</a> | <a href=MbrDtlMain.php?13688283>MATTHEW TRUJILLO</a>                |1.0  |W 138|L   6|L  85|L 113|U   0|
+   MI | 13688283 / R: 1832   ->1814     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+  <a href=XtblPlr.php?201102206091-001-12649998>127</a> | <a href=MbrDtlMain.php?12649998>BENNETT JOSEPH</a>                  |1.0  |F   0|L  92|L  57|L  82|W 114|
+   IL | 12649998 / R: 1848   ->1808     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+  <a href=XtblPlr.php?201102206091-001-12933335>128</a> | <a href=MbrDtlMain.php?12933335>MAXIMILIAN ZINSKI</a>               |1.0  |L  10|L  46|L  82|U   0|B   0|
+   IL | 12933335 / R: 1818   ->1801     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+  <a href=XtblPlr.php?201102206091-001-13714997>129</a> | <a href=MbrDtlMain.php?13714997>JUSTIN RAJSKY</a>                   |1.0  |L  29|L   8|W 139|L  86|L  91|
+   VA | 13714997 / R: 1667   ->1638     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+  <a href=XtblPlr.php?201102206091-001-12804147>130</a> | <a href=MbrDtlMain.php?12804147>IMTIAZ ALI GARCIA</a>               |1.0  |L  18|L  93|W 140|F   0|U   0|
+   IL | 12804147 / R: 1649   ->1626     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+  <a href=XtblPlr.php?201102206091-001-13589754>131</a> | <a href=MbrDtlMain.php?13589754>RYAN TOEPFER</a>                    |1.0  |L  19|L  53|L  32|W 140|L  98|
+   IL | 13589754 / R: 1658   ->1604     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+  <a href=XtblPlr.php?201102206091-001-12829132>132</a> | <a href=MbrDtlMain.php?12829132>GREGORY B AZBEL</a>                 |1.0  |L   5|W  79|L   9|L 123|L   7|
+   WI | 12829132 / R: 1538   ->1553     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+  <a href=XtblPlr.php?201102206091-001-13295294>133</a> | <a href=MbrDtlMain.php?13295294>OLIVER NATARAJAN</a>                |1.0  |U   0|L 112|L 119|L  73|B   0|
+   IL | 13295294 / R: 1543   ->1491     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+  <a href=XtblPlr.php?201102206091-001-13301036>134</a> | <a href=MbrDtlMain.php?13301036>CHAD Z WILLIAMS</a>                 |1.0  |B   0|L   5|L  26|F   0|L  30|
+   IL | 13301036 / R: Unrated->1073P3   |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+  <a href=XtblPlr.php?201102206091-001-12770659>135</a> | <a href=MbrDtlMain.php?12770659>ROQUITO BRUNO</a>                   |0.5  |U   0|D  71|U   0|U   0|U   0|
+   IL | 12770659 / R: 1667   ->1661     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+  <a href=XtblPlr.php?201102206091-001-12423714>136</a> | <a href=MbrDtlMain.php?12423714>FRED ALLSBROOK</a>                  |0.0  |U   0|U   0|L  83|U   0|L  77|
+   IL | 12423714 / R: 2115   ->2091     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+  <a href=XtblPlr.php?201102206091-001-12452985>137</a> | <a href=MbrDtlMain.php?12452985>ROBERT LONCAREVIC</a>               |0.0  |F   0|L  84|U   0|U   0|U   0|
+   IL | 12452985 / R: 2060   ->2045     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+  <a href=XtblPlr.php?201102206091-001-12921328>138</a> | <a href=MbrDtlMain.php?12921328>CHENGLIANG LUO</a>                  |0.0  |L 126|L  36|L  15|L  39|L  12|
+   IL | 12921328 / R: 1905   ->1878     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+  <a href=XtblPlr.php?201102206091-001-12405534>139</a> | <a href=MbrDtlMain.php?12405534>EUGENE L MCCLURE</a>                |0.0  |L  62|L 115|L 129|L 116|U   0|
+   MI | 12405534 / R: 1511   ->1464     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+  <a href=XtblPlr.php?201102206091-001-12533115>140</a> | <a href=MbrDtlMain.php?12533115>ERIC WRIGHT</a>                     |0.0  |L  66|L  98|L 130|L 131|U   0|
+   MI | 12533115 / R: 1290   ->1260     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+  <a href=XtblPlr.php?201102206091-001-13557700>141</a> | <a href=MbrDtlMain.php?13557700>HENRY JOSEPH CURCIO</a>             |0.0  |U   0|U   0|U   0|U   0|L  75|
+   IL | 13557700 / R: 1143   ->1131     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+  <a href=XtblPlr.php?201102206091-001-14419724>142</a> | <a href=MbrDtlMain.php?14419724>AMINAH AZIZA GARCIA</a>             |0.0  |L  51|L  58|L  88|L 121|L  20|
+   IA | 14419724 / R:  912P14-> 896P19  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+  <a href=XtblPlr.php?201102206091-001-12794496>143</a> | <a href=MbrDtlMain.php?12794496>ANTHONY EDWARD LAGRASSA JR</a>      |0.0  |L   9|L 120|L   5|L  56|L  51|
+   IL | 12794496 / R:  867   -> 859     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+Note:  Performances satisfying the requirements for norms are now being shown for events in the *Total Pts* column.<br>It may take a week for a recently rated event to have norms computed for it.
+</pre>
+</td>
+</tr>
+</table>
+<p>
+<a anchor="Section2"></a>
+<p>
+<table border=1 bgcolor=FFFFFF cellpadding=0 cellspacing=0>
+<tr>
+<td>
+<table border=0 width=800 bgcolor=FFFFFF  cellpadding=3 cellspacing=0>
+<tr>
+<td colspan=3 align=center bgcolor=DDDDFF>
+<b>Section 2 - EXTRA</b>
+</td>
+</tr>
+
+<tr>
+<td width=120 bgcolor=EEEEEE>
+Section Date(s)
+</td>
+<td width=1></td>
+<td>
+<b>2011-02-18 thru 2011-02-20</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Processed
+</td>
+<td width=1></td>
+<td>
+<b>Received: 2011-02-21 &nbsp; Entered: 2011-02-21 &nbsp; Rated: 2011-02-21 Re-Rated: 2011-02-22</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Stats
+</td>
+<td width=1></td>
+<td>
+<b>1 Rounds,&nbsp; 6 Players;  &nbsp;K Factor: F  &nbsp;Rating Sys: R  &nbsp;Tnmt Type: S  <br>Time Control: G/90</b>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan=3>
+<pre>
+-----------------------------------------------------
+<i> * Click on a Pairing Number to see the Player's Opponents.
+ * Click on a Player's Name for more information about the Player.</i>
+<font size=+2>Crosstable data is <b>not</b> shown in tiebreak order and <font color=red ><b><i>does NOT reflect <br>any distribution of trophies or prize monies.</font></font></b></i><a href=http://www.uschess.org/msa/FAQ.php>(See Frequent Questions)</a>
+<i>Crosstable data is shown as reported to the USCF by the Tournament Director.  <br>Please contact the TD to report any crosstable errors.</i>
+Note:  The information below the "Total Pts" score shows the highest norm earned in this event.<br>For more information on norms, see <a href=http://www.glicko.net/ratings/titles.pdf>The USCF Title System</a>.
+-----------------------------------------------------
+ Pair | Player Name                     |Total|Round| 
+ Num  | USCF ID / Rtg (Pre->Post)       | Pts |  1  | 
+-----------------------------------------------------
+    <a href=XtblPlr.php?201102206091-002-10341752>1</a> | <a href=MbrDtlMain.php?10341752>STEVEN TENNANT</a>                  |1.0  |W   5|
+   IL | 10341752 / R: 2228   ->2230     |     |     |
+-----------------------------------------------------
+    <a href=XtblPlr.php?201102206091-002-12508412>2</a> | <a href=MbrDtlMain.php?12508412>JEFFREY ALLEN POKORSKI</a>          |1.0  |W   6|
+   WI | 12508412 / R: 1817   ->1818     |     |     |
+-----------------------------------------------------
+    <a href=XtblPlr.php?201102206091-002-13346140>3</a> | <a href=MbrDtlMain.php?13346140>YURI FRIDMAN</a>                    |0.5  |D   4|
+   IL | 13346140 / R: 2042P16->2023P17  |     |     |
+-----------------------------------------------------
+    <a href=XtblPlr.php?201102206091-002-12954448>4</a> | <a href=MbrDtlMain.php?12954448>PHILLIP NICHOLAS PARKER-TURNER</a>  |0.5  |D   3|
+   IL | 12954448 / R: 1667   ->1679     |     |     |
+-----------------------------------------------------
+    <a href=XtblPlr.php?201102206091-002-12649998>5</a> | <a href=MbrDtlMain.php?12649998>BENNETT JOSEPH</a>                  |0.0  |L   1|
+   IL | 12649998 / R: 1808   ->1805     |     |     |
+-----------------------------------------------------
+    <a href=XtblPlr.php?201102206091-002-13301036>6</a> | <a href=MbrDtlMain.php?13301036>CHAD Z WILLIAMS</a>                 |0.0  |L   2|
+   IL | 13301036 / R: 1073P3 ->1073P4   |     |     |
+-----------------------------------------------------
+Note:  Performances satisfying the requirements for norms are now being shown for events in the *Total Pts* column.<br>It may take a week for a recently rated event to have norms computed for it.
+</pre>
+</td>
+</tr>
+</table>
+</table>
+</form>
+&nbsp;
+<p>
+<hr>
+<p>
+<center>
+<p>
+<p>
+<font size=-1>
+Session  / 0
+<br>Version 1.00b / 2003-10-16
+</font>
+<br>
+<font size=-1>
+<i>
+USCF Member Services Area - Copyright 2002-2012 by the <a href="http://www.USChess.org">US Chess Federation</a> -  All Rights Reserved
+<br><a href="http://msa.uschess.org/FAQ.php">Frequently Asked Questions</a>
+<br>Report problems to <a href="mailto:msafeedback@uschess.org">msafeedback@uschess.org</a>
+<br><a href="http://www.USChess.org">Return to USCF Home Page</a>
+</i>
+</font>
+</center>
+<p>
+<hr>
+<p>
+</body>
+</html>

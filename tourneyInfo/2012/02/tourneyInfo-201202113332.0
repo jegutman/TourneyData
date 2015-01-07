@@ -1,0 +1,829 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+<title>USCF MSA - Cross Table for CSCS FEBRUARY 2012 (Event 201202113332)</title>
+<style type='text/css'>
+body {margin-left: 10; margin-right: 10; margin-top: 0; margin-bottom: 0;  background-color: #40B7D3; min-width: 800px;}
+td {font: helvetica; color: black; font-size: 100%;}
+input {font: helvetica; font-size: 100%; color: black; font-weight: bold; padding-left: 4;}
+input.submit_debug {font: helvetica; font-size: 10pt; color: red; font-weight: normal; background-color: #BFBFBF;}
+input.submit {font: helvetica; font-size: 10pt; color: black; font-weight: normal; background-color: #BFBFBF;}
+input.submit_dis {font: helvetica; font-size: 10pt; color: grey; background-color: #BFBFBF;}
+select {font: helvetica; font-size: 10pt;  color: brown}
+a.topbar-line1 {font: helvetica; font-size: 100%; color: white; text-decoration: none; padding-left: 10;}
+a.topbar-line2 {font: helvetica; font-size: 100%; color: #0373A4; text-decoration: underline; padding-left: 10;}
+/* a {font: helvetica; font-size: 100%; color: black; text-decoration: none; padding-left: 10;} */
+
+/*  table {border: 2px solid red; margin: 0px;}
+td{border: 1px dotted purple; padding: 2px; } */
+
+table.topbar {border-style: none; border-width: 0; border: 0; margin: 0; padding: 0; cell-padding: 0; background-color: #40B7D3;}
+tr.topbar {padding: 5;  margin-top: 5; margin-bottom: 5; background-color: #40B7D3; }
+td.topbar {padding: 3; color: white; font: helvetica; font-size: 100%; font-weight: bold;}
+td.topbar-side {padding: 0; color: black; font: helvetica; font-size: 100%; background-color: #FFFFFF;}
+td.topbar-middle {padding: 0; color: black; font: helvetica; font-size: 100%; background-color: #FFFFFF;}
+td.topbar-line2 {padding: 0; padding: 3; font: helvetica; font-size: 100%; color: #0373A4; background-color: #C7EAFB;}
+td.topbar-line2-right {text-align: right; padding: 0; padding: 3; font: helvetica; font-size: 100%; color: #0373A4; background-color: #C7EAFB;}
+td.topbar-right {text-align: right; padding: 0; color: blue; font: helvetica; font-size: 100%;  background-color: #40B7D3;}
+span.right {text-align: right; background-color: #E0FFFF}
+</style></head>
+<body >
+<table width=100% class=topbar cellspacing=0><tr class=topbar></td><td class=topbar width=100% ><table cellspacing=0 class=topbar width=100%><tr class=topbar><td class=topbar >US Chess Federation - Member Services Area</td><td class=topbar-right >
+<a class=topbar-line1 href=http://main.uschess.org/content/blogcategory/30/319>Press</a>
+<a class=topbar-line1 href=http://main.uschess.org/content/view/7850/385>Advertising</a>
+<a class=topbar-line1 href=http://main.uschess.org/content/blogsection/12/35>About the USCF</a>
+<a class=topbar-line1 href=http://main.uschess.org/component/option,com_wrapper/Itemid,327>Contact Us</a></td></tr>
+</table></td></tr>
+
+<tr class=topbar>
+<td class=topbar-line2>
+<a class=topbar-line2 href=http://www.uschess.org>Return to USCF Home Page</a>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp;&nbsp;&nbsp;&nbsp;
+<a class=topbar-line2 href=Index.php>MSA Home</a>
+<a class=topbar-line2 href=http://www.uschess.org/datapage/player-search.php>Members</a>
+<a class=topbar-line2 href=AffLst.php>Affiliates</a>
+<a class=topbar-line2 href=http://www.uschess.org/datapage/event-search.php>Tournaments</a>
+<a class=topbar-line2 href=HelpTxt.php>Help</a>
+</td></tr>
+<tr class=topbar><td class=topbar-middle>
+<center>
+<table border=0 valign=top>
+
+<form method=post action=AffDtlMain.php>
+
+&nbsp;
+<p>
+<table border=1 bgcolor=FFFFFF cellpadding=0 cellspacing=0>
+<tr>
+<td>
+<table border=0 bgcolor=FFFFFF width=800 cellpadding=3 cellspacing=0>
+
+<tr>
+<td colspan=3 bgcolor=DDDDDD align=center>
+<b>Event Summary</b>
+</td>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Event
+</td>
+<td width=1 rowspan=10></td>
+<td>
+<b>CSCS FEBRUARY 2012</b> &nbsp;<small>(201202113332)</small>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE>
+Location
+</td>
+<td>
+<b>CINCINNATI, OH &nbsp;45242 &nbsp;</b>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE>
+Event Date(s)
+</td>
+<td>
+<b>2012-02-11 </b>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE>
+Sponsoring Affiliate
+</td>
+<td>
+<b><a href=http://msa.uschess.org/AffDtlMain.php?A6016203>CINCINNATI SCHOLASTIC CHESS</a></b> &nbsp;<small>(A6016203)</small>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE>
+Chief&nbsp; TD
+</td>
+<td>
+<b>ALAN HODGE</b> &nbsp;<small>(12620838)</small>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE>
+Chf. Assist. TD
+</td>
+<td>
+<b>KEITH BRACKENRIDGE</b> &nbsp;<small>(12559520)</small>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE>
+Processed
+</td>
+<td>
+<b>Received: 2012-02-11 &nbsp; Entered: 2012-02-11 &nbsp; Rated: 2012-02-11</b>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE valign=top>
+Stats
+</td>
+<td>
+<b>5 Section(s),&nbsp; 54 Players</b>
+<br><font color=blue>The ratings shown on this page are not official published ratings and may change from time to time.  Using them for pairing purposes in tournaments should only be done if this has been advertised in all advance publicity and is announced to all players at the tournament.</font>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table border=0 bgcolor=FFFFFF width=800 cellpadding=3 cellspacing=0>
+
+<tr>
+<td colspan=6 bgcolor=DDDDDD align=center>
+<b>Sections</b>
+</td>
+<tr bgcolor=EEEEEE>
+<td width=70 align=center valign=middle>
+<font color=A00000>
+<b><i>HINT:</I.</b>
+</font>
+</td>
+<td width=1></td>
+<td>
+<font color=A00000><b>
+&nbsp; * Click on a Section Name to see the cross table for that Section, &nbsp;<i>or</i>
+<br>
+&nbsp; * Click on "Show All Sections" to see the cross tables for all sections at once.
+<br>
+</b></font>
+</td>
+</tr>
+
+<tr>
+<td width=80 bgcolor=EEEEEE>
+Section 1
+</td>
+<td width=1></td>
+<td>
+<a href=XtblMain.php?201202113332.1><b>K-12 OPEN</b></a>
+</td>
+</tr>
+
+<tr>
+<td width=80 bgcolor=EEEEEE>
+Section 2
+</td>
+<td width=1></td>
+<td>
+<a href=XtblMain.php?201202113332.2><b>7-12 U1100</b></a>
+</td>
+</tr>
+
+<tr>
+<td width=80 bgcolor=EEEEEE>
+Section 3
+</td>
+<td width=1></td>
+<td>
+<a href=XtblMain.php?201202113332.3><b>K-6 OPEN</b></a>
+</td>
+</tr>
+
+<tr>
+<td width=80 bgcolor=EEEEEE>
+Section 4
+</td>
+<td width=1></td>
+<td>
+<a href=XtblMain.php?201202113332.4><b>K-6 U800</b></a>
+</td>
+</tr>
+
+<tr>
+<td width=80 bgcolor=EEEEEE>
+Section 5
+</td>
+<td width=1></td>
+<td>
+<a href=XtblMain.php?201202113332.5><b>K-3 U500</b></a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p>
+<a anchor="Section1"></a>
+<p>
+<table border=1 bgcolor=FFFFFF cellpadding=0 cellspacing=0>
+<tr>
+<td>
+<table border=0 width=800 bgcolor=FFFFFF  cellpadding=3 cellspacing=0>
+<tr>
+<td colspan=3 align=center bgcolor=DDDDFF>
+<b>Section 1 - K-12 OPEN</b>
+</td>
+</tr>
+
+<tr>
+<td width=120 bgcolor=EEEEEE>
+Section Date(s)
+</td>
+<td width=1></td>
+<td>
+<b>2012-02-11</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Processed
+</td>
+<td width=1></td>
+<td>
+<b>Received: 2012-02-11 &nbsp; Entered: 2012-02-11 &nbsp; Rated: 2012-02-11 Re-Rated: 2014-03-19</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Stats
+</td>
+<td width=1></td>
+<td>
+<b>4 Rounds,&nbsp; 10 Players;  &nbsp;K Factor: F  &nbsp;Rating Sys: D  &nbsp;Tnmt Type: S  <br>Time Control: G/45;d5</b>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan=3>
+<pre>
+-----------------------------------------------------------------------
+<i> * Click on a Pairing Number to see the Player's Opponents.
+ * Click on a Player's Name for more information about the Player.</i>
+<font size=+2>Crosstable data is <b>not</b> shown in tiebreak order and <font color=red ><b><i>does NOT reflect <br>any distribution of trophies or prize monies.</font></font></b></i><a href=http://www.uschess.org/msa/FAQ.php>(See Frequent Questions)</a>
+<i>Crosstable data is shown as reported to the USCF by the Tournament Director.  <br>Please contact the TD to report any crosstable errors.</i>
+Note:  The information below the "Total Pts" score shows the highest norm earned in this event.<br>For more information on norms, see <a href=http://www.glicko.net/ratings/titles.pdf>The USCF Title System</a>.
+-----------------------------------------------------------------------
+ Pair | Player Name                     |Total|Round|Round|Round|Round| 
+ Num  | USCF ID / Rtg (Pre->Post)       | Pts |  1  |  2  |  3  |  4  | 
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201202113332-001-13758563>1</a> | <a href=MbrDtlMain.php?13758563>ANAGH KULKARNI</a>                  |3.5  |W  10|W   6|D   2|W   5|
+   OH | 13758563 / R: 1674   ->1673     |N:4  |     |     |     |     |
+      |            Q: 1626   ->1635     |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201202113332-001-13646404>2</a> | <a href=MbrDtlMain.php?13646404>MILES KEATING-ADAMS</a>             |3.5  |W   3|W   5|D   1|W   4|
+   OH | 13646404 / R: 1539   ->1558     |N:4  |     |     |     |     |
+      |            Q: 1683   ->1685     |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201202113332-001-14564645>3</a> | <a href=MbrDtlMain.php?14564645>ANDREW YANG</a>                     |2.5  |L   2|W  10|D   4|W   8|
+   OH | 14564645 / R: 1136   ->1194     |     |     |     |     |     |
+      |            Q: 1104   ->1167     |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201202113332-001-14736605>4</a> | <a href=MbrDtlMain.php?14736605>MAXIMILLIAN GUO</a>                 |2.5  |W   8|W   9|D   3|L   2|
+   OH | 14736605 / R:  978   ->1117     |     |     |     |     |     |
+      |            Q:  853P12->1035P16  |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201202113332-001-14485513>5</a> | <a href=MbrDtlMain.php?14485513>PATRICK JOHN CARROLL</a>            |2.0  |W   9|L   2|W   6|L   1|
+   OH | 14485513 / R: 1085   ->1177     |     |     |     |     |     |
+      |            Q: 1089   ->1179     |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201202113332-001-14611628>6</a> | <a href=MbrDtlMain.php?14611628>SPENCER TANI</a>                    |2.0  |W   7|L   1|L   5|W  10|
+   OH | 14611628 / R: 1121   ->1177     |     |     |     |     |     |
+      |            Q: 1167P22->1199     |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201202113332-001-13630214>7</a> | <a href=MbrDtlMain.php?13630214>ASHWIN KALYANAKUMAR</a>             |1.5  |L   6|L   8|D  10|W   9|
+   OH | 13630214 / R: 1283   ->1232     |     |     |     |     |     |
+      |            Q: 1221   ->1179     |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201202113332-001-14571568>8</a> | <a href=MbrDtlMain.php?14571568>SAWYER SCHEER</a>                   |1.5  |L   4|W   7|D   9|L   3|
+   OH | 14571568 / R: 1032P22->1046     |     |     |     |     |     |
+      |            Q: 1003   ->1011     |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201202113332-001-14364346>9</a> | <a href=MbrDtlMain.php?14364346>JACOB EISMANN</a>                   |0.5  |L   5|L   4|D   8|L   7|
+   OH | 14364346 / R: 1256   ->1171     |     |     |     |     |     |
+      |            Q: 1218   ->1130     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201202113332-001-14186911>10</a> | <a href=MbrDtlMain.php?14186911>CODY FAN</a>                        |0.5  |L   1|L   3|D   7|L   6|
+   OH | 14186911 / R: 1210   ->1163     |     |     |     |     |     |
+      |            Q: 1236   ->1181     |     |     |     |     |     |
+-----------------------------------------------------------------------
+Note:  Performances satisfying the requirements for norms are now being shown for events in the *Total Pts* column.<br>It may take a week for a recently rated event to have norms computed for it.
+</pre>
+</td>
+</tr>
+</table>
+<p>
+<a anchor="Section2"></a>
+<p>
+<table border=1 bgcolor=FFFFFF cellpadding=0 cellspacing=0>
+<tr>
+<td>
+<table border=0 width=800 bgcolor=FFFFFF  cellpadding=3 cellspacing=0>
+<tr>
+<td colspan=3 align=center bgcolor=DDDDFF>
+<b>Section 2 - 7-12 U1100</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Chf. Asst. TD
+</td>
+<td width=1></td>
+<td>
+<b>DOUGLAS DYSART</b> &nbsp;<small>(12568519)</small>
+</td>
+</tr>
+
+<tr>
+<td width=120 bgcolor=EEEEEE>
+Section Date(s)
+</td>
+<td width=1></td>
+<td>
+<b>2012-02-11</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Processed
+</td>
+<td width=1></td>
+<td>
+<b>Received: 2012-02-11 &nbsp; Entered: 2012-02-11 &nbsp; Rated: 2012-02-11 Re-Rated: 2012-05-01</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Stats
+</td>
+<td width=1></td>
+<td>
+<b>4 Rounds,&nbsp; 7 Players;  &nbsp;K Factor: F  &nbsp;Rating Sys: D  &nbsp;Tnmt Type: S  <br>Time Control: G/30;d5</b>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan=3>
+<pre>
+-----------------------------------------------------------------------
+<i> * Click on a Pairing Number to see the Player's Opponents.
+ * Click on a Player's Name for more information about the Player.</i>
+<font size=+2>Crosstable data is <b>not</b> shown in tiebreak order and <font color=red ><b><i>does NOT reflect <br>any distribution of trophies or prize monies.</font></font></b></i><a href=http://www.uschess.org/msa/FAQ.php>(See Frequent Questions)</a>
+<i>Crosstable data is shown as reported to the USCF by the Tournament Director.  <br>Please contact the TD to report any crosstable errors.</i>
+Note:  The information below the "Total Pts" score shows the highest norm earned in this event.<br>For more information on norms, see <a href=http://www.glicko.net/ratings/titles.pdf>The USCF Title System</a>.
+-----------------------------------------------------------------------
+ Pair | Player Name                     |Total|Round|Round|Round|Round| 
+ Num  | USCF ID / Rtg (Pre->Post)       | Pts |  1  |  2  |  3  |  4  | 
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201202113332-002-13771714>1</a> | <a href=MbrDtlMain.php?13771714>STEPHEN LIAO</a>                    |3.5  |W   6|W   2|W   3|D   4|
+   OH | 13771714 / R: 1013   ->1033     |     |     |     |     |     |
+      |            Q: 1024   ->1036     |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201202113332-002-13674241>2</a> | <a href=MbrDtlMain.php?13674241>TIMOTHY ROBERT BAY</a>              |3.0  |W   4|L   1|W   5|W   7|
+   OH | 13674241 / R:  809   -> 879     |     |     |     |     |     |
+      |            Q:  787   -> 862     |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201202113332-002-14845517>3</a> | <a href=MbrDtlMain.php?14845517>CHARLIE OWEN HOFFMANN</a>           |2.5  |B    |W   7|L   1|D   5|
+   OH | 14845517 / R: Unrated-> 822P3   |     |     |     |     |     |
+      |            Q: Unrated-> 810P3   |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201202113332-002-13776328>4</a> | <a href=MbrDtlMain.php?13776328>CONNOR BRYCE ELLINGSON</a>          |2.5  |L   2|B    |W   6|D   1|
+   OH | 13776328 / R:  433   -> 589     |     |     |     |     |     |
+      |            Q:  420   -> 578     |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201202113332-002-13893885>5</a> | <a href=MbrDtlMain.php?13893885>CONNOR RAYMOND WEEKS</a>            |1.5  |D   7|D   6|L   2|D   3|
+   OH | 13893885 / R:  906   -> 844     |     |     |     |     |     |
+      |            Q:  876   -> 817     |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201202113332-002-14429763>6</a> | <a href=MbrDtlMain.php?14429763>GABRIELLE EISMANN</a>               |1.5  |L   1|D   5|L   4|B    |
+   OH | 14429763 / R:  779   -> 729     |     |     |     |     |     |
+      |            Q:  775   -> 723     |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201202113332-002-14780504>7</a> | <a href=MbrDtlMain.php?14780504>JOSHUA PYLE</a>                     |1.5  |D   5|L   3|B    |L   2|
+   OH | 14780504 / R:  615P7 -> 606P10  |     |     |     |     |     |
+      |            Q:  598P7 -> 589P10  |     |     |     |     |     |
+-----------------------------------------------------------------------
+Note:  Performances satisfying the requirements for norms are now being shown for events in the *Total Pts* column.<br>It may take a week for a recently rated event to have norms computed for it.
+</pre>
+</td>
+</tr>
+</table>
+<p>
+<a anchor="Section3"></a>
+<p>
+<table border=1 bgcolor=FFFFFF cellpadding=0 cellspacing=0>
+<tr>
+<td>
+<table border=0 width=800 bgcolor=FFFFFF  cellpadding=3 cellspacing=0>
+<tr>
+<td colspan=3 align=center bgcolor=DDDDFF>
+<b>Section 3 - K-6 OPEN</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Chf. Asst. TD
+</td>
+<td width=1></td>
+<td>
+<b>DOUGLAS DYSART</b> &nbsp;<small>(12568519)</small>
+</td>
+</tr>
+
+<tr>
+<td width=120 bgcolor=EEEEEE>
+Section Date(s)
+</td>
+<td width=1></td>
+<td>
+<b>2012-02-11</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Processed
+</td>
+<td width=1></td>
+<td>
+<b>Received: 2012-02-11 &nbsp; Entered: 2012-02-11 &nbsp; Rated: 2012-02-11 Re-Rated: 2013-12-27</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Stats
+</td>
+<td width=1></td>
+<td>
+<b>4 Rounds,&nbsp; 8 Players;  &nbsp;K Factor: F  &nbsp;Rating Sys: D  &nbsp;Tnmt Type: S  <br>Time Control: G/30;d5</b>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan=3>
+<pre>
+-----------------------------------------------------------------------
+<i> * Click on a Pairing Number to see the Player's Opponents.
+ * Click on a Player's Name for more information about the Player.</i>
+<font size=+2>Crosstable data is <b>not</b> shown in tiebreak order and <font color=red ><b><i>does NOT reflect <br>any distribution of trophies or prize monies.</font></font></b></i><a href=http://www.uschess.org/msa/FAQ.php>(See Frequent Questions)</a>
+<i>Crosstable data is shown as reported to the USCF by the Tournament Director.  <br>Please contact the TD to report any crosstable errors.</i>
+Note:  The information below the "Total Pts" score shows the highest norm earned in this event.<br>For more information on norms, see <a href=http://www.glicko.net/ratings/titles.pdf>The USCF Title System</a>.
+-----------------------------------------------------------------------
+ Pair | Player Name                     |Total|Round|Round|Round|Round| 
+ Num  | USCF ID / Rtg (Pre->Post)       | Pts |  1  |  2  |  3  |  4  | 
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201202113332-003-14151962>1</a> | <a href=MbrDtlMain.php?14151962>SOPHIE M STEFANSKI</a>              |4.0  |W   3|W   5|W   2|W   7|
+   OH | 14151962 / R: 1156   ->1230     |     |     |     |     |     |
+      |            Q: 1156   ->1228     |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201202113332-003-13675250>2</a> | <a href=MbrDtlMain.php?13675250>NATE RISING</a>                     |3.0  |W   8|W   4|L   1|W   5|
+   OH | 13675250 / R:  931   ->1036     |     |     |     |     |     |
+      |            Q:  912   ->1024     |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201202113332-003-14506710>3</a> | <a href=MbrDtlMain.php?14506710>MARSHALL SPICER</a>                 |3.0  |L   1|W   8|W   4|W   6|
+   OH | 14506710 / R:  929   ->1008     |     |     |     |     |     |
+      |            Q:  926   ->1005     |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201202113332-003-14346637>4</a> | <a href=MbrDtlMain.php?14346637>KEVIN ZHU</a>                       |2.0  |W   7|L   2|L   3|W   8|
+   OH | 14346637 / R: 1038   ->1000     |     |     |     |     |     |
+      |            Q: 1035   -> 997     |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201202113332-003-14561583>5</a> | <a href=MbrDtlMain.php?14561583>ELLISON GRACE VAN SCOY</a>          |2.0  |W   6|L   1|W   7|L   2|
+   OH | 14561583 / R: 1010   -> 993     |     |     |     |     |     |
+      |            Q: 1001   -> 985     |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201202113332-003-14563250>6</a> | <a href=MbrDtlMain.php?14563250>SPENSER MARSHALL SHUEY</a>          |1.0  |L   5|L   7|W   8|L   3|
+   OH | 14563250 / R:  847P24-> 792     |     |     |     |     |     |
+      |            Q:  848P24-> 792     |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201202113332-003-14706020>7</a> | <a href=MbrDtlMain.php?14706020>EDWARD CHIEN</a>                    |1.0  |L   4|W   6|L   5|L   1|
+   OH | 14706020 / R:  620P15-> 664P19  |     |     |     |     |     |
+      |            Q:  617P15-> 661P19  |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201202113332-003-14404605>8</a> | <a href=MbrDtlMain.php?14404605>KALPAK DUDDELLA</a>                 |0.0  |L   2|L   3|L   6|L   4|
+   OH | 14404605 / R:  714   -> 667     |     |     |     |     |     |
+      |            Q:  712   -> 664     |     |     |     |     |     |
+-----------------------------------------------------------------------
+Note:  Performances satisfying the requirements for norms are now being shown for events in the *Total Pts* column.<br>It may take a week for a recently rated event to have norms computed for it.
+</pre>
+</td>
+</tr>
+</table>
+<p>
+<a anchor="Section4"></a>
+<p>
+<table border=1 bgcolor=FFFFFF cellpadding=0 cellspacing=0>
+<tr>
+<td>
+<table border=0 width=800 bgcolor=FFFFFF  cellpadding=3 cellspacing=0>
+<tr>
+<td colspan=3 align=center bgcolor=DDDDFF>
+<b>Section 4 - K-6 U800</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Chf. Asst. TD
+</td>
+<td width=1></td>
+<td>
+<b>DUANE E LARKIN</b> &nbsp;<small>(12478587)</small>
+</td>
+</tr>
+
+<tr>
+<td width=120 bgcolor=EEEEEE>
+Section Date(s)
+</td>
+<td width=1></td>
+<td>
+<b>2012-02-11</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Processed
+</td>
+<td width=1></td>
+<td>
+<b>Received: 2012-02-11 &nbsp; Entered: 2012-02-11 &nbsp; Rated: 2012-02-11 Re-Rated: 2013-04-09</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Stats
+</td>
+<td width=1></td>
+<td>
+<b>4 Rounds,&nbsp; 16 Players;  &nbsp;K Factor: F  &nbsp;Rating Sys: D  &nbsp;Tnmt Type: S  <br>Time Control: G/30;d5</b>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan=3>
+<pre>
+-----------------------------------------------------------------------
+<i> * Click on a Pairing Number to see the Player's Opponents.
+ * Click on a Player's Name for more information about the Player.</i>
+<font size=+2>Crosstable data is <b>not</b> shown in tiebreak order and <font color=red ><b><i>does NOT reflect <br>any distribution of trophies or prize monies.</font></font></b></i><a href=http://www.uschess.org/msa/FAQ.php>(See Frequent Questions)</a>
+<i>Crosstable data is shown as reported to the USCF by the Tournament Director.  <br>Please contact the TD to report any crosstable errors.</i>
+Note:  The information below the "Total Pts" score shows the highest norm earned in this event.<br>For more information on norms, see <a href=http://www.glicko.net/ratings/titles.pdf>The USCF Title System</a>.
+-----------------------------------------------------------------------
+ Pair | Player Name                     |Total|Round|Round|Round|Round| 
+ Num  | USCF ID / Rtg (Pre->Post)       | Pts |  1  |  2  |  3  |  4  | 
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201202113332-004-14269482>1</a> | <a href=MbrDtlMain.php?14269482>DREW WALLACE BROWN</a>              |3.5  |W  16|W  10|D   6|W   4|
+   OH | 14269482 / R:  784   -> 840     |     |     |     |     |     |
+      |            Q:  809   -> 856     |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201202113332-004-14100478>2</a> | <a href=MbrDtlMain.php?14100478>KYLE BRACKENRIDGE</a>               |3.0  |L   6|W  13|W   8|W  10|
+   OH | 14100478 / R:  758   -> 765     |     |     |     |     |     |
+      |            Q:  761   -> 768     |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201202113332-004-13912378>3</a> | <a href=MbrDtlMain.php?13912378>NATHANAEL B MOORE</a>               |3.0  |L  11|W  16|W   9|W   6|
+   IN | 13912378 / R:  762   -> 758     |     |     |     |     |     |
+      |            Q:  760   -> 757     |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201202113332-004-14847060>4</a> | <a href=MbrDtlMain.php?14847060>DANIEL G FRANK</a>                  |3.0  |W  13|W   8|W  11|L   1|
+   OH | 14847060 / R: Unrated-> 744P4   |     |     |     |     |     |
+      |            Q: Unrated-> 747P4   |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201202113332-004-14314171>5</a> | <a href=MbrDtlMain.php?14314171>JONATHAN HARSH</a>                  |3.0  |W  14|L   6|W   7|W  11|
+   OH | 14314171 / R:  652   -> 717     |     |     |     |     |     |
+      |            Q:  650   -> 717     |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201202113332-004-14844280>6</a> | <a href=MbrDtlMain.php?14844280>MICHAEL ALEXANDER BARRESI</a>       |2.5  |W   2|W   5|D   1|L   3|
+   OH | 14844280 / R: Unrated-> 863P4   |     |     |     |     |     |
+      |            Q: Unrated-> 867P4   |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201202113332-004-14151846>7</a> | <a href=MbrDtlMain.php?14151846>RICHARD DING</a>                    |2.0  |L   8|W  12|L   5|W  14|
+   OH | 14151846 / R:  778   -> 715     |     |     |     |     |     |
+      |            Q:  778   -> 715     |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201202113332-004-14268342>8</a> | <a href=MbrDtlMain.php?14268342>ANDREW D BROWN</a>                  |2.0  |W   7|L   4|L   2|W  12|
+   OH | 14268342 / R:  406P13-> 537P17  |     |     |     |     |     |
+      |            Q:  397P13-> 533P17  |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201202113332-004-14811645>9</a> | <a href=MbrDtlMain.php?14811645>EVAN BOND</a>                       |2.0  |L  10|W  14|L   3|W  15|
+   OH | 14811645 / R:  497P4 -> 460P8   |     |     |     |     |     |
+      |            Q:  505P4 -> 464P8   |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201202113332-004-14758240>10</a> | <a href=MbrDtlMain.php?14758240>JOSEPH KELLER</a>                   |2.0  |W   9|L   1|W  15|L   2|
+   OH | 14758240 / R:  378P12-> 445P16  |     |     |     |     |     |
+      |            Q:  378P12-> 447P16  |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201202113332-004-13790358>11</a> | <a href=MbrDtlMain.php?13790358>PIERCE LUKE ELLINGSON</a>           |2.0  |W   3|W  15|L   4|L   5|
+   OH | 13790358 / R:  223P14-> 368P18  |     |     |     |     |     |
+      |            Q:  222P14-> 367P18  |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201202113332-004-14651322>12</a> | <a href=MbrDtlMain.php?14651322>GAVIN JOHN VAN SCOY</a>             |1.5  |D  15|L   7|W  13|L   8|
+   OH | 14651322 / R:  505   -> 461     |     |     |     |     |     |
+      |            Q:  505   -> 461     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201202113332-004-14592366>13</a> | <a href=MbrDtlMain.php?14592366>LUCAS B BUTLER</a>                  |1.0  |L   4|L   2|L  12|W  16|
+   OH | 14592366 / R:  438   -> 408     |     |     |     |     |     |
+      |            Q:  436   -> 407     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201202113332-004-14843113>14</a> | <a href=MbrDtlMain.php?14843113>CARLO BRONZIE</a>                   |1.0  |L   5|L   9|W  16|L   7|
+   OH | 14843113 / R: Unrated-> 351P4   |     |     |     |     |     |
+      |            Q: Unrated-> 352P4   |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201202113332-004-14840615>15</a> | <a href=MbrDtlMain.php?14840615>ELLEN S QIAN</a>                    |0.5  |D  12|L  11|L  10|L   9|
+   TX | 14840615 / R: Unrated-> 140P4   |     |     |     |     |     |
+      |            Q: Unrated-> 141P4   |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201202113332-004-14494721>16</a> | <a href=MbrDtlMain.php?14494721>WEIHUAN SHI</a>                     |0.0  |L   1|L   3|L  14|L  13|
+   OH | 14494721 / R:  391   -> 317     |     |     |     |     |     |
+      |            Q:  393   -> 319     |     |     |     |     |     |
+-----------------------------------------------------------------------
+Note:  Performances satisfying the requirements for norms are now being shown for events in the *Total Pts* column.<br>It may take a week for a recently rated event to have norms computed for it.
+</pre>
+</td>
+</tr>
+</table>
+<p>
+<a anchor="Section5"></a>
+<p>
+<table border=1 bgcolor=FFFFFF cellpadding=0 cellspacing=0>
+<tr>
+<td>
+<table border=0 width=800 bgcolor=FFFFFF  cellpadding=3 cellspacing=0>
+<tr>
+<td colspan=3 align=center bgcolor=DDDDFF>
+<b>Section 5 - K-3 U500</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Chief TD
+</td>
+<td width=1></td>
+<td>
+<b>ROLLIN G GIFFIN</b> &nbsp;<small>(14029955)</small>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Chf. Asst. TD
+</td>
+<td width=1></td>
+<td>
+<b>DUANE E LARKIN</b> &nbsp;<small>(12478587)</small>
+</td>
+</tr>
+
+<tr>
+<td width=120 bgcolor=EEEEEE>
+Section Date(s)
+</td>
+<td width=1></td>
+<td>
+<b>2012-02-11</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Processed
+</td>
+<td width=1></td>
+<td>
+<b>Received: 2012-02-11 &nbsp; Entered: 2012-02-11 &nbsp; Rated: 2012-02-11 Re-Rated: 2012-02-15</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Stats
+</td>
+<td width=1></td>
+<td>
+<b>4 Rounds,&nbsp; 13 Players;  &nbsp;K Factor: F  &nbsp;Rating Sys: D  &nbsp;Tnmt Type: S  <br>Time Control: G/30;d5</b>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan=3>
+<pre>
+-----------------------------------------------------------------------
+<i> * Click on a Pairing Number to see the Player's Opponents.
+ * Click on a Player's Name for more information about the Player.</i>
+<font size=+2>Crosstable data is <b>not</b> shown in tiebreak order and <font color=red ><b><i>does NOT reflect <br>any distribution of trophies or prize monies.</font></font></b></i><a href=http://www.uschess.org/msa/FAQ.php>(See Frequent Questions)</a>
+<i>Crosstable data is shown as reported to the USCF by the Tournament Director.  <br>Please contact the TD to report any crosstable errors.</i>
+Note:  The information below the "Total Pts" score shows the highest norm earned in this event.<br>For more information on norms, see <a href=http://www.glicko.net/ratings/titles.pdf>The USCF Title System</a>.
+-----------------------------------------------------------------------
+ Pair | Player Name                     |Total|Round|Round|Round|Round| 
+ Num  | USCF ID / Rtg (Pre->Post)       | Pts |  1  |  2  |  3  |  4  | 
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201202113332-005-14751053>1</a> | <a href=MbrDtlMain.php?14751053>WES ELLIS GARDNER</a>               |4.0  |W  11|W   8|W   2|W   3|
+   OH | 14751053 / R:  466P11-> 617P15  |     |     |     |     |     |
+      |            Q:  466P11-> 617P15  |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201202113332-005-14751068>2</a> | <a href=MbrDtlMain.php?14751068>LUKE AIDAN MALLOY</a>               |3.0  |W   9|W   4|L   1|W   8|
+   OH | 14751068 / R:  379P12-> 497P16  |     |     |     |     |     |
+      |            Q:  380P12-> 498P16  |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201202113332-005-14734175>3</a> | <a href=MbrDtlMain.php?14734175>NOAH LIN</a>                        |3.0  |W  12|W  13|W   5|L   1|
+   OH | 14734175 / R:  348P8 -> 394P12  |     |     |     |     |     |
+      |            Q:  348P8 -> 394P12  |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201202113332-005-14810731>4</a> | <a href=MbrDtlMain.php?14810731>JONATHAN R COOPER</a>               |2.5  |W  10|L   2|W   9|D   6|
+   OH | 14810731 / R: Unrated-> 396P4   |     |     |     |     |     |
+      |            Q: Unrated-> 396P4   |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201202113332-005-14795507>5</a> | <a href=MbrDtlMain.php?14795507>RITHVIK N KILAPARTHI</a>            |2.5  |W   6|D   7|L   3|W  10|
+   OH | 14795507 / R:  323P7 -> 342P11  |     |     |     |     |     |
+      |            Q:  323P7 -> 342P11  |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201202113332-005-14847226>6</a> | <a href=MbrDtlMain.php?14847226>ELIJAH T WYATT</a>                  |2.5  |L   5|W  10|W  13|D   4|
+   OH | 14847226 / R: Unrated-> 336P4   |     |     |     |     |     |
+      |            Q: Unrated-> 337P4   |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201202113332-005-14743320>7</a> | <a href=MbrDtlMain.php?14743320>QUINTON OLIVER BROWN</a>            |2.5  |L   8|D   5|W  12|W  11|
+   OH | 14743320 / R:  247P12-> 276P16  |     |     |     |     |     |
+      |            Q:  248P12-> 277P16  |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201202113332-005-14847232>8</a> | <a href=MbrDtlMain.php?14847232>ROBERTO LIGERALDE</a>               |2.0  |W   7|L   1|W  11|L   2|
+   OH | 14847232 / R: Unrated-> 368P4   |     |     |     |     |     |
+      |            Q: Unrated-> 368P4   |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?201202113332-005-14835690>9</a> | <a href=MbrDtlMain.php?14835690>LUCAS MOODY</a>                     |2.0  |L   2|W  12|L   4|W  13|
+   OH | 14835690 / R: Unrated-> 277P4   |     |     |     |     |     |
+      |            Q: Unrated-> 277P4   |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201202113332-005-14611168>10</a> | <a href=MbrDtlMain.php?14611168>NATHAN RYNE HICKMAN</a>             |1.0  |L   4|L   6|B    |L   5|
+   OH | 14611168 / R:  105P17-> 106P20  |     |     |     |     |     |
+      |            Q:  105P17-> 106P20  |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201202113332-005-14810725>11</a> | <a href=MbrDtlMain.php?14810725>DANIEL M COOPER</a>                 |1.0  |L   1|B    |L   8|L   7|
+   OH | 14810725 / R:  101P3 -> 102P6   |     |     |     |     |     |
+      |            Q:  101P3 -> 102P6   |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201202113332-005-14847205>12</a> | <a href=MbrDtlMain.php?14847205>SOPHIA E CHABRIS</a>                |1.0  |L   3|L   9|L   7|B    |
+   OH | 14847205 / R: Unrated-> 101P3   |     |     |     |     |     |
+      |            Q: Unrated-> 101P3   |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?201202113332-005-14847211>13</a> | <a href=MbrDtlMain.php?14847211>CHRISTOPHER R CHABRIS</a>           |1.0  |B    |L   3|L   6|L   9|
+   OH | 14847211 / R: Unrated-> 101P3   |     |     |     |     |     |
+      |            Q: Unrated-> 101P3   |     |     |     |     |     |
+-----------------------------------------------------------------------
+Note:  Performances satisfying the requirements for norms are now being shown for events in the *Total Pts* column.<br>It may take a week for a recently rated event to have norms computed for it.
+</pre>
+</td>
+</tr>
+</table>
+</table>
+</form>
+&nbsp;
+<p>
+<hr>
+<p>
+<center>
+<p>
+<p>
+<font size=-1>
+Session  / 0
+<br>Version 1.00b / 2003-10-16
+</font>
+<br>
+<font size=-1>
+<i>
+USCF Member Services Area - Copyright 2002-2012 by the <a href="http://www.USChess.org">US Chess Federation</a> -  All Rights Reserved
+<br><a href="http://msa.uschess.org/FAQ.php">Frequently Asked Questions</a>
+<br>Report problems to <a href="mailto:msafeedback@uschess.org">msafeedback@uschess.org</a>
+<br><a href="http://www.USChess.org">Return to USCF Home Page</a>
+</i>
+</font>
+</center>
+<p>
+<hr>
+<p>
+</body>
+</html>

@@ -1,0 +1,969 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+<title>USCF MSA - Cross Table for KSCC 01/07/2012 (Event 201201077722)</title>
+<style type='text/css'>
+body {margin-left: 10; margin-right: 10; margin-top: 0; margin-bottom: 0;  background-color: #40B7D3; min-width: 800px;}
+td {font: helvetica; color: black; font-size: 100%;}
+input {font: helvetica; font-size: 100%; color: black; font-weight: bold; padding-left: 4;}
+input.submit_debug {font: helvetica; font-size: 10pt; color: red; font-weight: normal; background-color: #BFBFBF;}
+input.submit {font: helvetica; font-size: 10pt; color: black; font-weight: normal; background-color: #BFBFBF;}
+input.submit_dis {font: helvetica; font-size: 10pt; color: grey; background-color: #BFBFBF;}
+select {font: helvetica; font-size: 10pt;  color: brown}
+a.topbar-line1 {font: helvetica; font-size: 100%; color: white; text-decoration: none; padding-left: 10;}
+a.topbar-line2 {font: helvetica; font-size: 100%; color: #0373A4; text-decoration: underline; padding-left: 10;}
+/* a {font: helvetica; font-size: 100%; color: black; text-decoration: none; padding-left: 10;} */
+
+/*  table {border: 2px solid red; margin: 0px;}
+td{border: 1px dotted purple; padding: 2px; } */
+
+table.topbar {border-style: none; border-width: 0; border: 0; margin: 0; padding: 0; cell-padding: 0; background-color: #40B7D3;}
+tr.topbar {padding: 5;  margin-top: 5; margin-bottom: 5; background-color: #40B7D3; }
+td.topbar {padding: 3; color: white; font: helvetica; font-size: 100%; font-weight: bold;}
+td.topbar-side {padding: 0; color: black; font: helvetica; font-size: 100%; background-color: #FFFFFF;}
+td.topbar-middle {padding: 0; color: black; font: helvetica; font-size: 100%; background-color: #FFFFFF;}
+td.topbar-line2 {padding: 0; padding: 3; font: helvetica; font-size: 100%; color: #0373A4; background-color: #C7EAFB;}
+td.topbar-line2-right {text-align: right; padding: 0; padding: 3; font: helvetica; font-size: 100%; color: #0373A4; background-color: #C7EAFB;}
+td.topbar-right {text-align: right; padding: 0; color: blue; font: helvetica; font-size: 100%;  background-color: #40B7D3;}
+span.right {text-align: right; background-color: #E0FFFF}
+</style></head>
+<body >
+<table width=100% class=topbar cellspacing=0><tr class=topbar></td><td class=topbar width=100% ><table cellspacing=0 class=topbar width=100%><tr class=topbar><td class=topbar >US Chess Federation - Member Services Area</td><td class=topbar-right >
+<a class=topbar-line1 href=http://main.uschess.org/content/blogcategory/30/319>Press</a>
+<a class=topbar-line1 href=http://main.uschess.org/content/view/7850/385>Advertising</a>
+<a class=topbar-line1 href=http://main.uschess.org/content/blogsection/12/35>About the USCF</a>
+<a class=topbar-line1 href=http://main.uschess.org/component/option,com_wrapper/Itemid,327>Contact Us</a></td></tr>
+</table></td></tr>
+
+<tr class=topbar>
+<td class=topbar-line2>
+<a class=topbar-line2 href=http://www.uschess.org>Return to USCF Home Page</a>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp;&nbsp;&nbsp;&nbsp;
+<a class=topbar-line2 href=Index.php>MSA Home</a>
+<a class=topbar-line2 href=http://www.uschess.org/datapage/player-search.php>Members</a>
+<a class=topbar-line2 href=AffLst.php>Affiliates</a>
+<a class=topbar-line2 href=http://www.uschess.org/datapage/event-search.php>Tournaments</a>
+<a class=topbar-line2 href=HelpTxt.php>Help</a>
+</td></tr>
+<tr class=topbar><td class=topbar-middle>
+<center>
+<table border=0 valign=top>
+
+<form method=post action=AffDtlMain.php>
+
+&nbsp;
+<p>
+<table border=1 bgcolor=FFFFFF cellpadding=0 cellspacing=0>
+<tr>
+<td>
+<table border=0 bgcolor=FFFFFF width=800 cellpadding=3 cellspacing=0>
+
+<tr>
+<td colspan=3 bgcolor=DDDDDD align=center>
+<b>Event Summary</b>
+</td>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Event
+</td>
+<td width=1 rowspan=10></td>
+<td>
+<b>KSCC 01/07/2012</b> &nbsp;<small>(201201077722)</small>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE>
+Location
+</td>
+<td>
+<b>LOUISVILLE, KY &nbsp;40222 &nbsp;</b>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE>
+Event Date(s)
+</td>
+<td>
+<b>2012-01-07 </b>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE>
+Sponsoring Affiliate
+</td>
+<td>
+<b><a href=http://msa.uschess.org/AffDtlMain.php?A6018503>METRO LOUISVILLE CHESS</a></b> &nbsp;<small>(A6018503)</small>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE>
+Chief&nbsp; TD
+</td>
+<td>
+<b>MICHAEL D AMOS</b> &nbsp;<small>(12813340)</small>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE>
+Processed
+</td>
+<td>
+<b>Received: 2012-01-08 &nbsp; Entered: 2012-01-08 &nbsp; Rated: 2012-01-08</b>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE valign=top>
+Stats
+</td>
+<td>
+<b>4 Section(s),&nbsp; 122 Players</b>
+<br><font color=blue>The ratings shown on this page are not official published ratings and may change from time to time.  Using them for pairing purposes in tournaments should only be done if this has been advertised in all advance publicity and is announced to all players at the tournament.</font>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table border=0 bgcolor=FFFFFF width=800 cellpadding=3 cellspacing=0>
+
+<tr>
+<td colspan=6 bgcolor=DDDDDD align=center>
+<b>Sections</b>
+</td>
+<tr bgcolor=EEEEEE>
+<td width=70 align=center valign=middle>
+<font color=A00000>
+<b><i>HINT:</I.</b>
+</font>
+</td>
+<td width=1></td>
+<td>
+<font color=A00000><b>
+&nbsp; * Click on a Section Name to see the cross table for that Section, &nbsp;<i>or</i>
+<br>
+&nbsp; * Click on "Show All Sections" to see the cross tables for all sections at once.
+<br>
+</b></font>
+</td>
+</tr>
+
+<tr>
+<td width=80 bgcolor=EEEEEE>
+Section 1
+</td>
+<td width=1></td>
+<td>
+<a href=XtblMain.php?201201077722.1><b>K-12</b></a>
+</td>
+</tr>
+
+<tr>
+<td width=80 bgcolor=EEEEEE>
+Section 2
+</td>
+<td width=1></td>
+<td>
+<a href=XtblMain.php?201201077722.2><b>K-5</b></a>
+</td>
+</tr>
+
+<tr>
+<td width=80 bgcolor=EEEEEE>
+Section 3
+</td>
+<td width=1></td>
+<td>
+<a href=XtblMain.php?201201077722.3><b>K-3</b></a>
+</td>
+</tr>
+
+<tr>
+<td width=80 bgcolor=EEEEEE>
+Section 4
+</td>
+<td width=1></td>
+<td>
+<a href=XtblMain.php?201201077722.4><b>K-1</b></a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p>
+<a anchor="Section1"></a>
+<p>
+<table border=1 bgcolor=FFFFFF cellpadding=0 cellspacing=0>
+<tr>
+<td>
+<table border=0 width=800 bgcolor=FFFFFF  cellpadding=3 cellspacing=0>
+<tr>
+<td colspan=3 align=center bgcolor=DDDDFF>
+<b>Section 1 - K-12</b>
+</td>
+</tr>
+
+<tr>
+<td width=120 bgcolor=EEEEEE>
+Section Date(s)
+</td>
+<td width=1></td>
+<td>
+<b>2012-01-07</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Processed
+</td>
+<td width=1></td>
+<td>
+<b>Received: 2012-01-08 &nbsp; Entered: 2012-01-08 &nbsp; Rated: 2012-01-08 Re-Rated: 2013-03-09</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Stats
+</td>
+<td width=1></td>
+<td>
+<b>5 Rounds,&nbsp; 49 Players;  &nbsp;K Factor: F  &nbsp;Rating Sys: D  &nbsp;Tnmt Type: S  <br>Time Control: G/30;d0</b>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan=3>
+<pre>
+-----------------------------------------------------------------------------
+<i> * Click on a Pairing Number to see the Player's Opponents.
+ * Click on a Player's Name for more information about the Player.</i>
+<font size=+2>Crosstable data is <b>not</b> shown in tiebreak order and <font color=red ><b><i>does NOT reflect <br>any distribution of trophies or prize monies.</font></font></b></i><a href=http://www.uschess.org/msa/FAQ.php>(See Frequent Questions)</a>
+<i>Crosstable data is shown as reported to the USCF by the Tournament Director.  <br>Please contact the TD to report any crosstable errors.</i>
+Note:  The information below the "Total Pts" score shows the highest norm earned in this event.<br>For more information on norms, see <a href=http://www.glicko.net/ratings/titles.pdf>The USCF Title System</a>.
+-----------------------------------------------------------------------------
+ Pair | Player Name                     |Total|Round|Round|Round|Round|Round| 
+ Num  | USCF ID / Rtg (Pre->Post)       | Pts |  1  |  2  |  3  |  4  |  5  | 
+-----------------------------------------------------------------------------
+    <a href=XtblPlr.php?201201077722-001-13004927>1</a> | <a href=MbrDtlMain.php?13004927>MATTHEW MCDONALD</a>                |5.0  |W  15|W  27|W  12|W   3|W   9|
+   KY | 13004927 / R: 1560   ->1574     |N:4  |B    |W    |B    |W    |B    |
+      |            Q: 1564   ->1577     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+    <a href=XtblPlr.php?201201077722-001-12914387>2</a> | <a href=MbrDtlMain.php?12914387>AUSTIN J BRIDGES</a>                |4.0  |W  22|W  13|W   4|W   8|L   3|
+   KY | 12914387 / R: 1294   ->1343     |N:4  |B    |W    |B    |W    |B    |
+      |            Q: 1284   ->1336     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+    <a href=XtblPlr.php?201201077722-001-13245840>3</a> | <a href=MbrDtlMain.php?13245840>RYAN TARR</a>                       |4.0  |W  28|W   5|W   7|L   1|W   2|
+   KY | 13245840 / R: 1241   ->1308     |     |W    |B    |W    |B    |W    |
+      |            Q: 1240   ->1306     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+    <a href=XtblPlr.php?201201077722-001-13711907>4</a> | <a href=MbrDtlMain.php?13711907>ALBERT SUMNER OSTER</a>             |4.0  |W  29|W   6|L   2|W  18|W  13|
+   KY | 13711907 / R: 1172   ->1210     |     |W    |B    |W    |B    |W    |
+      |            Q: 1166   ->1204     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+    <a href=XtblPlr.php?201201077722-001-14057833>5</a> | <a href=MbrDtlMain.php?14057833>ANISH PRATHAM VENKATESAN</a>        |4.0  |W  31|L   3|W  36|W  17|W  15|
+   KY | 14057833 / R: 1010   ->1029     |     |B    |W    |B    |W    |B    |
+      |            Q: 1006   ->1025     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+    <a href=XtblPlr.php?201201077722-001-14506443>6</a> | <a href=MbrDtlMain.php?14506443>KUSHAL NELLORE</a>                  |4.0  |W  30|L   4|W  33|W  19|W  12|
+   KY | 14506443 / R:  948   ->1029     |     |B    |W    |B    |W    |B    |
+      |            Q:  934   ->1018     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+    <a href=XtblPlr.php?201201077722-001-13953645>7</a> | <a href=MbrDtlMain.php?13953645>COOPER FORREST YOUNG</a>            |4.0  |W  17|W  19|L   3|W  16|W  14|
+   KY | 13953645 / R:  926   ->1021     |     |B    |W    |B    |W    |B    |
+      |            Q:  918   ->1015     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+    <a href=XtblPlr.php?201201077722-001-13072158>8</a> | <a href=MbrDtlMain.php?13072158>TOD HEAD</a>                        |3.5  |D  10|W  34|W  11|L   2|W  27|
+   KY | 13072158 / R: 1403   ->1373     |     |W    |B    |W    |B    |W    |
+      |            Q: 1394   ->1364     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+    <a href=XtblPlr.php?201201077722-001-12955965>9</a> | <a href=MbrDtlMain.php?12955965>MICHAEL SCHARDEIN</a>               |3.5  |D  24|W  20|W  10|W  27|L   1|
+   KY | 12955965 / R: 1085   ->1107     |     |W    |B    |W    |B    |W    |
+      |            Q: 1076   ->1100     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-001-13040743>10</a> | <a href=MbrDtlMain.php?13040743>GRIFFIN T FLEISCHAKER</a>           |3.5  |D   8|W  36|L   9|W  29|W  22|
+   KY | 13040743 / R:  823   -> 953     |     |B    |W    |B    |W    |B    |
+      |            Q:  822   -> 950     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-001-14307593>11</a> | <a href=MbrDtlMain.php?14307593>JAMES GLENN MACUMBER</a>            |3.5  |W  48|W  23|L   8|D  22|W  28|
+   KY | 14307593 / R:  420   -> 677     |     |B    |W    |B    |W    |B    |
+      |            Q:  414   -> 673     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-001-13609523>12</a> | <a href=MbrDtlMain.php?13609523>SAM WILSON</a>                      |3.0  |W  23|W  14|L   1|W  28|L   6|
+   KY | 13609523 / R: 1279   ->1253     |     |B    |W    |W    |B    |W    |
+      |            Q: 1274   ->1248     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-001-13040716>13</a> | <a href=MbrDtlMain.php?13040716>AVA M BRADLEY</a>                   |3.0  |W  18|L   2|W  20|W  25|L   4|
+   KY | 13040716 / R: 1143   ->1122     |     |W    |B    |W    |B    |B    |
+      |            Q: 1140   ->1119     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-001-13567398>14</a> | <a href=MbrDtlMain.php?13567398>BINU DEVANGI GODAGE</a>             |3.0  |W  25|L  12|W  34|W  31|L   7|
+   KY | 13567398 / R: 1033   ->1009     |     |W    |B    |W    |B    |W    |
+      |            Q: 1027   ->1003     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-001-13797304>15</a> | <a href=MbrDtlMain.php?13797304>JACK MARKS</a>                      |3.0  |L   1|W  35|W  38|W  32|L   5|
+   KY | 13797304 / R:  794   -> 809     |     |W    |B    |W    |B    |W    |
+      |            Q:  789   -> 804     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-001-13258240>16</a> | <a href=MbrDtlMain.php?13258240>MADAN SUBHEESWAR</a>                |3.0  |L  27|W  45|W  41|L   7|W  34|
+   KY | 13258240 / R:  780   -> 776     |     |W    |B    |W    |B    |W    |
+      |            Q:  770   -> 767     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-001-13236098>17</a> | <a href=MbrDtlMain.php?13236098>ASPEN MUELLER</a>                   |3.0  |L   7|W  24|W  49|L   5|W  35|
+   KY | 13236098 / R:  681P25-> 722     |     |W    |B    |W    |B    |W    |
+      |            Q:  676P25-> 718     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-001-12938407>18</a> | <a href=MbrDtlMain.php?12938407>ISAAC FORMAN WEISS</a>              |3.0  |L  13|W  30|W  39|L   4|W  37|
+   KY | 12938407 / R:  618   -> 698     |     |B    |W    |B    |W    |B    |
+      |            Q:  609   -> 692     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-001-13338024>19</a> | <a href=MbrDtlMain.php?13338024>NOAH KAMMER</a>                     |3.0  |W  40|L   7|W  45|L   6|W  38|
+   KY | 13338024 / R:  539   -> 600     |     |W    |B    |W    |B    |W    |
+      |            Q:  531   -> 594     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-001-14605337>20</a> | <a href=MbrDtlMain.php?14605337>ABHISHEK VENKATARAMAN</a>           |3.0  |W  47|L   9|L  13|W  39|W  30|
+   KY | 14605337 / R:  443P19-> 565P24  |     |B    |W    |B    |W    |B    |
+      |            Q:  431P14-> 557P19  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-001-14725516>21</a> | <a href=MbrDtlMain.php?14725516>PAUL SATORI</a>                     |3.0  |L  45|W  46|L  25|W  41|W  31|
+   KY | 14725516 / R:  424P17-> 445P22  |     |W    |B    |W    |B    |W    |
+      |            Q:  420P17-> 442P22  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-001-12928557>22</a> | <a href=MbrDtlMain.php?12928557>SEAN MICHAEL HUSSUNG</a>            |2.5  |L   2|W  38|W  35|D  11|L  10|
+   KY | 12928557 / R:  936   -> 902     |     |W    |B    |W    |B    |W    |
+      |            Q:  929   -> 895     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-001-13759153>23</a> | <a href=MbrDtlMain.php?13759153>ROHAN Y KULKARARNI</a>              |2.5  |L  12|L  11|W  43|D  42|W  32|
+   KY | 13759153 / R:  762   -> 726     |     |W    |B    |B    |W    |W    |
+      |            Q:  764   -> 727     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-001-14725537>24</a> | <a href=MbrDtlMain.php?14725537>TRISTAIN NYE</a>                    |2.5  |D   9|L  17|W  44|L  30|W  42|
+   KY | 14725537 / R:  687P18-> 667P23  |     |B    |W    |B    |W    |B    |
+      |            Q:  688P18-> 667P23  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-001-14280327>25</a> | <a href=MbrDtlMain.php?14280327>ANDREW WEIDNER</a>                  |2.5  |L  14|W  32|W  21|L  13|D  26|
+   KY | 14280327 / R:  608   -> 652     |     |B    |W    |B    |W    |B    |
+      |            Q:  599   -> 647     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-001-14373397>26</a> | <a href=MbrDtlMain.php?14373397>ASHTON WESTFALL</a>                 |2.5  |L  32|W  47|L  27|W  33|D  25|
+   KY | 14373397 / R:  522P23-> 547     |     |B    |W    |B    |W    |W    |
+      |            Q:  522P23-> 545     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-001-13572320>27</a> | <a href=MbrDtlMain.php?13572320>DYLAN MATTHEW BARTH</a>             |2.0  |W  16|L   1|W  26|L   9|L   8|
+   KY | 13572320 / R: 1096   ->1072     |     |B    |B    |W    |W    |B    |
+      |            Q: 1093   ->1068     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-001-14316251>28</a> | <a href=MbrDtlMain.php?14316251>JUSTIN SISON</a>                    |2.0  |L   3|W  33|W  42|L  12|L  11|
+   KY | 14316251 / R:  868   -> 834     |     |B    |W    |B    |W    |W    |
+      |            Q:  867   -> 832     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-001-14344913>29</a> | <a href=MbrDtlMain.php?14344913>JACK HAROLD BRADLEY</a>             |2.0  |L   4|W  42|L  32|L  10|W  43|
+   KY | 14344913 / R:  872   -> 813     |     |B    |W    |B    |B    |W    |
+      |            Q:  869   -> 810     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-001-14579208>30</a> | <a href=MbrDtlMain.php?14579208>SOREN ADAMS</a>                     |2.0  |L   6|L  18|W  46|W  24|L  20|
+   KY | 14579208 / R:  706   -> 663     |     |W    |B    |W    |B    |W    |
+      |            Q:  704   -> 660     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-001-12911669>31</a> | <a href=MbrDtlMain.php?12911669>SHEA MCKINLEY DOBSON</a>            |2.0  |L   5|W  49|W  48|L  14|L  21|
+   KY | 12911669 / R:  653   -> 604     |     |W    |B    |W    |W    |B    |
+      |            Q:  650   -> 601     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-001-14716858>32</a> | <a href=MbrDtlMain.php?14716858>JACOB SMITHSON</a>                  |2.0  |W  26|L  25|W  29|L  15|L  23|
+   KY | 14716858 / R:  565P10-> 593P15  |     |W    |B    |W    |W    |B    |
+      |            Q:  564P10-> 591P15  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-001-14491008>33</a> | <a href=MbrDtlMain.php?14491008>OTAVIO T MENEZES</a>                |2.0  |W  46|L  28|L   6|L  26|W  45|
+   KY | 14491008 / R:  567P20-> 537P25  |     |W    |B    |W    |B    |W    |
+      |            Q:  563P20-> 533P25  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-001-13040648>34</a> | <a href=MbrDtlMain.php?13040648>MAX MUELLER</a>                     |2.0  |W  43|L   8|L  14|W  48|L  16|
+   KY | 13040648 / R:  509   -> 512     |     |B    |W    |B    |W    |B    |
+      |            Q:  503   -> 506     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-001-14720017>35</a> | <a href=MbrDtlMain.php?14720017>TUSHAR SHARMA</a>                   |2.0  |W  39|L  15|L  22|W  47|L  17|
+   KY | 14720017 / R:  483P13-> 479P18  |     |B    |W    |B    |W    |B    |
+      |            Q:  480P13-> 476P18  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-001-13365306>36</a> | <a href=MbrDtlMain.php?13365306>RHIANON HUSSUNG</a>                 |2.0  |W  41|L  10|L   5|L  38|W  49|
+   KY | 13365306 / R:  486   -> 466     |     |W    |B    |W    |B    |W    |
+      |            Q:  483   -> 463     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-001-14335988>37</a> | <a href=MbrDtlMain.php?14335988>CONNER DEROUEN</a>                  |2.0  |L  38|L  41|W  40|W  45|L  18|
+   KY | 14335988 / R:  514   -> 448     |     |W    |B    |W    |B    |W    |
+      |            Q:  510   -> 444     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-001-14373402>38</a> | <a href=MbrDtlMain.php?14373402>WILL CUSTER</a>                     |2.0  |W  37|L  22|L  15|W  36|L  19|
+   KY | 14373402 / R:  295P14-> 422P19  |     |B    |W    |B    |W    |B    |
+      |            Q:  293P14-> 419P19  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-001-14812015>39</a> | <a href=MbrDtlMain.php?14812015>COHEN MCCUBBIN</a>                  |2.0  |L  35|W  40|L  18|L  20|W  47|
+   KY | 14812015 / R: Unrated-> 359P5   |     |W    |B    |W    |B    |B    |
+      |            Q: Unrated-> 354P5   |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-001-14378985>40</a> | <a href=MbrDtlMain.php?14378985>JOHN PATRICK GAHWYLER</a>           |2.0  |L  19|L  39|L  37|W  44|W  46|
+   KY | 14378985 / R:  339P9 -> 297P14  |     |B    |W    |B    |W    |B    |
+      |            Q:  337P9 -> 295P14  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-001-14795288>41</a> | <a href=MbrDtlMain.php?14795288>YASH V CHAUHAN</a>                  |2.0  |L  36|W  37|L  16|L  21|W  48|
+   KY | 14795288 / R:  195P5 -> 268P10  |     |B    |W    |B    |W    |B    |
+      |            Q:  193P5 -> 265P10  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-001-14626025>42</a> | <a href=MbrDtlMain.php?14626025>CAYLEE M LIVELY</a>                 |1.5  |W  44|L  29|L  28|D  23|L  24|
+   KY | 14626025 / R:  441P20-> 443P25  |     |W    |B    |W    |B    |W    |
+      |            Q:  432P20-> 436P25  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-001-14737635>43</a> | <a href=MbrDtlMain.php?14737635>BEN BINGHAM</a>                     |1.5  |L  34|D  44|L  23|W  49|L  29|
+   KY | 14737635 / R:  268P13-> 251P18  |     |W    |B    |W    |B    |B    |
+      |            Q:  265P13-> 249P18  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-001-14811226>44</a> | <a href=MbrDtlMain.php?14811226>NICK BISCHOFF</a>                   |1.5  |L  42|D  43|L  24|L  40|B    |
+   KY | 14811226 / R: Unrated-> 103P4   |     |B    |W    |W    |B    |     |
+      |            Q: Unrated-> 103P4   |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-001-14805794>45</a> | <a href=MbrDtlMain.php?14805794>JOHN GRAHAM II</a>                  |1.0  |W  21|L  16|L  19|L  37|L  33|
+   KY | 14805794 / R: Unrated-> 301P5   |     |B    |W    |B    |W    |B    |
+      |            Q: Unrated-> 296P5   |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-001-14745567>46</a> | <a href=MbrDtlMain.php?14745567>JOSE QUINTANILLA</a>                |1.0  |L  33|L  21|L  30|B    |L  40|
+   KY | 14745567 / R:  107P13-> 108P17  |     |B    |W    |B    |     |W    |
+      |            Q:  107P13-> 108P17  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-001-14722653>47</a> | <a href=MbrDtlMain.php?14722653>JAMES DAUGHERTY MONIN V</a>         |1.0  |L  20|L  26|B    |L  35|L  39|
+   KY | 14722653 / R:  106P16-> 107P20  |     |W    |B    |     |B    |W    |
+      |            Q:  106P16-> 107P20  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-001-14797950>48</a> | <a href=MbrDtlMain.php?14797950>SASANK VISHNUBHATLA</a>             |1.0  |L  11|B    |L  31|L  34|L  41|
+   KY | 14797950 / R:  103P5 -> 104P9   |     |W    |     |B    |B    |W    |
+      |            Q:  103P5 -> 104P9   |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-001-14797965>49</a> | <a href=MbrDtlMain.php?14797965>CHANCE OTTERSBACH</a>               |1.0  |B    |L  31|L  17|L  43|L  36|
+   KY | 14797965 / R:  101P4 -> 102P8   |     |     |W    |B    |W    |B    |
+      |            Q:  101P4 -> 102P8   |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+Note:  Performances satisfying the requirements for norms are now being shown for events in the *Total Pts* column.<br>It may take a week for a recently rated event to have norms computed for it.
+</pre>
+</td>
+</tr>
+</table>
+<p>
+<a anchor="Section2"></a>
+<p>
+<table border=1 bgcolor=FFFFFF cellpadding=0 cellspacing=0>
+<tr>
+<td>
+<table border=0 width=800 bgcolor=FFFFFF  cellpadding=3 cellspacing=0>
+<tr>
+<td colspan=3 align=center bgcolor=DDDDFF>
+<b>Section 2 - K-5</b>
+</td>
+</tr>
+
+<tr>
+<td width=120 bgcolor=EEEEEE>
+Section Date(s)
+</td>
+<td width=1></td>
+<td>
+<b>2012-01-07</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Processed
+</td>
+<td width=1></td>
+<td>
+<b>Received: 2012-01-08 &nbsp; Entered: 2012-01-08 &nbsp; Rated: 2012-01-08 Re-Rated: 2013-04-16</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Stats
+</td>
+<td width=1></td>
+<td>
+<b>5 Rounds,&nbsp; 28 Players;  &nbsp;K Factor: F  &nbsp;Rating Sys: D  &nbsp;Tnmt Type: S  <br>Time Control: G/30;d0</b>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan=3>
+<pre>
+-----------------------------------------------------------------------------
+<i> * Click on a Pairing Number to see the Player's Opponents.
+ * Click on a Player's Name for more information about the Player.</i>
+<font size=+2>Crosstable data is <b>not</b> shown in tiebreak order and <font color=red ><b><i>does NOT reflect <br>any distribution of trophies or prize monies.</font></font></b></i><a href=http://www.uschess.org/msa/FAQ.php>(See Frequent Questions)</a>
+<i>Crosstable data is shown as reported to the USCF by the Tournament Director.  <br>Please contact the TD to report any crosstable errors.</i>
+Note:  The information below the "Total Pts" score shows the highest norm earned in this event.<br>For more information on norms, see <a href=http://www.glicko.net/ratings/titles.pdf>The USCF Title System</a>.
+-----------------------------------------------------------------------------
+ Pair | Player Name                     |Total|Round|Round|Round|Round|Round| 
+ Num  | USCF ID / Rtg (Pre->Post)       | Pts |  1  |  2  |  3  |  4  |  5  | 
+-----------------------------------------------------------------------------
+    <a href=XtblPlr.php?201201077722-002-13868546>1</a> | <a href=MbrDtlMain.php?13868546>SIDHARTH SUNDAR</a>                 |5.0  |W  15|W  12|W  10|W   8|W   2|
+   KY | 13868546 / R: 1093   ->1228     |     |W    |B    |W    |B    |W    |
+      |            Q: 1102   ->1236     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+    <a href=XtblPlr.php?201201077722-002-13567403>2</a> | <a href=MbrDtlMain.php?13567403>VIDU DINAL GODAGE</a>               |4.0  |W  14|W  13|W   6|W   7|L   1|
+   KY | 13567403 / R: 1118   ->1205     |     |W    |B    |B    |W    |B    |
+      |            Q: 1121   ->1208     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+    <a href=XtblPlr.php?201201077722-002-14765362>3</a> | <a href=MbrDtlMain.php?14765362>CALEB RUSSELL LOHR</a>              |4.0  |L  19|W  21|W  18|W  20|W   6|
+   KY | 14765362 / R:  987P13->1020P18  |     |B    |W    |B    |W    |B    |
+      |            Q:  987P13->1021P18  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+    <a href=XtblPlr.php?201201077722-002-14504624>4</a> | <a href=MbrDtlMain.php?14504624>XAVIER ALLEN MARTINDALE</a>         |4.0  |W  26|L   6|W  17|W  11|W   8|
+   KY | 14504624 / R:  838   ->1001     |     |B    |W    |B    |W    |W    |
+      |            Q:  840   ->1002     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+    <a href=XtblPlr.php?201201077722-002-14503470>5</a> | <a href=MbrDtlMain.php?14503470>GRANT WILSON HORLANDER</a>          |3.5  |W  22|L   8|D  15|W  19|W  10|
+   KY | 14503470 / R:  793   -> 874     |     |W    |B    |W    |W    |B    |
+      |            Q:  815   -> 890     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+    <a href=XtblPlr.php?201201077722-002-13813044>6</a> | <a href=MbrDtlMain.php?13813044>AARON SAMUEL OSTER</a>              |3.0  |W  18|W   4|L   2|W   9|L   3|
+   KY | 13813044 / R: 1334   ->1290     |     |W    |B    |W    |B    |W    |
+      |            Q: 1336   ->1292     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+    <a href=XtblPlr.php?201201077722-002-14071177>7</a> | <a href=MbrDtlMain.php?14071177>SEAN PATRICK HARRIS</a>             |3.0  |W  17|L   9|W  11|L   2|W  15|
+   KY | 14071177 / R: 1177   ->1146     |     |B    |W    |B    |B    |W    |
+      |            Q: 1180   ->1149     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+    <a href=XtblPlr.php?201201077722-002-13868677>8</a> | <a href=MbrDtlMain.php?13868677>HENRY CONKLIN</a>                   |3.0  |W  20|W   5|W   9|L   1|L   4|
+   KY | 13868677 / R: 1111   ->1099     |     |B    |W    |B    |W    |B    |
+      |            Q: 1112   ->1102     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+    <a href=XtblPlr.php?201201077722-002-13503154>9</a> | <a href=MbrDtlMain.php?13503154>GREGORY WHITFIELD</a>               |3.0  |W  21|W   7|L   8|L   6|W  18|
+   KY | 13503154 / R: 1053   ->1061     |     |W    |B    |W    |W    |B    |
+      |            Q: 1057   ->1065     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-002-13619728>10</a> | <a href=MbrDtlMain.php?13619728>RUCHIRA UDARA SUMANASEKERA</a>      |3.0  |W  25|W  19|L   1|W  14|L   5|
+   KY | 13619728 / R:  938   -> 925     |     |B    |W    |B    |W    |W    |
+      |            Q:  967   -> 950     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-002-13768114>11</a> | <a href=MbrDtlMain.php?13768114>WILL J WORKMAN</a>                  |3.0  |W  23|W  16|L   7|L   4|W  20|
+   KY | 13768114 / R:  904   -> 918     |     |W    |B    |W    |B    |W    |
+      |            Q:  906   -> 920     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-002-14094186>12</a> | <a href=MbrDtlMain.php?14094186>ZACHARY COOPER FELSEN</a>           |3.0  |W  28|L   1|L  20|W  21|W  19|
+   KY | 14094186 / R:  915   -> 887     |     |B    |W    |B    |W    |B    |
+      |            Q:  917   -> 890     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-002-14162207>13</a> | <a href=MbrDtlMain.php?14162207>RILEY CLAYTON MCCONNELL</a>         |3.0  |W  27|L   2|L  19|W  22|W  16|
+   KY | 14162207 / R:  866   -> 858     |     |W    |W    |B    |B    |W    |
+      |            Q:  867   -> 859     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-002-13839980>14</a> | <a href=MbrDtlMain.php?13839980>DESMOND ISAIAH ROBINSON</a>         |3.0  |L   2|W  28|W  16|L  10|W  23|
+   KY | 13839980 / R:  643   -> 719     |     |B    |W    |W    |B    |W    |
+      |            Q:  645   -> 722     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-002-14378587>15</a> | <a href=MbrDtlMain.php?14378587>DAKSHINKUMAAR DEVANAND</a>          |2.5  |L   1|W  26|D   5|W  17|L   7|
+   KY | 14378587 / R:  716   -> 777     |     |B    |W    |B    |W    |B    |
+      |            Q:  723   -> 784     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-002-13868531>16</a> | <a href=MbrDtlMain.php?13868531>RAJ BRAR</a>                        |2.0  |W  24|L  11|L  14|W  25|L  13|
+   KY | 13868531 / R: 1036   -> 937     |     |B    |W    |B    |W    |B    |
+      |            Q: 1038   -> 939     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-002-14049325>17</a> | <a href=MbrDtlMain.php?14049325>SUKITHA RUKSHAN GUNASENA</a>        |2.0  |L   7|W  22|L   4|L  15|W  24|
+   KY | 14049325 / R:  855   -> 806     |     |W    |B    |W    |B    |W    |
+      |            Q:  854   -> 806     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-002-14295467>18</a> | <a href=MbrDtlMain.php?14295467>LOKESH NANTHAKUMAR</a>              |2.0  |L   6|W  25|L   3|W  27|L   9|
+   KY | 14295467 / R:  829   -> 806     |     |B    |W    |W    |B    |W    |
+      |            Q:  833   -> 809     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-002-13899398>19</a> | <a href=MbrDtlMain.php?13899398>SPENCER TYLER BARRETT</a>           |2.0  |W   3|L  10|W  13|L   5|L  12|
+   KY | 13899398 / R:  644   -> 743     |     |W    |B    |W    |B    |W    |
+      |            Q:  648   -> 750     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-002-14793145>20</a> | <a href=MbrDtlMain.php?14793145>BENJAMIN KOSTIC</a>                 |2.0  |L   8|W  27|W  12|L   3|L  11|
+   KY | 14793145 / R:  647P5 -> 702P10  |     |W    |B    |W    |B    |B    |
+      |            Q:  654P5 -> 707P10  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-002-14257728>21</a> | <a href=MbrDtlMain.php?14257728>CONNOR R SMITH</a>                  |2.0  |L   9|L   3|W  24|L  12|W  25|
+   KY | 14257728 / R:  317   -> 410     |     |B    |B    |W    |B    |W    |
+      |            Q:  318   -> 410     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-002-14123775>22</a> | <a href=MbrDtlMain.php?14123775>JACKSON ANSARI</a>                  |2.0  |L   5|L  17|W  26|L  13|W  28|
+   KY | 14123775 / R:  146P10-> 252P15  |     |B    |W    |B    |W    |B    |
+      |            Q:  146P10-> 252P15  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-002-14725475>23</a> | <a href=MbrDtlMain.php?14725475>MIRZA AJANOVIC</a>                  |1.5  |L  11|D  24|L  25|W  28|L  14|
+   KY | 14725475 / R:  406P19-> 356P24  |     |B    |W    |B    |W    |B    |
+      |            Q:  407P19-> 357P24  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-002-14805808>24</a> | <a href=MbrDtlMain.php?14805808>CALEB GRAHAM</a>                    |1.5  |L  16|D  23|L  21|W  26|L  17|
+   KY | 14805808 / R: Unrated-> 319P5   |     |W    |B    |B    |W    |B    |
+      |            Q: Unrated-> 320P5   |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-002-14257761>25</a> | <a href=MbrDtlMain.php?14257761>WILLIAM CRITTENDEN</a>              |1.0  |L  10|L  18|W  23|L  16|L  21|
+   KY | 14257761 / R:  269P9 -> 284P14  |     |W    |B    |W    |B    |B    |
+      |            Q:  269P9 -> 285P14  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-002-14711228>26</a> | <a href=MbrDtlMain.php?14711228>THOMAS MELLOR</a>                   |1.0  |L   4|L  15|L  22|L  24|W  27|
+   KY | 14711228 / R:  223P10-> 194P15  |     |W    |B    |W    |B    |W    |
+      |            Q:  224P10-> 195P15  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-002-14587173>27</a> | <a href=MbrDtlMain.php?14587173>DHARSHINI BAGAWATH KUMAR</a>        |1.0  |L  13|L  20|W  28|L  18|L  26|
+   KY | 14587173 / R:  167P19-> 157P24  |     |B    |W    |B    |W    |B    |
+      |            Q:  167P19-> 157P24  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-002-14506485>28</a> | <a href=MbrDtlMain.php?14506485>SANYA DRONAWAT</a>                  |0.0  |L  12|L  14|L  27|L  23|L  22|
+   KY | 14506485 / R:  118P19-> 119P24  |     |W    |B    |W    |B    |W    |
+      |            Q:  118P19-> 119P24  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+Note:  Performances satisfying the requirements for norms are now being shown for events in the *Total Pts* column.<br>It may take a week for a recently rated event to have norms computed for it.
+</pre>
+</td>
+</tr>
+</table>
+<p>
+<a anchor="Section3"></a>
+<p>
+<table border=1 bgcolor=FFFFFF cellpadding=0 cellspacing=0>
+<tr>
+<td>
+<table border=0 width=800 bgcolor=FFFFFF  cellpadding=3 cellspacing=0>
+<tr>
+<td colspan=3 align=center bgcolor=DDDDFF>
+<b>Section 3 - K-3</b>
+</td>
+</tr>
+
+<tr>
+<td width=120 bgcolor=EEEEEE>
+Section Date(s)
+</td>
+<td width=1></td>
+<td>
+<b>2012-01-07</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Processed
+</td>
+<td width=1></td>
+<td>
+<b>Received: 2012-01-08 &nbsp; Entered: 2012-01-08 &nbsp; Rated: 2012-01-08 Re-Rated: 2013-06-21</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Stats
+</td>
+<td width=1></td>
+<td>
+<b>5 Rounds,&nbsp; 28 Players;  &nbsp;K Factor: F  &nbsp;Rating Sys: D  &nbsp;Tnmt Type: S  <br>Time Control: G/30;d0</b>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan=3>
+<pre>
+-----------------------------------------------------------------------------
+<i> * Click on a Pairing Number to see the Player's Opponents.
+ * Click on a Player's Name for more information about the Player.</i>
+<font size=+2>Crosstable data is <b>not</b> shown in tiebreak order and <font color=red ><b><i>does NOT reflect <br>any distribution of trophies or prize monies.</font></font></b></i><a href=http://www.uschess.org/msa/FAQ.php>(See Frequent Questions)</a>
+<i>Crosstable data is shown as reported to the USCF by the Tournament Director.  <br>Please contact the TD to report any crosstable errors.</i>
+Note:  The information below the "Total Pts" score shows the highest norm earned in this event.<br>For more information on norms, see <a href=http://www.glicko.net/ratings/titles.pdf>The USCF Title System</a>.
+-----------------------------------------------------------------------------
+ Pair | Player Name                     |Total|Round|Round|Round|Round|Round| 
+ Num  | USCF ID / Rtg (Pre->Post)       | Pts |  1  |  2  |  3  |  4  |  5  | 
+-----------------------------------------------------------------------------
+    <a href=XtblPlr.php?201201077722-003-14077162>1</a> | <a href=MbrDtlMain.php?14077162>AAKASH M VADHANAM</a>               |4.0  |W   6|W   8|W  10|W   3|L   2|
+   KY | 14077162 / R: 1042   ->1032     |     |B    |W    |B    |W    |B    |
+      |            Q: 1042   ->1030     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+    <a href=XtblPlr.php?201201077722-003-14063857>2</a> | <a href=MbrDtlMain.php?14063857>JEFFREY MATTHEW GRIFFIN</a>         |4.0  |W  23|L   5|W  16|W   7|W   1|
+   KY | 14063857 / R: 1011   ->1006     |     |W    |B    |W    |B    |W    |
+      |            Q:  985   -> 984     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+    <a href=XtblPlr.php?201201077722-003-14403430>3</a> | <a href=MbrDtlMain.php?14403430>IMAN DASHTI</a>                     |4.0  |W  15|W  12|W   5|L   1|W   8|
+   KY | 14403430 / R:  737   -> 818     |     |W    |B    |W    |B    |W    |
+      |            Q:  737   -> 818     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+    <a href=XtblPlr.php?201201077722-003-14711695>4</a> | <a href=MbrDtlMain.php?14711695>NIMISH PRAKASH MATHUR</a>           |4.0  |W  18|W  11|L   7|W   9|W  13|
+   KY | 14711695 / R:  776   -> 781     |     |B    |W    |W    |B    |W    |
+      |            Q:  781   -> 785     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+    <a href=XtblPlr.php?201201077722-003-14351670>5</a> | <a href=MbrDtlMain.php?14351670>MADHU GUNASENA</a>                  |4.0  |W  26|W   2|L   3|W  17|W   7|
+   KY | 14351670 / R:  523   -> 730     |     |B    |W    |B    |W    |W    |
+      |            Q:  524   -> 730     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+    <a href=XtblPlr.php?201201077722-003-14278808>6</a> | <a href=MbrDtlMain.php?14278808>SNEHA SAI NADELLA</a>               |3.5  |L   1|D  24|W  27|W  20|W  15|
+   KY | 14278808 / R:  292   -> 394     |     |W    |B    |B    |W    |B    |
+      |            Q:  292   -> 394     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+    <a href=XtblPlr.php?201201077722-003-14352997>7</a> | <a href=MbrDtlMain.php?14352997>JOEY L HAUFE</a>                    |3.0  |W  20|W   9|W   4|L   2|L   5|
+   KY | 14352997 / R:  728   -> 744     |     |B    |W    |B    |W    |B    |
+      |            Q:  727   -> 742     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+    <a href=XtblPlr.php?201201077722-003-14307682>8</a> | <a href=MbrDtlMain.php?14307682>MURARI SRINIVASAN</a>               |3.0  |W  28|L   1|W  23|W  11|L   3|
+   KY | 14307682 / R:  562   -> 599     |     |W    |B    |W    |B    |B    |
+      |            Q:  562   -> 599     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+    <a href=XtblPlr.php?201201077722-003-14560286>9</a> | <a href=MbrDtlMain.php?14560286>MALCOLM E ROSENTHAL</a>             |3.0  |W  19|L   7|W  14|L   4|W  16|
+   KY | 14560286 / R:  552P15-> 577P20  |     |W    |B    |W    |W    |B    |
+      |            Q:  552P15-> 577P20  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-003-14503485>10</a> | <a href=MbrDtlMain.php?14503485>PIERCE JOSEPH HORLANDER</a>         |3.0  |W  24|W  16|L   1|L  13|W  19|
+   KY | 14503485 / R:  568   -> 558     |     |W    |B    |W    |B    |W    |
+      |            Q:  563   -> 554     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-003-14740947>11</a> | <a href=MbrDtlMain.php?14740947>GARRETT LEE</a>                     |3.0  |W  27|L   4|W  12|L   8|W  23|
+   KY | 14740947 / R:  529P15-> 539P20  |     |W    |B    |W    |W    |B    |
+      |            Q:  529P15-> 540P20  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-003-14711276>12</a> | <a href=MbrDtlMain.php?14711276>CAMERON WATSON</a>                  |3.0  |W  25|L   3|L  11|W  18|W  17|
+   KY | 14711276 / R:  486P5 -> 500P10  |     |B    |W    |B    |W    |B    |
+      |            Q:  487P5 -> 501P10  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-003-14384554>13</a> | <a href=MbrDtlMain.php?14384554>ALEX RANKHORN</a>                   |3.0  |L  16|W  26|W  21|W  10|L   4|
+   KY | 14384554 / R:  386   -> 443     |     |B    |W    |B    |W    |B    |
+      |            Q:  386   -> 443     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-003-14803315>14</a> | <a href=MbrDtlMain.php?14803315>DERREK HOOGENDOORN</a>              |2.5  |D  17|D  21|L   9|D  23|W  22|
+   KY | 14803315 / R: Unrated-> 388P5   |     |B    |W    |B    |B    |W    |
+      |            Q: Unrated-> 388P5   |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-003-14724582>15</a> | <a href=MbrDtlMain.php?14724582>JACKSON SKAGGS</a>                  |2.5  |L   3|D  27|W  24|W  22|L   6|
+   KY | 14724582 / R:  173P15-> 271P20  |     |B    |W    |B    |B    |W    |
+      |            Q:  173P15-> 271P20  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-003-14711207>16</a> | <a href=MbrDtlMain.php?14711207>NICHOLAS FREELAND</a>               |2.0  |W  13|L  10|L   2|W  27|L   9|
+   KY | 14711207 / R: Unrated-> 425P5   |     |W    |W    |B    |B    |W    |
+      |            Q: Unrated-> 424P5   |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-003-14790977>17</a> | <a href=MbrDtlMain.php?14790977>JOSH WHITNEY</a>                    |2.0  |D  14|D  22|W  19|L   5|L  12|
+   KY | 14790977 / R:  446P5 -> 421P10  |     |W    |B    |W    |B    |W    |
+      |            Q:  446P5 -> 421P10  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-003-14723840>18</a> | <a href=MbrDtlMain.php?14723840>ARJUN B KUMAR</a>                   |2.0  |L   4|L  19|W  28|L  12|W  26|
+   KY | 14723840 / R:  369P15-> 334P20  |     |W    |B    |W    |B    |W    |
+      |            Q:  369P15-> 334P20  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-003-14805814>19</a> | <a href=MbrDtlMain.php?14805814>STEPHEN GRAHAM</a>                  |2.0  |L   9|W  18|L  17|W  26|L  10|
+   KY | 14805814 / R: Unrated-> 324P5   |     |B    |W    |B    |W    |B    |
+      |            Q: Unrated-> 323P5   |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-003-14307640>20</a> | <a href=MbrDtlMain.php?14307640>CARTER JOSEPH GOODMAN</a>           |2.0  |L   7|W  28|D  22|L   6|D  21|
+   KY | 14307640 / R:  269   -> 266     |     |W    |B    |W    |B    |W    |
+      |            Q:  269   -> 266     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-003-14797986>21</a> | <a href=MbrDtlMain.php?14797986>SAM WATKINS</a>                     |2.0  |D  22|D  14|L  13|D  24|D  20|
+   KY | 14797986 / R:  105P5 -> 178P10  |     |W    |B    |W    |W    |B    |
+      |            Q:  105P5 -> 178P10  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-003-14579042>22</a> | <a href=MbrDtlMain.php?14579042>ZACHARIAH WOODARD</a>               |1.5  |D  21|D  17|D  20|L  15|L  14|
+   KY | 14579042 / R:  562P24-> 423     |     |B    |W    |B    |W    |B    |
+      |            Q:  562P24-> 423     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-003-14544835>23</a> | <a href=MbrDtlMain.php?14544835>KYRA ENNIS</a>                      |1.5  |L   2|W  25|L   8|D  14|L  11|
+   KY | 14544835 / R:  330   -> 322     |     |B    |W    |B    |W    |W    |
+      |            Q:  330   -> 322     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-003-14661533>24</a> | <a href=MbrDtlMain.php?14661533>MONTANA LEIGERS</a>                 |1.5  |L  10|D   6|L  15|D  21|D  25|
+   KY | 14661533 / R:  152   -> 145     |     |B    |W    |W    |B    |W    |
+      |            Q:  152   -> 145     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-003-14811170>25</a> | <a href=MbrDtlMain.php?14811170>GEORGIA CAROL NAPIER</a>            |1.5  |L  12|L  23|L  26|W  28|D  24|
+   KY | 14811170 / R: Unrated-> 107P5   |     |W    |B    |B    |W    |B    |
+      |            Q: Unrated-> 107P5   |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-003-14562868>26</a> | <a href=MbrDtlMain.php?14562868>CORINNE LILY-GRACE MIRANDA</a>      |1.0  |L   5|L  13|W  25|L  19|L  18|
+   KY | 14562868 / R:  133   -> 138     |     |W    |B    |W    |B    |B    |
+      |            Q:  133   -> 138     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-003-14803321>27</a> | <a href=MbrDtlMain.php?14803321>VYCKTORIA HOOGENDOORN</a>           |1.0  |L  11|D  15|L   6|L  16|D  28|
+   KY | 14803321 / R: Unrated-> 105P5   |     |B    |B    |W    |W    |B    |
+      |            Q: Unrated-> 105P5   |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-003-14755668>28</a> | <a href=MbrDtlMain.php?14755668>ANDREW ADAMS</a>                    |0.5  |L   8|L  20|L  18|L  25|D  27|
+   KY | 14755668 / R:  105P5 -> 108P10  |     |B    |W    |B    |B    |W    |
+      |            Q:  105P5 -> 108P10  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+Note:  Performances satisfying the requirements for norms are now being shown for events in the *Total Pts* column.<br>It may take a week for a recently rated event to have norms computed for it.
+</pre>
+</td>
+</tr>
+</table>
+<p>
+<a anchor="Section4"></a>
+<p>
+<table border=1 bgcolor=FFFFFF cellpadding=0 cellspacing=0>
+<tr>
+<td>
+<table border=0 width=800 bgcolor=FFFFFF  cellpadding=3 cellspacing=0>
+<tr>
+<td colspan=3 align=center bgcolor=DDDDFF>
+<b>Section 4 - K-1</b>
+</td>
+</tr>
+
+<tr>
+<td width=120 bgcolor=EEEEEE>
+Section Date(s)
+</td>
+<td width=1></td>
+<td>
+<b>2012-01-07</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Processed
+</td>
+<td width=1></td>
+<td>
+<b>Received: 2012-01-08 &nbsp; Entered: 2012-01-08 &nbsp; Rated: 2012-01-08 Re-Rated: 2014-01-29</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Stats
+</td>
+<td width=1></td>
+<td>
+<b>5 Rounds,&nbsp; 17 Players;  &nbsp;K Factor: F  &nbsp;Rating Sys: D  &nbsp;Tnmt Type: S  <br>Time Control: G/30;d0</b>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan=3>
+<pre>
+-----------------------------------------------------------------------------
+<i> * Click on a Pairing Number to see the Player's Opponents.
+ * Click on a Player's Name for more information about the Player.</i>
+<font size=+2>Crosstable data is <b>not</b> shown in tiebreak order and <font color=red ><b><i>does NOT reflect <br>any distribution of trophies or prize monies.</font></font></b></i><a href=http://www.uschess.org/msa/FAQ.php>(See Frequent Questions)</a>
+<i>Crosstable data is shown as reported to the USCF by the Tournament Director.  <br>Please contact the TD to report any crosstable errors.</i>
+Note:  The information below the "Total Pts" score shows the highest norm earned in this event.<br>For more information on norms, see <a href=http://www.glicko.net/ratings/titles.pdf>The USCF Title System</a>.
+-----------------------------------------------------------------------------
+ Pair | Player Name                     |Total|Round|Round|Round|Round|Round| 
+ Num  | USCF ID / Rtg (Pre->Post)       | Pts |  1  |  2  |  3  |  4  |  5  | 
+-----------------------------------------------------------------------------
+    <a href=XtblPlr.php?201201077722-004-14586975>1</a> | <a href=MbrDtlMain.php?14586975>AKHIL VENKAT ROKKAM</a>             |5.0  |W  11|W  15|W   3|W   8|W   4|
+   KY | 14586975 / R:  946   -> 984     |     |W    |B    |W    |B    |W    |
+      |            Q:  946   -> 984     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+    <a href=XtblPlr.php?201201077722-004-14533134>2</a> | <a href=MbrDtlMain.php?14533134>ARMAN DASHTI</a>                    |4.0  |L   3|W  14|W   9|W   7|W   5|
+   KY | 14533134 / R:  291P19-> 576P24  |     |B    |W    |B    |W    |B    |
+      |            Q:  290P19-> 576P24  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+    <a href=XtblPlr.php?201201077722-004-14579131>3</a> | <a href=MbrDtlMain.php?14579131>TOMMY J KOLB</a>                    |3.5  |W   2|W  10|L   1|W   5|D   8|
+   KY | 14579131 / R:  752P25-> 756     |     |W    |B    |B    |W    |W    |
+      |            Q:  752P25-> 756     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+    <a href=XtblPlr.php?201201077722-004-14506491>4</a> | <a href=MbrDtlMain.php?14506491>CAHILL DELANEY</a>                  |3.0  |W  16|L   7|W   6|W  10|L   1|
+   KY | 14506491 / R:  782   -> 745     |     |B    |W    |B    |W    |B    |
+      |            Q:  782   -> 745     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+    <a href=XtblPlr.php?201201077722-004-14503416>5</a> | <a href=MbrDtlMain.php?14503416>JOSHUA DAVID HARRIS</a>             |3.0  |W  13|W   6|W   7|L   3|L   2|
+   KY | 14503416 / R:  577   -> 583     |     |B    |W    |B    |B    |W    |
+      |            Q:  578   -> 584     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+    <a href=XtblPlr.php?201201077722-004-14812000>6</a> | <a href=MbrDtlMain.php?14812000>WOODFORD KUSTER RAGLAND</a>         |3.0  |W   9|L   5|L   4|W  12|W  16|
+   KY | 14812000 / R: Unrated-> 525P5   |     |B    |B    |W    |W    |B    |
+      |            Q: Unrated-> 525P5   |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+    <a href=XtblPlr.php?201201077722-004-14646866>7</a> | <a href=MbrDtlMain.php?14646866>SAMUEL LOUIS LEIGERS</a>            |3.0  |W  12|W   4|L   5|L   2|W  13|
+   KY | 14646866 / R:  412   -> 477     |     |W    |B    |W    |B    |W    |
+      |            Q:  409   -> 476     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+    <a href=XtblPlr.php?201201077722-004-14793935>8</a> | <a href=MbrDtlMain.php?14793935>LINDSAY REALE</a>                   |3.0  |B    |W  16|D  15|L   1|D   3|
+   KY | 14793935 / R:  105P4 -> 305P8   |     |     |W    |B    |W    |B    |
+      |            Q:  105P4 -> 305P8   |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+    <a href=XtblPlr.php?201201077722-004-14747103>9</a> | <a href=MbrDtlMain.php?14747103>KARTHIK V NADIMPALLY</a>            |2.5  |L   6|W  12|L   2|W  15|D  10|
+   KY | 14747103 / R:  554P14-> 511P19  |     |W    |B    |W    |W    |B    |
+      |            Q:  554P14-> 511P19  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-004-14725522>10</a> | <a href=MbrDtlMain.php?14725522>COLTON SAFAI</a>                    |2.5  |W  17|L   3|W  11|L   4|D   9|
+   KY | 14725522 / R:  414P15-> 440P20  |     |B    |W    |B    |B    |W    |
+      |            Q:  414P15-> 440P20  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-004-14588966>11</a> | <a href=MbrDtlMain.php?14588966>CONNOR KEENAN</a>                   |2.5  |L   1|W  17|L  10|D  13|W  15|
+   KY | 14588966 / R:  244   -> 296     |     |B    |W    |W    |B    |B    |
+      |            Q:  244   -> 296     |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-004-14711611>12</a> | <a href=MbrDtlMain.php?14711611>JULIAN ALEXANDER MARTINDALE</a>     |2.0  |L   7|L   9|B    |L   6|W  17|
+   KY | 14711611 / R:  151P14-> 155P18  |     |B    |W    |     |B    |W    |
+      |            Q:  151P14-> 155P18  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-004-14797938>13</a> | <a href=MbrDtlMain.php?14797938>HENRI ZAMANIAN</a>                  |2.0  |L   5|B    |D  16|D  11|L   7|
+   KY | 14797938 / R:  107P5 -> 144P9   |     |W    |     |B    |W    |B    |
+      |            Q:  107P5 -> 144P9   |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-004-14811101>14</a> | <a href=MbrDtlMain.php?14811101>JACOB MCQUADE FREELAND</a>          |2.0  |L  15|L   2|W  17|L  16|B    |
+   KY | 14811101 / R: Unrated-> 105P4   |     |W    |B    |B    |W    |     |
+      |            Q: Unrated-> 105P4   |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-004-14797923>15</a> | <a href=MbrDtlMain.php?14797923>BENJAMIN GREENBERG</a>              |1.5  |W  14|L   1|D   8|L   9|L  11|
+   KY | 14797923 / R:  455P5 -> 345P10  |     |B    |W    |W    |B    |W    |
+      |            Q:  454P5 -> 344P10  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-004-14724308>16</a> | <a href=MbrDtlMain.php?14724308>NICHOLAS M MCCLEVE</a>              |1.5  |L   4|L   8|D  13|W  14|L   6|
+   KY | 14724308 / R:  344P10-> 291P15  |     |W    |B    |W    |B    |W    |
+      |            Q:  343P10-> 290P15  |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+   <a href=XtblPlr.php?201201077722-004-14811164>17</a> | <a href=MbrDtlMain.php?14811164>LUCY EILEEN NAPIER</a>              |1.0  |L  10|L  11|L  14|B    |L  12|
+   KY | 14811164 / R: Unrated-> 101P4   |     |W    |B    |W    |     |B    |
+      |            Q: Unrated-> 101P4   |     |     |     |     |     |     |
+-----------------------------------------------------------------------------
+Note:  Performances satisfying the requirements for norms are now being shown for events in the *Total Pts* column.<br>It may take a week for a recently rated event to have norms computed for it.
+</pre>
+</td>
+</tr>
+</table>
+</table>
+</form>
+&nbsp;
+<p>
+<hr>
+<p>
+<center>
+<p>
+<p>
+<font size=-1>
+Session  / 0
+<br>Version 1.00b / 2003-10-16
+</font>
+<br>
+<font size=-1>
+<i>
+USCF Member Services Area - Copyright 2002-2012 by the <a href="http://www.USChess.org">US Chess Federation</a> -  All Rights Reserved
+<br><a href="http://msa.uschess.org/FAQ.php">Frequently Asked Questions</a>
+<br>Report problems to <a href="mailto:msafeedback@uschess.org">msafeedback@uschess.org</a>
+<br><a href="http://www.USChess.org">Return to USCF Home Page</a>
+</i>
+</font>
+</center>
+<p>
+<hr>
+<p>
+</body>
+</html>

@@ -1,0 +1,487 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+<title>USCF MSA - Cross Table for BCF $10 OPEN (Event 200707212251)</title>
+<style type='text/css'>
+body {margin-left: 10; margin-right: 10; margin-top: 0; margin-bottom: 0;  background-color: #40B7D3; min-width: 800px;}
+td {font: helvetica; color: black; font-size: 100%;}
+input {font: helvetica; font-size: 100%; color: black; font-weight: bold; padding-left: 4;}
+input.submit_debug {font: helvetica; font-size: 10pt; color: red; font-weight: normal; background-color: #BFBFBF;}
+input.submit {font: helvetica; font-size: 10pt; color: black; font-weight: normal; background-color: #BFBFBF;}
+input.submit_dis {font: helvetica; font-size: 10pt; color: grey; background-color: #BFBFBF;}
+select {font: helvetica; font-size: 10pt;  color: brown}
+a.topbar-line1 {font: helvetica; font-size: 100%; color: white; text-decoration: none; padding-left: 10;}
+a.topbar-line2 {font: helvetica; font-size: 100%; color: #0373A4; text-decoration: underline; padding-left: 10;}
+/* a {font: helvetica; font-size: 100%; color: black; text-decoration: none; padding-left: 10;} */
+
+/*  table {border: 2px solid red; margin: 0px;}
+td{border: 1px dotted purple; padding: 2px; } */
+
+table.topbar {border-style: none; border-width: 0; border: 0; margin: 0; padding: 0; cell-padding: 0; background-color: #40B7D3;}
+tr.topbar {padding: 5;  margin-top: 5; margin-bottom: 5; background-color: #40B7D3; }
+td.topbar {padding: 3; color: white; font: helvetica; font-size: 100%; font-weight: bold;}
+td.topbar-side {padding: 0; color: black; font: helvetica; font-size: 100%; background-color: #FFFFFF;}
+td.topbar-middle {padding: 0; color: black; font: helvetica; font-size: 100%; background-color: #FFFFFF;}
+td.topbar-line2 {padding: 0; padding: 3; font: helvetica; font-size: 100%; color: #0373A4; background-color: #C7EAFB;}
+td.topbar-line2-right {text-align: right; padding: 0; padding: 3; font: helvetica; font-size: 100%; color: #0373A4; background-color: #C7EAFB;}
+td.topbar-right {text-align: right; padding: 0; color: blue; font: helvetica; font-size: 100%;  background-color: #40B7D3;}
+span.right {text-align: right; background-color: #E0FFFF}
+</style></head>
+<body >
+<table width=100% class=topbar cellspacing=0><tr class=topbar></td><td class=topbar width=100% ><table cellspacing=0 class=topbar width=100%><tr class=topbar><td class=topbar >US Chess Federation - Member Services Area</td><td class=topbar-right >
+<a class=topbar-line1 href=http://main.uschess.org/content/blogcategory/30/319>Press</a>
+<a class=topbar-line1 href=http://main.uschess.org/content/view/7850/385>Advertising</a>
+<a class=topbar-line1 href=http://main.uschess.org/content/blogsection/12/35>About the USCF</a>
+<a class=topbar-line1 href=http://main.uschess.org/component/option,com_wrapper/Itemid,327>Contact Us</a></td></tr>
+</table></td></tr>
+
+<tr class=topbar>
+<td class=topbar-line2>
+<a class=topbar-line2 href=http://www.uschess.org>Return to USCF Home Page</a>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp;&nbsp;&nbsp;&nbsp;
+<a class=topbar-line2 href=Index.php>MSA Home</a>
+<a class=topbar-line2 href=http://www.uschess.org/datapage/player-search.php>Members</a>
+<a class=topbar-line2 href=AffLst.php>Affiliates</a>
+<a class=topbar-line2 href=http://www.uschess.org/datapage/event-search.php>Tournaments</a>
+<a class=topbar-line2 href=HelpTxt.php>Help</a>
+</td></tr>
+<tr class=topbar><td class=topbar-middle>
+<center>
+<table border=0 valign=top>
+
+<form method=post action=AffDtlMain.php>
+
+&nbsp;
+<p>
+<table border=1 bgcolor=FFFFFF cellpadding=0 cellspacing=0>
+<tr>
+<td>
+<table border=0 bgcolor=FFFFFF width=800 cellpadding=3 cellspacing=0>
+
+<tr>
+<td colspan=3 bgcolor=DDDDDD align=center>
+<b>Event Summary</b>
+</td>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Event
+</td>
+<td width=1 rowspan=10></td>
+<td>
+<b>BCF $10 OPEN</b> &nbsp;<small>(200707212251)</small>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE>
+Location
+</td>
+<td>
+<b>SOMERVILLE, MA &nbsp;02144 &nbsp;USA</b>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE>
+Event Date(s)
+</td>
+<td>
+<b>2007-07-21 </b>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE>
+Sponsoring Affiliate
+</td>
+<td>
+<b><a href=http://msa.uschess.org/AffDtlMain.php?A5000408>BOYLSTON CHESS CLUB</a></b> &nbsp;<small>(A5000408)</small>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE>
+Chief&nbsp; TD
+</td>
+<td>
+<b>BERNARDO IGLESIAS</b> &nbsp;<small>(12214270)</small>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE>
+Processed
+</td>
+<td>
+<b>Received: 2007-07-23 &nbsp; Entered: 2007-07-23 &nbsp; Rated: 2007-07-23</b>
+</td>
+</tr>
+
+<tr>
+<td bgcolor=EEEEEE valign=top>
+Stats
+</td>
+<td>
+<b>2 Section(s),&nbsp; 38 Players</b>
+<br><font color=blue>The ratings shown on this page are not official published ratings and may change from time to time.  Using them for pairing purposes in tournaments should only be done if this has been advertised in all advance publicity and is announced to all players at the tournament.</font>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table border=0 bgcolor=FFFFFF width=800 cellpadding=3 cellspacing=0>
+
+<tr>
+<td colspan=6 bgcolor=DDDDDD align=center>
+<b>Sections</b>
+</td>
+<tr bgcolor=EEEEEE>
+<td width=70 align=center valign=middle>
+<font color=A00000>
+<b><i>HINT:</I.</b>
+</font>
+</td>
+<td width=1></td>
+<td>
+<font color=A00000><b>
+&nbsp; * Click on a Section Name to see the cross table for that Section, &nbsp;<i>or</i>
+<br>
+&nbsp; * Click on "Show All Sections" to see the cross tables for all sections at once.
+<br>
+</b></font>
+</td>
+</tr>
+
+<tr>
+<td width=80 bgcolor=EEEEEE>
+Section 1
+</td>
+<td width=1></td>
+<td>
+<a href=XtblMain.php?200707212251.1><b>OPEN</b></a>
+</td>
+</tr>
+
+<tr>
+<td width=80 bgcolor=EEEEEE>
+Section 2
+</td>
+<td width=1></td>
+<td>
+<a href=XtblMain.php?200707212251.2><b>UNDER 1800</b></a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p>
+<a anchor="Section1"></a>
+<p>
+<table border=1 bgcolor=FFFFFF cellpadding=0 cellspacing=0>
+<tr>
+<td>
+<table border=0 width=800 bgcolor=FFFFFF  cellpadding=3 cellspacing=0>
+<tr>
+<td colspan=3 align=center bgcolor=DDDDFF>
+<b>Section 1 - OPEN</b>
+</td>
+</tr>
+
+<tr>
+<td width=120 bgcolor=EEEEEE>
+Section Date(s)
+</td>
+<td width=1></td>
+<td>
+<b>2007-07-21</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Processed
+</td>
+<td width=1></td>
+<td>
+<b>Received: 2007-07-23 &nbsp; Entered: 2007-07-23 &nbsp; Rated: 2007-07-23 Re-Rated: 2012-07-05</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Stats
+</td>
+<td width=1></td>
+<td>
+<b>4 Rounds,&nbsp; 18 Players;  &nbsp;K Factor: F  &nbsp;Rating Sys: D  &nbsp;Tnmt Type: S  <br>Time Control: GAME/60</b>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan=3>
+<pre>
+-----------------------------------------------------------------------
+<i> * Click on a Pairing Number to see the Player's Opponents.
+ * Click on a Player's Name for more information about the Player.</i>
+<font size=+2>Crosstable data is <b>not</b> shown in tiebreak order and <font color=red ><b><i>does NOT reflect <br>any distribution of trophies or prize monies.</font></font></b></i><a href=http://www.uschess.org/msa/FAQ.php>(See Frequent Questions)</a>
+<i>Crosstable data is shown as reported to the USCF by the Tournament Director.  <br>Please contact the TD to report any crosstable errors.</i>
+Note:  The information below the "Total Pts" score shows the highest norm earned in this event.<br>For more information on norms, see <a href=http://www.glicko.net/ratings/titles.pdf>The USCF Title System</a>.
+-----------------------------------------------------------------------
+ Pair | Player Name                     |Total|Round|Round|Round|Round| 
+ Num  | USCF ID / Rtg (Pre->Post)       | Pts |  1  |  2  |  3  |  4  | 
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?200707212251-001-12611870>1</a> | <a href=MbrDtlMain.php?12611870>CHARLES RIORDAN</a>                 |3.5  |W   9|D  11|W  12|W   4|
+   MA | 12611870 / R: 2309   ->2320     |N:C  |     |     |     |     |
+      |            Q: 2183   ->2193     |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?200707212251-001-10010985>2</a> | <a href=MbrDtlMain.php?10010985>CHRISTOPHER W CHASE</a>             |3.0  |W  15|D   5|D   3|W   8|
+   MA | 10010985 / R: 2324   ->2325     |N:C  |     |     |     |     |
+      |            Q: 2237   ->2233     |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?200707212251-001-13004012>3</a> | <a href=MbrDtlMain.php?13004012>DYLAND MOOCHING XUE</a>             |3.0  |D  18|W  13|D   2|W   5|
+   CT | 13004012 / R: 2109   ->2122     |N:1  |     |     |     |     |
+      |            Q: 1907   ->1940     |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?200707212251-001-12426279>4</a> | <a href=MbrDtlMain.php?12426279>DAVID VIGORITO</a>                  |2.5  |D  12|W  16|W   6|L   1|
+   MA | 12426279 / R: 2446   ->2432     |N:C  |     |     |     |     |
+      |            Q: 2362   ->2346     |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?200707212251-001-11096239>5</a> | <a href=MbrDtlMain.php?11096239>ALEX CHERNIACK</a>                  |2.5  |W   7|D   2|W  11|L   3|
+   MA | 11096239 / R: 2302   ->2296     |N:C  |     |     |     |     |
+      |            Q: 2088   ->2085     |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?200707212251-001-12594672>6</a> | <a href=MbrDtlMain.php?12594672>CAREY MILES THEIL</a>               |2.5  |H   0|W  18|L   4|W  13|
+   MA | 12594672 / R: 2104   ->2107     |     |     |     |     |     |
+      |            Q: 1936   ->1944     |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?200707212251-001-11480977>7</a> | <a href=MbrDtlMain.php?11480977>SCOTT DIDHAM</a>                    |2.5  |L   5|W  15|D   8|W  11|
+   MA | 11480977 / R: 1930   ->1962     |N:C  |     |     |     |     |
+      |            Q: 1767   ->1815     |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?200707212251-001-12718889>8</a> | <a href=MbrDtlMain.php?12718889>ANDREW E TICHENOR</a>               |2.0  |D  10|W  14|D   7|L   2|
+   VA | 12718889 / R: 2069   ->2059     |N:2  |     |     |     |     |
+      |            Q: 2007   ->1992     |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?200707212251-001-12842960>9</a> | <a href=MbrDtlMain.php?12842960>PHILIP A NUTZMAN</a>                |2.0  |L   1|L  17|B   0|W  15|
+   MA | 12842960 / R: 1981   ->1973     |     |     |     |     |     |
+      |            Q: 1831   ->1823     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?200707212251-001-12910390>10</a> | <a href=MbrDtlMain.php?12910390>FANGRU JIANG</a>                    |2.0  |D   8|L  12|D  16|W  17|
+   MA | 12910390 / R: 1638   ->1697     |N:2  |     |     |     |     |
+      |            Q: 1241   ->1370     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?200707212251-001-12671059>11</a> | <a href=MbrDtlMain.php?12671059>BENJAMIN D GOLDBERG</a>             |1.5  |W  17|D   1|L   5|L   7|
+   RI | 12671059 / R: 2099   ->2090     |N:2  |     |     |     |     |
+      |            Q: 1854   ->1849     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?200707212251-001-12758853>12</a> | <a href=MbrDtlMain.php?12758853>BENNET PELLOWS</a>                  |1.5  |D   4|W  10|L   1|U   0|
+   MA | 12758853 / R: 2042   ->2048     |     |     |     |     |     |
+      |            Q: 1889   ->1896     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?200707212251-001-12297410>13</a> | <a href=MbrDtlMain.php?12297410>PAUL SCIARAFFA</a>                  |1.5  |H   0|L   3|W  17|L   6|
+   MA | 12297410 / R: 1808   ->1812     |     |     |     |     |     |
+      |            Q: 1755   ->1749     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?200707212251-001-12910963>14</a> | <a href=MbrDtlMain.php?12910963>GENESIS LUNG</a>                    |1.5  |H   0|L   8|L  15|B   0|
+   MA | 12910963 / R: 1701   ->1693     |     |     |     |     |     |
+      |            Q: 1620   ->1611     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?200707212251-001-10011191>15</a> | <a href=MbrDtlMain.php?10011191>ARTHUR P NUGENT</a>                 |1.0  |L   2|L   7|W  14|L   9|
+   MA | 10011191 / R: 2007   ->2000     |     |     |     |     |     |
+      |            Q: 1903   ->1900     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?200707212251-001-12846588>16</a> | <a href=MbrDtlMain.php?12846588>ANDREW C WANG</a>                   |1.0  |H   0|L   4|D  10|U   0|
+   MA | 12846588 / R: 2007   ->1999     |     |     |     |     |     |
+      |            Q: 1853   ->1841     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?200707212251-001-12910964>17</a> | <a href=MbrDtlMain.php?12910964>JAMES LUNG</a>                      |1.0  |L  11|W   9|L  13|L  10|
+   MA | 12910964 / R: 1782   ->1771     |     |     |     |     |     |
+      |            Q: 1627   ->1609     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?200707212251-001-11366805>18</a> | <a href=MbrDtlMain.php?11366805>NATASHA C CHRISTIANSEN</a>          |0.5  |D   3|L   6|U   0|U   0|
+   MA | 11366805 / R: 1817   ->1822     |     |     |     |     |     |
+      |            Q: 1716   ->1718     |     |     |     |     |     |
+-----------------------------------------------------------------------
+Note:  Performances satisfying the requirements for norms are now being shown for events in the *Total Pts* column.<br>It may take a week for a recently rated event to have norms computed for it.
+</pre>
+</td>
+</tr>
+</table>
+<p>
+<a anchor="Section2"></a>
+<p>
+<table border=1 bgcolor=FFFFFF cellpadding=0 cellspacing=0>
+<tr>
+<td>
+<table border=0 width=800 bgcolor=FFFFFF  cellpadding=3 cellspacing=0>
+<tr>
+<td colspan=3 align=center bgcolor=DDDDFF>
+<b>Section 2 - UNDER 1800</b>
+</td>
+</tr>
+
+<tr>
+<td width=120 bgcolor=EEEEEE>
+Section Date(s)
+</td>
+<td width=1></td>
+<td>
+<b>2007-07-21</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Processed
+</td>
+<td width=1></td>
+<td>
+<b>Received: 2007-07-23 &nbsp; Entered: 2007-07-23 &nbsp; Rated: 2007-07-23 Re-Rated: 2013-06-20</b>
+</td>
+</tr>
+
+<tr>
+<td width=70 bgcolor=EEEEEE>
+Stats
+</td>
+<td width=1></td>
+<td>
+<b>4 Rounds,&nbsp; 20 Players;  &nbsp;K Factor: F  &nbsp;Rating Sys: D  &nbsp;Tnmt Type: S  <br>Time Control: GAME/60</b>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan=3>
+<pre>
+-----------------------------------------------------------------------
+<i> * Click on a Pairing Number to see the Player's Opponents.
+ * Click on a Player's Name for more information about the Player.</i>
+<font size=+2>Crosstable data is <b>not</b> shown in tiebreak order and <font color=red ><b><i>does NOT reflect <br>any distribution of trophies or prize monies.</font></font></b></i><a href=http://www.uschess.org/msa/FAQ.php>(See Frequent Questions)</a>
+<i>Crosstable data is shown as reported to the USCF by the Tournament Director.  <br>Please contact the TD to report any crosstable errors.</i>
+Note:  The information below the "Total Pts" score shows the highest norm earned in this event.<br>For more information on norms, see <a href=http://www.glicko.net/ratings/titles.pdf>The USCF Title System</a>.
+-----------------------------------------------------------------------
+ Pair | Player Name                     |Total|Round|Round|Round|Round| 
+ Num  | USCF ID / Rtg (Pre->Post)       | Pts |  1  |  2  |  3  |  4  | 
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?200707212251-002-12686284>1</a> | <a href=MbrDtlMain.php?12686284>DAVID SCULLEY</a>                   |4.0  |W  17|W  12|W   5|W   3|
+   PA | 12686284 / R: 1625   ->1683     |N:2  |     |     |     |     |
+      |            Q: 1442P23->1546     |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?200707212251-002-10004110>2</a> | <a href=MbrDtlMain.php?10004110>EDMUND STAPLES</a>                  |3.0  |W  14|W  11|L   3|W   7|
+   MA | 10004110 / R: 1683   ->1678     |N:3  |     |     |     |     |
+      |            Q: 1481   ->1487     |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?200707212251-002-12910965>3</a> | <a href=MbrDtlMain.php?12910965>TIMOTHY LUNG</a>                    |3.0  |W  20|W   4|W   2|L   1|
+   MA | 12910965 / R: 1434   ->1554     |N:2  |     |     |     |     |
+      |            Q: 1373   ->1463     |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?200707212251-002-12804554>4</a> | <a href=MbrDtlMain.php?12804554>WINBER XU</a>                       |2.5  |W  18|L   3|W  15|H   0|
+   MA | 12804554 / R: 1605   ->1592     |     |     |     |     |     |
+      |            Q: 1429   ->1421     |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?200707212251-002-12841674>5</a> | <a href=MbrDtlMain.php?12841674>RICHARD A LUNETTA II</a>            |2.5  |D   8|W  13|L   1|W  15|
+   MA | 12841674 / R: 1544   ->1536     |N:4  |     |     |     |     |
+      |            Q: 1421   ->1415     |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?200707212251-002-13196812>6</a> | <a href=MbrDtlMain.php?13196812>ASHVIN NAIR</a>                     |2.5  |W  19|D  15|H   0|H   0|
+   MA | 13196812 / R: 1505   ->1518     |     |     |     |     |     |
+      |            Q: 1359   ->1380     |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?200707212251-002-12659519>7</a> | <a href=MbrDtlMain.php?12659519>ROBERT ORESICK</a>                  |2.5  |H   0|W  10|W   8|L   2|
+   MA | 12659519 / R: 1441   ->1472     |     |     |     |     |     |
+      |            Q: 1307   ->1347     |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?200707212251-002-13097782>8</a> | <a href=MbrDtlMain.php?13097782>ALEX Z HU</a>                       |2.5  |D   5|W  19|L   7|W  16|
+   MA | 13097782 / R: 1148   ->1249     |N:4  |     |     |     |     |
+      |            Q: 1113   ->1205     |     |     |     |     |     |
+-----------------------------------------------------------------------
+    <a href=XtblPlr.php?200707212251-002-12859758>9</a> | <a href=MbrDtlMain.php?12859758>SEAN THOMAS INGHAM</a>              |2.5  |L  11|B   0|D  10|W  12|
+   MA | 12859758 / R:  924P16->1049P19  |     |     |     |     |     |
+      |            Q:  810P17-> 938P20  |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?200707212251-002-12888390>10</a> | <a href=MbrDtlMain.php?12888390>EDWARD FOYE</a>                     |2.0  |H   0|L   7|D   9|B   0|
+   MA | 12888390 / R: 1600   ->1600     |     |     |     |     |     |
+      |            Q: 1451   ->1409     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?200707212251-002-13692342>11</a> | <a href=MbrDtlMain.php?13692342>NATHAN SMOLENSKY</a>                |1.5  |W   9|L   2|D  12|U   0|
+   MA | 13692342 / R: 1421P11->1414P14  |     |     |     |     |     |
+      |            Q: 1204P6 ->1212P9   |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?200707212251-002-12778775>12</a> | <a href=MbrDtlMain.php?12778775>RYAN K OTTAVIANO</a>                |1.5  |W  16|L   1|D  11|L   9|
+   GA | 12778775 / R: 1436   ->1398     |     |     |     |     |     |
+      |            Q: 1307   ->1261     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?200707212251-002-12863574>13</a> | <a href=MbrDtlMain.php?12863574>CLARA C WANG</a>                    |1.5  |H   0|L   5|W  18|U   0|
+   MA | 12863574 / R: 1402   ->1398     |     |     |     |     |     |
+      |            Q: 1271   ->1267     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?200707212251-002-13218902>14</a> | <a href=MbrDtlMain.php?13218902>ADAM DA-ZHEN YEE</a>                |1.5  |L   2|D  18|H   0|H   0|
+   MA | 13218902 / R: 1317   ->1305     |     |     |     |     |     |
+      |            Q: 1277   ->1254     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?200707212251-002-13070648>15</a> | <a href=MbrDtlMain.php?13070648>BILLY MA</a>                        |1.5  |B   0|D   6|L   4|L   5|
+   MA | 13070648 / R: 1183   ->1191     |     |     |     |     |     |
+      |            Q: 1128   ->1127     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?200707212251-002-13164465>16</a> | <a href=MbrDtlMain.php?13164465>MAX CHIA-HSIN LU</a>                |1.5  |L  12|D  17|B   0|L   8|
+   MA | 13164465 / R:  851   -> 871     |     |     |     |     |     |
+      |            Q:  838   -> 854     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?200707212251-002-12593835>17</a> | <a href=MbrDtlMain.php?12593835>MICHAEL G YEZUKEVICH</a>            |0.5  |L   1|D  16|U   0|U   0|
+   MA | 12593835 / R: 1572   ->1544     |     |     |     |     |     |
+      |            Q: 1531   ->1498     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?200707212251-002-13192604>18</a> | <a href=MbrDtlMain.php?13192604>ANTHONY SCALI</a>                   |0.5  |L   4|D  14|L  13|U   0|
+   MA | 13192604 / R: 1204   ->1195     |     |     |     |     |     |
+      |            Q: 1073   ->1066     |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?200707212251-002-12413680>19</a> | <a href=MbrDtlMain.php?12413680>JOHN WATTERS</a>                    |0.0  |L   6|L   8|U   0|U   0|
+   MA | 12413680 / R: 1714   ->1667     |     |     |     |     |     |
+      |            Q: 1672P14->1583P16  |     |     |     |     |     |
+-----------------------------------------------------------------------
+   <a href=XtblPlr.php?200707212251-002-10013518>20</a> | <a href=MbrDtlMain.php?10013518>WILLIAM J MAC LELLAN</a>            |0.0  |L   3|U   0|U   0|U   0|
+   MA | 10013518 / R: 1600   ->1600     |     |     |     |     |     |
+      |            Q: 1432   ->1413     |     |     |     |     |     |
+-----------------------------------------------------------------------
+Note:  Performances satisfying the requirements for norms are now being shown for events in the *Total Pts* column.<br>It may take a week for a recently rated event to have norms computed for it.
+</pre>
+</td>
+</tr>
+</table>
+</table>
+</form>
+&nbsp;
+<p>
+<hr>
+<p>
+<center>
+<p>
+<p>
+<font size=-1>
+Session  / 0
+<br>Version 1.00b / 2003-10-16
+</font>
+<br>
+<font size=-1>
+<i>
+USCF Member Services Area - Copyright 2002-2012 by the <a href="http://www.USChess.org">US Chess Federation</a> -  All Rights Reserved
+<br><a href="http://msa.uschess.org/FAQ.php">Frequently Asked Questions</a>
+<br>Report problems to <a href="mailto:msafeedback@uschess.org">msafeedback@uschess.org</a>
+<br><a href="http://www.USChess.org">Return to USCF Home Page</a>
+</i>
+</font>
+</center>
+<p>
+<hr>
+<p>
+</body>
+</html>
